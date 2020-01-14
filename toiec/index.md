@@ -1,7 +1,7 @@
 ## TOIEC Larousse
 
 [Chapter 1 - Banking and Personal Finance](lrch01)  
-Chapter 2 - In the Office 
+Chapter 2 - In the Office  
 [Chapter 3 - Travel](lrch03)  
 [Mini Test 1](lrmt1)  
 [Chapter 4 - Real Estate](lrch04)  
@@ -10,10 +10,10 @@ Chapter 2 - In the Office
 [Mini Test 2](lrmt2)  
 [Chapter 7 - Health](lrch07)  
 [Chapter 8 - Business Development](lrch08)  
-Chapter 9 - Purchasing 
-Chapter 10 - Eating Out
+Chapter 9 - Purchasing  
+Chapter 10 - Eating Out  
 Mini Test 3  
-Chapter 11 - Leisure 
-Chapter 12 - General Business Activities
-Chapter 13 - Technology
+Chapter 11 - Leisure  
+Chapter 12 - General Business Activities  
+Chapter 13 - Technology  
 Mini Test 4
