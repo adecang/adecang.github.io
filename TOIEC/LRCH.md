@@ -4,11 +4,7 @@
 
 - [TOIEC Larousse](#toiec-larousse)
   * [Chapter 1 - Banking and Personal Finance](#chapter-1---banking-and-personal-finance)
-    + [Track 2 page 9](#track-2-page-9)
-    + [Track 3 page 9](#track-3-page-9)
-    + [Track 4 page 9](#track-4-page-9)
-    + [Track 5 page 11](#track-5-page-11)
-    + [Track 6 page 15 - Kristina Martins](#track-6-page-15---kristina-martins)
+    
   * [Chapter 2 - Office Life - not done yet](#chapter-2---office-life---not-done-yet)
   * [Chapter 3 - Travel](#chapter-3---travel)
     + [General Vocab - Track 11](#general-vocab---track-11)
@@ -167,6 +163,12 @@
 
 ## Chapter 1 - Banking and Personal Finance
 
++ [Track 2 page 9](#track-2-page-9)
+    + [Track 3 page 9](#track-3-page-9)
+    + [Track 4 page 9](#track-4-page-9)
+    + [Track 5 page 11](#track-5-page-11)
+    + [Track 6 page 15 - Kristina Martins](#track-6-page-15---kristina-martins)
+    
 1.  The woman is writing a check
 2.  The ATM is out of order
 3.  They’re queuing outside the bank
