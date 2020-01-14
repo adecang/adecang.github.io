@@ -9,7 +9,7 @@
   * [Chapter 4 - Real Estate](#chapter-4---real-estate)
   * [Chapter 5 - Human Resources](#chapter-5---human-resources)
   * [Chapter 6 - Production](#chapter-6---production)
-  * [TOIEC LR Chapter 7 - Health](#toiec-lr-chapter-7---health)
+  * [Chapter 7 - Health](#chapter-7---health)
   * [Chapter 8 - Business Development](#chapter-8---business-development)
   * [Chapter 9 - Purchasing - not done yet](#chapter-9---purchasing---not-done-yet)
   * [Chapter 10 - Eating Out - not done yet](#chapter-10---eating-out---not-done-yet)   
@@ -1012,7 +1012,7 @@ to keep a promise: tenir une promesse
 
 
 
-## TOIEC LR Chapter 7 - Health
+## Chapter 7 - Health
 
 - [TOIEC LR Chapter 7 - Health](#toiec-lr-chapter-7---health)
   * [CH07-72 T46 Picture Questions](#ch07-72-t46-picture-questions)
