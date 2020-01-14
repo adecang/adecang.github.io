@@ -1,3 +1,3 @@
 *Alain Decang's E.T. site*
 
-## [TOIEC](toiec/index)
+## [TOIEC LR](toiec_lr/index)
