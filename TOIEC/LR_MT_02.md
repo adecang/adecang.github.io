@@ -1,26 +1,24 @@
-### TOEIC LR Mini Test 2
-
-
+## TOEIC LR Mini Test 2
 
 [TOC]
 
-#### Part 1 page 64 - T42
+### Part 1 page 64 - T42
 
-##### 1- Picture 1
+#### 1- Picture 1
 
 ​	A:  They're travelling by car  
 ​	B:  There are many cars on the highway  
 ​	**C:  The cars are being transported to the dealership**  
 ​	D: The truck is stopped by the roadside
 
-##### 2- Picture 2
+#### 2- Picture 2
 
 ​	A: They're putting everything into boxes  
 ​	B: **They're moving into a new house**  
 ​	C: They are opening the doors  
 ​	D:  The house is completely empty
 
-#### Part 2 page 64 - T43
+### Part 2 page 64 - T43
 
 3- I didn't see you on the training course this morning   
 	**A: I called in sick**  
@@ -62,11 +60,9 @@
 	**B: They're holding a viewing this week-end**  
 	C: It's just a short visit
 
+### Part 3 page 65 - T44
 
-
-#### Part 3 page 65 - T44
-
-##### Conversation 1 : questions 11 to 13
+#### Conversation 1 : questions 11 to 13
 
 *M: Have you seen this email? They're launching a personal development program. It's about someting you'd like to do which can be job-related or not.  
 W: So what types of things?  
@@ -77,7 +73,7 @@ W: Interesting. I'll have to have a look this afternoon.*
 12- What does the man explain about the internet? **B: It contains a list of options**  
 13- What does the woman decide to do? **C: She will look at it later**
 
-##### Conversation 2: questions 14 to 16
+#### Conversation 2: questions 14 to 16
 
 *W1: that house has been on the market for weeks. I sometimes wonder if they'll ever be able to sell it.  
 M: I don't know. I think it has potential but we haven't found the right person yet.  
@@ -91,9 +87,9 @@ M: We've been down that road before but I guess we can try again.*
 
 
 
-#### Part 4 page 66 - T45
+### Part 4 page 66 - T45
 
-##### Talk 1 : questions 17 to 19
+#### Talk 1 : questions 17 to 19
 
 *So that brings us to the production figures for last year. As you know, we have four plants which have alla had varying success over the last twelve months. For each one you can see the quota and the actual figures. In our two oldest plants we were more or less on quota even if we fell slightly under by the end of the year. Detroit only opened in the middle of the year so despite appearing under quota, the figure on that chart shows an annual quota. So in fact we're very please with the way that it started. for our fourth plant you can really see the effect of both the breakdowns and the subsequent worker strike, which means we are a long way below  where we planned. I think it will be fair to say we are disappointed with the management of that situation.*
 
@@ -102,7 +98,7 @@ M: We've been down that road before but I guess we can try again.*
 18- Look at the graphic. At which site are they disappointed with the management? **D: Greenville**  
 19- What does he explain about Detroit? **B: It opened recently**
 
-##### Talk 2: questions 20 to 22
+#### Talk 2: questions 20 to 22
 
 *OK everyone. If we're all here we should just about be ready to start. Your first speaker today is Clive Gosling. He has worked with politicians, budsiness leaders and top executives and we're very happy to have him here to give you a guide to effective presentations. You'll find a full schedule of today's speakers on the agenda I've left you at the back of the room. So take a copy and hopefully by the end of today you'll be ready to meet your objectives for this quarter and bring new clients to our portfolio. So I'll leave you now and in just a few minutes Clive Gosling and his Effective Presentations will be here.* 
 
@@ -112,7 +108,7 @@ M: We've been down that road before but I guess we can try again.*
 
 
 
-#### Part 5 page 67
+### Part 5 page 67
 
 101C  
 Directors had to admit in terms of technology they had **fallen behind** their competitors (avaient pris du retard).  
@@ -144,9 +140,7 @@ Company profits increased for the third year **in a row** (à la file) due to ca
 110C  
 John and Stephen Brooke hatched (ont fait éclore = ont démarré) a **business venture** (une entreprise, avec une idée de risque) from their garage that turned into a billion-dollar entreprise.
 
-
-
-#### Part 6 page 68
+### Part 6 page 68
 
 111 B : **We have decided**  
 Constat d'une décison prise dans le passé, avec des conséquences présentes : present perfect simple [HAVE+PP] (grammaire)
@@ -160,11 +154,9 @@ Nous ne pouvons pas fonctionner sans réserve de personnel (compréhension)
 114 D: They must be sent **to** HR  
 Envoyer à : idée de mouvement vers => to
 
+### Part 7 pages 69-71
 
-
-#### Part 7 pages 69-71
-
-##### Document 1 page 69
+#### Document 1 page 69
 
 115 B: **A furniture supplier**  
 Ils doivent vernir les bureaux avant de les livrer (varnish) mais le rembourrage des sièges est fait (upholstery)
@@ -175,7 +167,7 @@ They don't have the right varnish and the  coasters (sous-verres)
 117 A: **butter them up** = adoucir, calmer, brosser dans le sens du poil  
 Devinable d'après le contexte
 
-##### Document 2 pages 70-71
+#### Document 2 pages 70-71
 
 118 B: **the economy is unstable** (first document)  
 Il est question de l'abandon possible d'un projet immobilier (Sunrise Hights) par le promoteur Empire Construction à cause de la conjoncture économique fragile.
