@@ -2,7 +2,168 @@
 
 [TOC]
 
-
+- [TOIEC Larousse](#toiec-larousse)
+  * [Chapter 1 - Banking and Personal Finance](#chapter-1---banking-and-personal-finance)
+    + [Track 2 page 9](#track-2-page-9)
+    + [Track 3 page 9](#track-3-page-9)
+    + [Track 4 page 9](#track-4-page-9)
+    + [Track 5 page 11](#track-5-page-11)
+    + [Track 6 page 15 - Kristina Martins](#track-6-page-15---kristina-martins)
+  * [Chapter 2 - Office Life - not done yet](#chapter-2---office-life---not-done-yet)
+  * [Chapter 3 - Travel](#chapter-3---travel)
+    + [General Vocab - Track 11](#general-vocab---track-11)
+    + [Reading advertisements - track 12](#reading-advertisements---track-12)
+    + [Checking out a website](#checking-out-a-website)
+      - [Track 13](#track-13)
+      - [Track 14](#track-14)
+      - [Track 15](#track-15)
+    + [Grammar Corner](#grammar-corner)
+      - [Track 16 page 28](#track-16-page-28)
+    + [Combining Listening with Reading](#combining-listening-with-reading)
+      - [Track 17 page 30](#track-17-page-30)
+  * [Chapter 4 - Real Estate](#chapter-4---real-estate)
+    + [General](#general)
+      - [Track  22 - conversation 1](#track--22---conversation-1)
+      - [Track 23 - conversation 2](#track-23---conversation-2)
+      - [Track 24 - conversation 3](#track-24---conversation-3)
+      - [Track 25 - conversation 4](#track-25---conversation-4)
+    + [T26-28 Choosing the right place](#t26-28-choosing-the-right-place)
+      - [Track 26 : Lisa](#track-26---lisa)
+      - [Track 27 : Greg](#track-27---greg)
+      - [Track 28 : Kamara](#track-28---kamara)
+    + [TOEIC LR 4-43 Question Response](#toeic-lr-4-43-question-response)
+      - [Track 29](#track-29)
+    + [T30 - Heloise Clarke, project manager](#t30---heloise-clarke--project-manager)
+  * [Chapter 5 - Human Resources](#chapter-5---human-resources)
+    + [T31 Picture questions](#t31-picture-questions)
+      - [T31 page 8](#t31-page-8)
+      - [Vocab Builder page 8](#vocab-builder-page-8)
+    + [Human Resources - Vocab Builder](#human-resources---vocab-builder)
+    + [A day in the life of an HR director](#a-day-in-the-life-of-an-hr-director)
+      - [T32 - Nehla Clough](#t32---nehla-clough)
+        * [Vocabulary](#vocabulary)
+      - [T33 - Stan Pearce](#t33---stan-pearce)
+      - [Vocabulary](#vocabulary-1)
+      - [T34 - Sophie Webb](#t34---sophie-webb)
+      - [Vocabulary](#vocabulary-2)
+    + [CH05-50 T35 Question Response](#ch05-50-t35-question-response)
+    + [CH05-51 T36 Listening to a presentation - Katia Chandler](#ch05-51-t36-listening-to-a-presentation---katia-chandler)
+    + [CH05-52 Talent Conference in Lisbon](#ch05-52-talent-conference-in-lisbon)
+    + [CH05-55 T37 Identifying information - job seekers](#ch05-55-t37-identifying-information---job-seekers)
+    + [Altrium job offer](#altrium-job-offer)
+  * [Chapter 6 - Production](#chapter-6---production)
+    + [Page 56 - T38 Picture Questions](#page-56---t38-picture-questions)
+    + [Page 57 - T39 Delivery problems](#page-57---t39-delivery-problems)
+      - [Vocabulary](#vocabulary-3)
+      - [Grammar : past and present perfect](#grammar---past-and-present-perfect)
+    + [Page 59  - T40 Logistics](#page-59----t40-logistics)
+      - [Vocabulary](#vocabulary-4)
+      - [Grammar: present perfect](#grammar--present-perfect)
+    + [Page 61 - T41 Describing a production process](#page-61---t41-describing-a-production-process)
+      - [Vocabulary](#vocabulary-5)
+      - [Grammar: the passive voice](#grammar--the-passive-voice)
+    + [Pages 62-63 -  An industrial dispute](#pages-62-63----an-industrial-dispute)
+  * [TOIEC LR Chapter 7 - Health](#toiec-lr-chapter-7---health)
+    + [CH07-72 T46 Picture Questions](#ch07-72-t46-picture-questions)
+    + [CH07-73 Article - Alternative Medicine](#ch07-73-article---alternative-medicine)
+    + [CH07-75 T47 Describing medical problems](#ch07-75-t47-describing-medical-problems)
+    + [CH07-78 T48 Giving advice](#ch07-78-t48-giving-advice)
+    + [CH07-79 T49-51 Grand Central Health Club](#ch07-79-t49-51-grand-central-health-club)
+      - [T49 Rebecca](#t49-rebecca)
+      - [T50 Dan and Chloe](#t50-dan-and-chloe)
+      - [T51 Diane](#t51-diane)
+  * [Chapter 8 - Business Development](#chapter-8---business-development)
+    + [Page 80](#page-80)
+      - [Vocab builder](#vocab-builder)
+      - [Track 52](#track-52)
+    + [Page 81 - Reading a Job Ad](#page-81---reading-a-job-ad)
+      - [Vocabulary](#vocabulary-6)
+      - [Answers](#answers)
+    + [Page 82 - Present Perfect](#page-82---present-perfect)
+      - [Grammar Corner 1](#grammar-corner-1)
+      - [Find the mistake](#find-the-mistake)
+    + [Page 83 - Understanding opinions](#page-83---understanding-opinions)
+      - [Vocabulary to revise](#vocabulary-to-revise)
+      - [Track 53](#track-53)
+    + [Page 84 - Prepositions of time](#page-84---prepositions-of-time)
+      - [Filling the gaps in a text](#filling-the-gaps-in-a-text)
+    + [Page 85 Conversations](#page-85-conversations)
+      - [Track 54 : Farrah Read](#track-54---farrah-read)
+      - [Track 55: Matthiew Rice](#track-55--matthiew-rice)
+      - [Track 56: Sarah Fields](#track-56--sarah-fields)
+    + [Page 86 - Combining information](#page-86---combining-information)
+      - [Business strategy starts at home](#business-strategy-starts-at-home)
+      - [Track 57 Kate and James](#track-57-kate-and-james)
+  * [Chapter 9 - Purchasing - not done yet](#chapter-9---purchasing---not-done-yet)
+    + [Page  88 Vocab builder](#page--88-vocab-builder)
+        * [Track 58](#track-58)
+    + [Page 89 - An Open Tender](#page-89---an-open-tender)
+    + [Page 90 - Homophones](#page-90---homophones)
+    + [Page 83 - Understanding opinions](#page-83---understanding-opinions-1)
+      - [Track 53](#track-53-1)
+    + [Page 84 - Prepositions of time](#page-84---prepositions-of-time-1)
+    + [Page 85 Conversations](#page-85-conversations-1)
+      - [Track 54](#track-54)
+      - [Track 55](#track-55)
+      - [Track 56](#track-56)
+    + [Page 86 - Combining information](#page-86---combining-information-1)
+      - [Track 57](#track-57)
+  * [Chapter 10 - Eating Out - not done yet](#chapter-10---eating-out---not-done-yet)
+    + [Page](#page)
+      - [Track](#track)
+    + [Page](#page-1)
+    + [Page](#page-2)
+    + [Page](#page-3)
+      - [Track](#track-1)
+    + [Page](#page-4)
+    + [Page](#page-5)
+      - [Track](#track-2)
+      - [Track](#track-3)
+      - [Track](#track-4)
+    + [Page](#page-6)
+      - [Track](#track-5)
+  * [Chapter 11 - Leisure - not done yet](#chapter-11---leisure---not-done-yet)
+    + [Page](#page-7)
+      - [Track](#track-6)
+    + [Page](#page-8)
+    + [Page](#page-9)
+    + [Page](#page-10)
+      - [Track](#track-7)
+    + [Page](#page-11)
+    + [Page](#page-12)
+      - [Track](#track-8)
+      - [Track](#track-9)
+      - [Track](#track-10)
+    + [Page](#page-13)
+      - [Track](#track-11)
+  * [Chapter 12 General Business Activities - not done yet](#chapter-12-general-business-activities---not-done-yet)
+    + [Page](#page-14)
+      - [Track](#track-12)
+    + [Page](#page-15)
+    + [Page](#page-16)
+    + [Page](#page-17)
+      - [Track](#track-13)
+    + [Page](#page-18)
+    + [Page](#page-19)
+      - [Track](#track-14)
+      - [Track](#track-15)
+      - [Track](#track-16)
+    + [Page](#page-20)
+      - [Track](#track-17)
+  * [Chapter 13 - Technology - not done yet](#chapter-13---technology---not-done-yet)
+    + [Page](#page-21)
+      - [Track](#track-18)
+    + [Page](#page-22)
+    + [Page](#page-23)
+    + [Page](#page-24)
+      - [Track](#track-19)
+    + [Page](#page-25)
+    + [Page](#page-26)
+      - [Track](#track-20)
+      - [Track](#track-21)
+      - [Track](#track-22)
+    + [Page](#page-27)
+      - [Track](#track-23)
 
 ## Chapter 1 - Banking and Personal Finance
 
@@ -441,6 +602,8 @@ L’aide sociale : social security (GB) ; welfare (US)
 | être au chômage/sans emploi           | to be unemployed/out of work/out of a job |
 | l’aide sociale                        | social security (GB) ; welfare (US)       |
 
+
+
 ### A day in the life of an HR director
 
 #### T32 - Nehla Clough
@@ -754,11 +917,9 @@ UI : User Interface, interface utilisateur
 A – Your driver just arrived here and we have two broken pallets in the truck. I’m sorry but I can’t pay for that.  
 
 <details><summary></summary>4 – I’m very sorry to hear that. Tell the driver to  bring us back the damaged goods and I’ll express deliver replacements for you.</details>
-
 B – We were supposed to be delivered this morning. It’s now three o’clock and I want to know if we are going to get our supplies today or not.  
 
 <details><summary></summary>2 – We did warn customers that the snow would slow delivery down. As you’re a loyal customer, I’ll put you down as top priority. </details>
-
 C – Your delivery guy must have been here around six o’clock this morning. He’s just dumped our supplies outside on the street. Anybody could have walked off with it.  
 
 
@@ -766,7 +927,6 @@ C – Your delivery guy must have been here around six o’clock this morning. H
 D – Our order arrived this afternoon and I notice we only have eight bags of sand. I’m sure we ordered more than that because we are going to need at least two more bags.
 
 <details><summary></summary>1 – I’m just checking your order. I see you did in fact order 10 bags of sand. I’m very sorry. I’ll have them sent over straight away.</details>
-
 E – I’ve been calling your order line all morning. It has been ringing off the hook. Have you guys all taken a day off?  
 
 
@@ -774,11 +934,9 @@ E – I’ve been calling your order line all morning. It has been ringing off t
 F – How quickly can you deliver? because we have a big job here and we need to get it finished by Monday morning.
 
 <details><summary></summary>5 – It normally takes two to three working days. If you need it before the week-end, we can do that, but there will be an extra charge. </details>
-
 G – We got our supplies yesterday but I think there has been a mistake. We’re working on the foundations and what you’ve sent us isn’t at all the right product for that.
 
 <details><summary></summary>3 – We have three types of mortar. It is written quite clearly in our brochure. If you want to make an exchange, I can handle that for you.</details>
-
 ---
 
 #### Vocabulary
