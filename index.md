@@ -1,4 +1,4 @@
 
 ## Welcome to my E.T. site
   
-**[TOIEC](adecang.github.io/master/TOIEC)**
+**[TOIEC](https://github.com/adecang/adecang.github.io/edit/master/index.md)**
