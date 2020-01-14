@@ -1,3 +1,3 @@
 ## TOIEC Larousse
 
-###  [Chapter 1 - Banking and Personal Finance](lrch01)
+[Chapter 1 - Banking and Personal Finance](lrch01)
