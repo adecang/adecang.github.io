@@ -20,7 +20,7 @@
 
 ## Chapter 1 - Banking and Personal Finance
 
-### Page 8 - Introduction
+### CH1 page 8 - Introduction
 
 #### Track 1 - Picture Questions
 
@@ -44,7 +44,7 @@ To draw conclusions : tirer des conclusions
 A drawn face: les traits tirés  
 to go overdrawn : à découvert (retiré trop d'argent)
 
-### Page 9 - Kelly Holmes, an account adviser
+### CH1 page 9 - Kelly Holmes, an account adviser
 
 #### Track 2 - Kay Singh
 
@@ -90,7 +90,7 @@ a state : ici : un des 50 états des US
 ID : identification  
 your account details : votre numéro de compte
 
-### Page 11 - Financial Advice
+### CH1 page 11 - Financial Advice
 
 #### Track 5
 
@@ -108,7 +108,7 @@ F. I feel like my purchasing power is going down year on year. My salary has sta
 
 G. If we want to be more competitive we really need to upgrade our computer systems but we just don’t have the money right now.
 
-### Page 15 - Kristina Martins
+### CH1 page 15 - Kristina Martins
 
 #### Track 6
 
@@ -121,18 +121,21 @@ Labour costs account for the second largest expense and this goes hand in hand w
 The first thing that surprised me when you contacted me was how little brand name recognition you have. The products are of a very high standard, which justifies the prices you choose but nobody can sell high quality products if the brand isn’t well known.
 
 If we can cut five percent off our fixed costs and another seven or eight percent off labour costs and production my suggestion would be to give at least half of that over to marketing. You’d still be lowering expenses but with well-targeted campaigns you could make a significant difference to sales as well as profits, which is after all the bottom line.
+
 <a href="#TOP">Go back to top</a>
 
 ## Chapter 2 - Office Life
 
-*Not done yet*
+*Not done yet*  
 <a href="#TOP">Go back to top</a>
 
 ## Chapter 3 - Travel
 
-### Page 24 - Introduction
+<a href="#TOP">Go back to top</a>
 
-#### Track 11-  Picture Questions
+### CH3 page 24 - Introduction
+
+#### Track 11 -  Picture Questions
 
 1  
 This is a passenger announcement. For the next four weeks, the Central Line will no longer be stopping at Mile End. Please change at Bank to take the District Line eastbound, where the service is still operational. To repeat : this train will not be stopping at Mile End. To board or alight at this station please change to the district Line at Bank.  
@@ -145,7 +148,7 @@ For all passengers with tickets for flight 23 to Chicago, we regret that we are 
 5  
 This is the six o’clock service to Faversham, Margate and Dover. The train will split at Faversham and passengers going to Margate should sit in the first four carriages while passengers going in the direction of Dover should remain in the four carriages at the rear of the train. We will be departing in a few moments.
 
-### Page 25 - Reading advertisements
+### CH3 page 25 - Reading advertisements
 
 #### Track 12 - Choosing a hotel
 
@@ -176,7 +179,7 @@ W: They were so friendly. They really bent over backwards to make our stay just 
 
 
 
-### Page 27 - Checking out a website
+### CH3 page 27 - Checking out a website
 
 #### Track 13 - Cathy Brookes
 
@@ -208,8 +211,7 @@ C : Is that a better deal?
 H : Well, a hatchback for four days is two hundred dollars and the repairs to a scratched wing would likely cost over one thousand dollars.  
 C : I think we might follow your advice on that one.
 
-
-### Page 28 - Grammar Corner
+### CH3 page 28 - Grammar Corner
 
 #### Track 16 - Questions words
 
@@ -222,7 +224,7 @@ C : I think we might follow your advice on that one.
 7. How far is it from here to the centre of town? C 
 8. How are you travelling to the conference in Denver? F
 
-###  Page 29 - Combining Listening with Reading
+###  CH3 page 29 - Combining Listening with Reading
 
 #### Track 17 - Destinations
 
@@ -238,11 +240,13 @@ My tip however might be the Azores which is like a Hollywood movie set with its 
 
 Otherwise in terms of absolute beauty Iceland has some of the most breathtaking landscapes. You might think it would be the least summer destination but few would regret seeing the glaciers and the skylines or waterfalls on offer.
 
-<a href="#TOP">Go back to top</a>
+
 
 ## Chapter 4 - Real Estate
- 
-### Page 40 - Introduction
+
+<a href="#TOP">Go back to top</a>
+
+### CH4 page 40 - Introduction
 
 #### Track 22 - conversation 1
 
@@ -284,9 +288,7 @@ I’ve had to rush it : j'ai dû faire vite
 
 1 B - 2 A - 3 D - 4 C
 
-
-
-### Page 41 - Choosing the right place
+### CH4 page 41 - Choosing the right place
 
 #### Track 26 - Lisa
 
@@ -322,7 +324,7 @@ a detached, semi-detached, terraced house
 an owner, a tenant  
 common areas
 
-### Page 43 - Buying or renting a home
+### CH4 page 43 - Buying or renting a home
 
 #### Track 29
 
@@ -362,7 +364,7 @@ poky : exigu*
 
 1E / 2B / 3A / 4E / 5C / 6F / 7D / 8G
 
-### Page 47 - Heloise Clarke, project manager
+### CH4 page 47 - Heloise Clarke, project manager
 
 #### Track 30
 
@@ -382,11 +384,13 @@ In terms of location we are close enough to the town centre for it to be walkabl
 
 So that’s the two different types of properties, of services and amenities. I’ll pass you over now to Alan to talk to you about finance.
 
-<a href="#TOP">Go back to top</a>
+
 
 ## Chapter 5 - Human Resources
 
-### Page 48 - Introduction
+<a href="#TOP">Go back to top</a>
+
+### CH5 page 48 - Introduction
 
 #### Track 31
 
@@ -460,7 +464,7 @@ L’aide sociale : social security (GB) ; welfare (US)
 
 
 
-### Page 49 - A day in the life of an HR director
+### CH5 page 49 - A day in the life of an HR director
 
 #### Track 32 - Nehla Clough
 
@@ -536,12 +540,12 @@ she'll have them in for you : elle les inscrira pour toi (ici). terme vague
 
 #### Track 34 - Sophie Webb
 
-*SW: I've been looking through the applicants for the international position. We really need someone who has a good level of French and Spanish. They all say they do on the resume but can we check that out?  
+SW: I've been looking through the applicants for the international position. We really need someone who has a good level of French and Spanish. They all say they do on the resume but can we check that out?  
 KC: I can get in touch with a language school we've used before. They can do a level assessment. If you have any particular skills you want to test, let me know and we'll have that in.  
 SW: Well, they have to be able to talk figures obviously,  and discuss P&Ls and balance sheets. Ordering in a restaurant and making small talk are not the priorities here.  
 KC: OK. You draw up a list of situations they need to be able to handle and I'll pass that on to the school. and they can test anyone we think might have potential.  
 SW: That's great. How long do you think that will take?  
-KC: It's usually pretty quick. Once you've given them the requirements we should have the results within a day or two.*
+KC: It's usually pretty quick. Once you've given them the requirements we should have the results within a day or two.
 
 **Vocabulary**
 
@@ -569,7 +573,7 @@ anyone we think might have potential : ceux que nous pensons éventuellement con
 the requirements : exigences, conditions, critères,  
 to require : exiger, requérir, demander, avoir besoin de
 
-### Page 50 - Grammar Corner
+### CH5 page 50 - Grammar Corner
 
 #### Track 35 - Question Response
 
@@ -616,7 +620,7 @@ I handed in my resignation : j'ai remis ma démission
 I thought I'd get in first : j'ai préféré prendre les devants  
 they were considering cutting back on staff : ils envisageaient de réduire les effectifs/de supprimer des postes
 
-### Page 51 - Listening to a presentation
+### CH5 page 51 - Listening to a presentation
 
 ### Track 36 - Katia Chandler
 
@@ -651,7 +655,7 @@ through the site : par l'intermédiaire du site
 we'll go through the procedures for this : nous reviendrons sur les procedures concernées  
 once we're ready to go live : lorsque nous serons opérationnels*
 
-### Page 52 - Talent Conference in Lisbon
+### CH5 page 52 - Talent Conference in Lisbon
 
 to hold, held, held : tenir  
 the conference will be held : la conférence se tiendra  
@@ -684,7 +688,7 @@ at your own expenses : à vos frais
 compensation for flights : remboursement des frais de déplacement (en avion)  
 remboursement : remboursements, traites (pour un prêt)  
 
-### Page 54 - Altrium job offer
+### CH5 page 54 - Altrium job offer
 
 UX : système d'exploitation HP Unix.
 
@@ -694,7 +698,7 @@ HCI = technical IT term
 
 UI : User Interface, interface utilisateur
 
-### Page 55 - Job seekers
+### CH5 page 55 - Job seekers
 
 #### Track 37
 
@@ -713,11 +717,13 @@ W: That's probably a good reason not to apply then.
 lousy pay : salaire minable  
 junior account manager : chargé d'affaire (des comptes clients)*
 
-<a href="#TOP">Go back to top</a>
+
 
 ## Chapter 6 - Production
 
-### Page 56 - Introduction
+<a href="#TOP">Go back to top</a>
+
+### CH6 page 56 - Introduction
 
 #### T38 - Picture Questions
 
@@ -753,7 +759,7 @@ junior account manager : chargé d'affaire (des comptes clients)*
 
 ---
 
-### Page 57 - Delivery Problems
+### CH6 page 57 - Delivery Problems
 
 #### Track 39 - Karen Ferrera
 
@@ -780,7 +786,6 @@ F – How quickly can you deliver? because we have a big job here and we need to
 G – We got our supplies yesterday but I think there has been a mistake. We’re working on the foundations and what you’ve sent us isn’t at all the right product for that.
 
 <details><summary></summary>3 – We have three types of mortar. It is written quite clearly in our brochure. If you want to make an exchange, I can handle that for you.</details>
-
 #### Vocabulary
 
 a truck, a lorry (GB) : un camion  
@@ -824,7 +829,7 @@ Dans les dialogues ci-dessus lister les verbes au prétérit (past simple) et tr
 
 Même exervice pour les verbes au present perfect.
 
-### Page 59 - Logistics
+### CH6 page 59 - Logistics
 
 ####  Track 40 - Interview of Johnny Harris 
 
@@ -856,7 +861,7 @@ components : les composants
 
 Present perfect : have opened (pas de date), have been involved since (depuis), have talked in the past, one solution we have pioneered (action accomplie, pas de date)
 
-### Page 61 - Describing a production process
+### CH6 page 61 - Describing a production process
 
 #### Track 41 - Ron and Jill Wardley produce olive oil
 
@@ -905,7 +910,7 @@ a centrifuge : une centrifugeuse
 11. Organice extra virgin oil **is produced**.
 12. Some of the oil **is kept**, some **(is) given** to the family and some **(is) sold**.
 
-### Pages 62-63 -  An industrial dispute
+### CH6 pages 62-63 -  An industrial dispute
 
 Industrial dispute: conflit du travail  
 a plant closure: une fermeture d'usine  
@@ -933,11 +938,13 @@ will be laid-off: seront licenciés
 we will keep going: nous continuerons  
 to keep a promise: tenir une promesse
 
-<a href="#TOP">Go back to top</a>
+
 
 ## Chapter 7 - Health
 
-### Page 72 - Introduction
+<a href="#TOP">Go back to top</a>
+
+### CH7 page 72 - Introduction
 
 #### Track 46 - Picture Questions
 
@@ -1014,7 +1021,7 @@ to keep a promise: tenir une promesse
 
 <br/>
 
-### Page 73 - Alternative Medicine
+### CH7 page 73 - Alternative Medicine
 
 a med school : une fac de médecine  
 the FDA : Food and Drug Administration (US)  
@@ -1051,7 +1058,7 @@ to take into account : prendre en compte
 to rely on : reposer sur, compter sur  
 to brush under the carpet: passer sous silence, faire l’impasse sur
 
-### Page 75 - Describing medical problems
+### CH7 page 75 - Describing medical problems
 
 #### Track 47 - Cecila Beucler responds to patient requests
 
@@ -1153,7 +1160,7 @@ No response
 
 <br/><br/>
 
-### Page 78 - The Subjonctive
+### CH7 page 78 - The Subjonctive
 
 #### T48 - Dr Turner gives advice to Inessa
 
@@ -1184,7 +1191,7 @@ a joint : une articulation
 the knee: le genou  
 over-the-counter products: produits sans ordonnance*
 
-### Page 79 - Grand Central Health Club
+### CH7 page 79 - Grand Central Health Club
 
 #### Track 49 - Rebecca
 
@@ -1214,11 +1221,13 @@ over-the-counter products: produits sans ordonnance*
 	</i>
 </details>
 
-<a href="#TOP">Go back to top</a>
+
 
 ## Chapter 8 - Business Development
 
-### Page 80 - Introduction
+<a href="#TOP">Go back to top</a>
+
+### CH8 page 80 - Introduction
 
 #### Vocab builder
 
@@ -1298,7 +1307,7 @@ Talk 5
 
 <br/>
 
-### Page 81 - Reading a Job Ad
+### CH8 page 81 - Reading a Job Ad
 
 Offre pour un emploi très spécialisé et de haut niveau, vocabulaire technique pas indispensable sauf les éléments en caractères gras.
 
@@ -1327,7 +1336,7 @@ leadership framework: cadre directeur
 3D construction de to require : we require all employees **to have**  
 4A **equal opportunities : l'égalité des chances**
 
-### Page 82 - Present Perfect 2
+### CH8 page 82 - Present Perfect 2
 
 #### Grammar Corner 1
 
@@ -1365,7 +1374,7 @@ Our share price wen down three times this week. Correct en anglais américain. E
 6 The CEO *has sent a message* last night : avec last night (finished period of time), on emploie le prétérit:  
 **The CEO sent a message last night**
 
-### Page 83 - Company Strategy
+### CH8 page 83 - Company Strategy
 
 #### Vocabulary to revise
 
@@ -1416,13 +1425,13 @@ H 6
 M: Our market study shows that customers are mostly unhappy with our hotline operators. They say they are rude and condescending.   
 W: I know. We really should put some training across the board on handling client complaints and delivering friendly helpful customer service.
 
-### Page 84 - Prepositions of time
+### CH8 page 84 - Prepositions of time
 
 #### Filling the gaps in a text
 
 When Bright Sparks was founded **in** 1987 *(cas 1, months, years)*, their strategy was very simple. They wanted to become a national player **by** the end of the century *(cas 2, deadline, date limite, échéance)*. In fact, they reached that goal *(but)* **in** 1988, with over than 30% of market share in the UK. **At** that time in their development *(cas 1)* they hadn't thought further ahead *(pas poussé la réflexion)*. An executive meeting was called **in** Spetember of that year to set new goals and objectives. Those goals changed  **over** the next decade *(cas 3: extended periode of time)* as the company went from strength to strength *(strength: la force, un point fort)* to become the worldwide leader **by** the  end of the century *(cas 2: deadline)*.
 
-### Page 85 - Jacqueline Smith, a business consultant
+### CH8 page 85 - Jacqueline Smith, a business consultant
 
 #### Track 54 - Farrah Read
 
@@ -1479,7 +1488,7 @@ a little birdie (bird) told me: mon petit doigt m'a dit
 to hold: tenir  
 that gives you a hold : cela vous donne la maîtrise*
 
-### Page 86 - Business strategy starts at home
+### CH8 page 86 - Business strategy starts at home
 
 a behemoth : un monstre, un géant  
 inwards/outwards : vers l'intérieur, vers l'extérieur  
@@ -1496,7 +1505,7 @@ daily chores : les tâches, les corvées quotidiennes
 to go the extra mile : faire des efforts supplémentaires  
 to implement a service : mettre un service en œuvre, en place  
 
-### Page 87 - Concierge Service
+### CH8 page 87 - Concierge Service
 
 #### Track 57 Kate and James
 
@@ -1525,11 +1534,13 @@ outstanding: remarquable
 to gauge: jauger, mesurer  
 to take advantage of: tirer parti de, profiter de, exploiter*
 
-<a href="#TOP">Go back to top</a>
+
 
 ## Chapter 9 - Purchasing - not done yet
 
-### Page  88
+<a href="#TOP">Go back to top</a>
+
+### CH9 page  88
 
 #### Vocab builder
 
@@ -1565,18 +1576,17 @@ Talk 3
 
 
 
-### Page 89 - An Open Tender
+### CH9 page 89 - An Open Tender
 
+### CH9 page 90 - Homophones
 
-### Page 90 - Homophones
-
-### Page 83 - Understanding opinions
+### CH9 page 83 - Understanding opinions
 
 #### Track 53
 
-### Page 84 - Prepositions of time
+### CH9 page 84 - Prepositions of time
 
-### Page 85 Conversations
+### CH9 page 85 Conversations
 
 #### Track 54
 
@@ -1584,18 +1594,21 @@ Talk 3
 
 #### Track 56
 
-### Page 86 - Combining information
+### CH9 page 86 - Combining information
 
 #### Track 57
 
-<a href="#TOP">Go back to top</a>
+
 
 ## Chapter 10 - Eating Out - not done yet
 
-### Page
+<a href="#TOP">Go back to top</a>
 
+### CH10 page 96 - Introduction
 
-#### Track
+#### Vocab Builder
+
+#### Track 63 page 96
 
 Talk 1
 
@@ -1662,38 +1675,59 @@ Talk 5
 </i>
 </details>
 
-### Page 
+### CH10 page 97 - A lunch menu
+
+#### Track 64 page 97 - Suki
+
+#### Track 65 page 97 - Peter
+
+#### Track 66 page 97 - Gabrielle
+
+### CH10 page 98 - Grammar Corner 1
+
+#### Filling the gaps in a sentence
+
+### CH10 page 99 Naomi Jenkins
+
+#### Track 67 page 99 - Grace
+
+#### Track 68 page 99 - Patrick
+
+#### Track 69 page 99 - Bonnie
+
+#### Vocab Builder
+
+### CH10 page 100 - Make or Do?
+
+### CH10 page 101 - The Do's and Don'ts of Business Lunches
+
+#### Track 70 page 101 - Tania
+
+### CH10 page 102-103 - Ads for restaurants
 
 
-
-### Page
-
-### Page
-
-#### Track
-
-### Page
-
-### Page
-
-#### Track
-
-#### Track
-
-#### Track
-
-### Page
-
-#### Track
-
-<a href="#TOP">Go back to top</a>
 
 ## Chapter 11 - Leisure - not done yet
 
-### Page 
+<a href="#TOP">Go back to top</a>
 
+### CH11 page 112 - Introduction
 
-#### Track
+#### Vocab Builder
+
+#### Track 75 page 112 - Picture Questions
+
+### CH11 page 113 - Leisure activities
+
+#### Track 76 page 113 - Opinions about leisure activities
+
+### CH11 page 114 - Conditionals
+
+#### Filling a gap in a sentence
+
+### CH11 page 115 - Making small talk
+
+#### Track 77 page 115 - Small Talk
 
 Talk 1
 
@@ -1760,39 +1794,35 @@ Talk 5
 </i>
 </details>
 
-### Page 
+### CH11 page 116 - Modal Verbs
+
+#### Track 78 page 116 - correct modal verb
+
+### CH11 page 117 - Newspaper guide to events
+
+#### Track 79 page 117 - Abbie
+
+#### Track 80 page 117 - Arthur
+
+#### Track 81 page 117 - Elaine
+
+#### Vocab Builder 2
+
+### CH11 page 118-119 - The New Wave
 
 
 
-### Page
-
-### Page
-
-#### Track
-
-### Page
-
-### Page
-
-#### Track
-
-#### Track
-
-#### Track
-
-### Page
-
-#### Track
+## Chapter 12 - General Business Activities - not done yet
 
 <a href="#TOP">Go back to top</a>
 
-## Chapter 12 General Business Activities - not done yet
+### CH12 page 120 - Introduction
 
-### Page 
+#### Vocab Builder 1
 
+#### Track 82 page 120 - Picture Questions
 
-
-#### Track
+#### Vocab Builder 1
 
 Talk 1
 
@@ -1859,40 +1889,43 @@ Talk 5
 </i>
 </details>
 
-### Page 
+### CH12 page 121 - Hannah Green, sales manager 
+
+#### Track 83 page 122 - Karen Price
+
+#### Track 84 page 122 - Jim Tyler
+
+#### Track 85 page 122 - Angharad Lloyd
+
+#### Vocab Builder 2
+
+### CH12 page 122 - Conditionals 2
+
+#### Track 86 page 122 - Conditionals
+
+### CH12 page 123 - Desert Sales
+
+#### Track 87 page 123 - Radio interview with Grant Robertson
+
+### CH12 page 124 - Modal verbs 2
+
+### CH12 page 125 - Four-day week
+
+### CH12 page 126-127 - Vista coffee goes mobile
 
 
-
-### Page
-
-### Page
-
-#### Track
-
-### Page
-
-### Page
-
-#### Track
-
-#### Track
-
-#### Track
-
-### Page
-
-#### Track
-
-<a href="#TOP">Go back to top</a>
 
 ## Chapter 13 - Technology - not done yet
 
+<a href="#TOP">Go back to top</a>
 
-### Page 
+### CH13 page 128 - Introduction
+
+#### Vocab Builder 1 page 128
+
+#### Track 88 page 128 - Picture Questions
 
 
-
-#### Track
 
 Talk 1
 
@@ -1959,28 +1992,30 @@ Talk 5
 </i>
 </details>
 
-### Page 
+### CH13 page 129 - No Internet here
+
+#### Track 89 page 129 - Jade
+
+#### Track 90 page 129 - Tony
+
+#### Track 91 page 129 - Delilah
+
+### CH13 page 130 - Linking Words
+
+### CH13 page 131 - Cutting Edge Technolodgy
+
+#### Track 92 page 131 - Carlos's talk
+
+### CH13 page 132 - Future Tenses
+
+### CH13 page 133 - Buying online
+
+#### Track 93 page 133 - Opinions about buying online
+
+#### Vocab Builder 2 page 133
+
+### CH13 pages 134-135 - Online Chat Discussions
 
 
-
-### Page
-
-### Page
-
-#### Track
-
-### Page
-
-### Page
-
-#### Track
-
-#### Track
-
-#### Track
-
-### Page
-
-#### Track
 
 <a href="#TOP">Go back to top</a>
