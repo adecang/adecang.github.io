@@ -20,12 +20,14 @@
 ## Chapter 1 - Banking and Personal Finance
 
 ### CH01-08 Introduction
+
 #### Picture Questions
 1.  The woman is writing a check
 2.  The ATM is out of order
 3.  They’re queuing outside the bank
 4.  The man is withdrawing some cash
 5.  They’re standing in line to speak to a teller
+
 #### Vocab Builder
 A teller: un employé de banque  
 An ATM: an Automatic Teller Machine = un distributeur  
@@ -38,8 +40,10 @@ To draw, drew, drawn  : tirer, dessiner (de: tirer un trait)
 To draw conclusions : tirer des conclusions  
 A drawn face: les traits tirés  
 to go overdrawn : à découvert (retiré trop d'argent)
+
 ### CH01-09 Kelly Holmes
-#### T2-4 
+
+#### T2 Kay Singh 
 
 K: Open Bank, Kelly speaking. How may I help you?  
 C: Hello, this is Kay Singh. I’m calling because I’ve been having some problems with my bank card.  
@@ -53,7 +57,7 @@ To swipe : glisser, passer la carte
 I've been having some problems*: present perfect continuous, retour sur une activité passée  
 As soon as the card is ready : dans les subordonnées de temps on emploie le présent à la place du futur (= quand votre carte sera prête)
 
-### Track 3 page 9
+#### T3 Cray Jones
 
 C: This is Cray Jones from C.J. Butchers. I think we are going to have difficulties meeting our loan repayments this month.    
 K: I see. Can you tell me what the problem is?  
@@ -67,7 +71,7 @@ an invoice : une facture
 to block, unblock an account : bloquer, débloquer un compte  
 A fee : des frais
 
-### Track 4 page 9
+#### T4 Tara Epstein
 
 K: Oh, is that Tara Epstein?  
 C: That’s right.  
@@ -82,8 +86,6 @@ K: OK. So first I’ll need to ask you some identification questions just to che
 a state : ici : un des 50 états des US  
 ID : identification  
 your account details : votre numéro de compte
-
----
 
 ### Track 5 page 11
 
@@ -101,9 +103,9 @@ F. I feel like my purchasing power is going down year on year. My salary has sta
 
 G. If we want to be more competitive we really need to upgrade our computer systems but we just don’t have the money right now.
 
-----
+### CH01-11 Kristina Martins
 
-### Track 6 page 15 - Kristina Martins
+#### T5
 
 Good afternoon everyone. For those who I haven’t yet had the pleasure to meet, my name is Kristina Martin and over the last few weeks I’ve been working with the finance department to see what we can do about maximizing the money we spend and help the company move forwards. I’ve put together a little chart to show you where the money is going at the moment.
 
@@ -115,24 +117,15 @@ The first thing that surprised me when you contacted me was how little brand nam
 
 If we can cut five percent off our fixed costs and another seven or eight percent off labour costs and production my suggestion would be to give at least half of that over to marketing. You’d still be lowering expenses but with well-targeted campaigns you could make a significant difference to sales as well as profits, which is after all the bottom line.
 
-## Chapter 2 - Office Life - not done yet
+## Chapter 2 - Office Life
 
 *Not done yet*
 
 ## Chapter 3 - Travel
 
-+ [General Vocab - Track 11](#general-vocab---track-11)
-    + [Reading advertisements - track 12](#reading-advertisements---track-12)
-    + [Checking out a website](#checking-out-a-website)
-      - [Track 13](#track-13)
-      - [Track 14](#track-14)
-      - [Track 15](#track-15)
-    + [Grammar Corner](#grammar-corner)
-      - [Track 16 page 28](#track-16-page-28)
-    + [Combining Listening with Reading](#combining-listening-with-reading)
-      - [Track 17 page 30](#track-17-page-30)
+### CH03-24 Introduction
 
-### General Vocab - Track 11
+#### Track 11
 
 1  
 This is a passenger announcement. For the next four weeks, the Central Line will no longer be stopping at Mile End. Please change at Bank to take the District Line eastbound, where the service is still operational. To repeat : this train will not be stopping at Mile End. To board or alight at this station please change to the district Line at Bank.  
@@ -144,8 +137,6 @@ This is the shuttle bus service from Manhattan Central to J.F.K stopping at term
 For all passengers with tickets for flight 23 to Chicago, we regret that we are still waiting for storms to die down over Ohio. For safety reasons, all planes have been advised to delay take-off until further notice. We will keep you updated on the status of this flight as soon as we know more.  
 5  
 This is the six o’clock service to Faversham, Margate and Dover. The train will split at Faversham and passengers going to Margate should sit in the first four carriages while passengers going in the direction of Dover should remain in the four carriages at the rear of the train. We will be departing in a few moments.
-
----
 
 ### Reading advertisements - track 12
 
