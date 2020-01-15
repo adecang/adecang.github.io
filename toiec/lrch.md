@@ -206,7 +206,6 @@ C : Is that a better deal?
 H : Well, a hatchback for four days is two hundred dollars and the repairs to a scratched wing would likely cost over one thousand dollars.  
 C : I think we might follow your advice on that one.
 
----
 
 ### Page 28 - Grammar Corner
 
@@ -220,8 +219,6 @@ C : I think we might follow your advice on that one.
 6. Which room are you staying in? E
 7. How far is it from here to the centre of town? C 
 8. How are you travelling to the conference in Denver? F
-
----
 
 ###  Page 29 - Combining Listening with Reading
 
@@ -239,8 +236,8 @@ My tip however might be the Azores which is like a Hollywood movie set with its 
 
 Otherwise in terms of absolute beauty Iceland has some of the most breathtaking landscapes. You might think it would be the least summer destination but few would regret seeing the glaciers and the skylines or waterfalls on offer.
 
-## Chapter 4 - Real Estate
-<a href="#TOP">Top of page</a>
+## Chapter 4 - Real Estate <a href="#TOP">Go back to top</a>
+ 
 ### Page 40 - Introduction
 
 #### Track 22 - conversation 1
