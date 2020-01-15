@@ -1,5 +1,5 @@
 # TOIEC Larousse
-
+<a id="TOP"></a>
 
 - [TOIEC Larousse](#toiec-larousse)
   * [Chapter 1 - Banking and Personal Finance](#chapter-1---banking-and-personal-finance)
@@ -121,10 +121,12 @@ Labour costs account for the second largest expense and this goes hand in hand w
 The first thing that surprised me when you contacted me was how little brand name recognition you have. The products are of a very high standard, which justifies the prices you choose but nobody can sell high quality products if the brand isn’t well known.
 
 If we can cut five percent off our fixed costs and another seven or eight percent off labour costs and production my suggestion would be to give at least half of that over to marketing. You’d still be lowering expenses but with well-targeted campaigns you could make a significant difference to sales as well as profits, which is after all the bottom line.
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 2 - Office Life
 
 *Not done yet*
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 3 - Travel
 
@@ -206,7 +208,6 @@ C : Is that a better deal?
 H : Well, a hatchback for four days is two hundred dollars and the repairs to a scratched wing would likely cost over one thousand dollars.  
 C : I think we might follow your advice on that one.
 
----
 
 ### Page 28 - Grammar Corner
 
@@ -220,8 +221,6 @@ C : I think we might follow your advice on that one.
 6. Which room are you staying in? E
 7. How far is it from here to the centre of town? C 
 8. How are you travelling to the conference in Denver? F
-
----
 
 ###  Page 29 - Combining Listening with Reading
 
@@ -239,8 +238,10 @@ My tip however might be the Azores which is like a Hollywood movie set with its 
 
 Otherwise in terms of absolute beauty Iceland has some of the most breathtaking landscapes. You might think it would be the least summer destination but few would regret seeing the glaciers and the skylines or waterfalls on offer.
 
-## Chapter 4 - Real Estate
+<a href="#TOP">Go back to top</a>
 
+## Chapter 4 - Real Estate
+ 
 ### Page 40 - Introduction
 
 #### Track 22 - conversation 1
@@ -381,7 +382,7 @@ In terms of location we are close enough to the town centre for it to be walkabl
 
 So that’s the two different types of properties, of services and amenities. I’ll pass you over now to Alan to talk to you about finance.
 
-
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 5 - Human Resources
 
@@ -568,8 +569,6 @@ anyone we think might have potential : ceux que nous pensons éventuellement con
 the requirements : exigences, conditions, critères,  
 to require : exiger, requérir, demander, avoir besoin de
 
-
-
 ### Page 50 - Grammar Corner
 
 #### Track 35 - Question Response
@@ -616,8 +615,6 @@ to take a drop in pay : accepter une diminution de salaire
 I handed in my resignation : j'ai remis ma démission  
 I thought I'd get in first : j'ai préféré prendre les devants  
 they were considering cutting back on staff : ils envisageaient de réduire les effectifs/de supprimer des postes
-
-
 
 ### Page 51 - Listening to a presentation
 
@@ -716,7 +713,7 @@ W: That's probably a good reason not to apply then.
 lousy pay : salaire minable  
 junior account manager : chargé d'affaire (des comptes clients)*
 
-
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 6 - Production
 
@@ -827,8 +824,6 @@ Dans les dialogues ci-dessus lister les verbes au prétérit (past simple) et tr
 
 Même exervice pour les verbes au present perfect.
 
----
-
 ### Page 59 - Logistics
 
 ####  Track 40 - Interview of Johnny Harris 
@@ -910,8 +905,6 @@ a centrifuge : une centrifugeuse
 11. Organice extra virgin oil **is produced**.
 12. Some of the oil **is kept**, some **(is) given** to the family and some **(is) sold**.
 
-
-
 ### Pages 62-63 -  An industrial dispute
 
 Industrial dispute: conflit du travail  
@@ -939,6 +932,8 @@ stand up: ici, se dresser
 will be laid-off: seront licenciés  
 we will keep going: nous continuerons  
 to keep a promise: tenir une promesse
+
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 7 - Health
 
@@ -1189,8 +1184,6 @@ a joint : une articulation
 the knee: le genou  
 over-the-counter products: produits sans ordonnance*
 
-
-
 ### Page 79 - Grand Central Health Club
 
 #### Track 49 - Rebecca
@@ -1221,7 +1214,7 @@ over-the-counter products: produits sans ordonnance*
 	</i>
 </details>
 
-
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 8 - Business Development
 
@@ -1372,8 +1365,6 @@ Our share price wen down three times this week. Correct en anglais américain. E
 6 The CEO *has sent a message* last night : avec last night (finished period of time), on emploie le prétérit:  
 **The CEO sent a message last night**
 
-
-
 ### Page 83 - Company Strategy
 
 #### Vocabulary to revise
@@ -1488,8 +1479,6 @@ a little birdie (bird) told me: mon petit doigt m'a dit
 to hold: tenir  
 that gives you a hold : cela vous donne la maîtrise*
 
-
-
 ### Page 86 - Business strategy starts at home
 
 a behemoth : un monstre, un géant  
@@ -1536,23 +1525,9 @@ outstanding: remarquable
 to gauge: jauger, mesurer  
 to take advantage of: tirer parti de, profiter de, exploiter*
 
-
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 9 - Purchasing - not done yet
-
-+ [Page  88 Vocab builder](#page--88-vocab-builder)
-        * [Track 58](#track-58)
-    + [Page 89 - An Open Tender](#page-89---an-open-tender)
-    + [Page 90 - Homophones](#page-90---homophones)
-    + [Page 83 - Understanding opinions](#page-83---understanding-opinions-1)
-      - [Track 53](#track-53-1)
-    + [Page 84 - Prepositions of time](#page-84---prepositions-of-time-1)
-    + [Page 85 Conversations](#page-85-conversations-1)
-      - [Track 54](#track-54)
-      - [Track 55](#track-55)
-      - [Track 56](#track-56)
-    + [Page 86 - Combining information](#page-86---combining-information-1)
-      - [Track 57](#track-57)
 
 ### Page  88
 
@@ -1590,14 +1565,10 @@ Talk 3
 
 
 
-
 ### Page 89 - An Open Tender
 
 
-
 ### Page 90 - Homophones
-
-
 
 ### Page 83 - Understanding opinions
 
@@ -1617,26 +1588,11 @@ Talk 3
 
 #### Track 57
 
----
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 10 - Eating Out - not done yet
 
- + [Page](#page)
-      - [Track](#track)
-    + [Page](#page-1)
-    + [Page](#page-2)
-    + [Page](#page-3)
-      - [Track](#track-1)
-    + [Page](#page-4)
-    + [Page](#page-5)
-      - [Track](#track-2)
-      - [Track](#track-3)
-      - [Track](#track-4)
-    + [Page](#page-6)
-      - [Track](#track-5)
-
 ### Page
-
 
 
 #### Track
@@ -1730,26 +1686,11 @@ Talk 5
 
 #### Track
 
----
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 11 - Leisure - not done yet
 
- + [Page](#page-7)
-      - [Track](#track-6)
-    + [Page](#page-8)
-    + [Page](#page-9)
-    + [Page](#page-10)
-      - [Track](#track-7)
-    + [Page](#page-11)
-    + [Page](#page-12)
-      - [Track](#track-8)
-      - [Track](#track-9)
-      - [Track](#track-10)
-    + [Page](#page-13)
-      - [Track](#track-11)
-
 ### Page 
-
 
 
 #### Track
@@ -1843,26 +1784,10 @@ Talk 5
 
 #### Track
 
----
-
-
+<a href="#TOP">Go back to top</a>
 
 ## Chapter 12 General Business Activities - not done yet
 
- + [Page](#page-14)
-      - [Track](#track-12)
-    + [Page](#page-15)
-    + [Page](#page-16)
-    + [Page](#page-17)
-      - [Track](#track-13)
-    + [Page](#page-18)
-    + [Page](#page-19)
-      - [Track](#track-14)
-      - [Track](#track-15)
-      - [Track](#track-16)
-    + [Page](#page-20)
-      - [Track](#track-17)
-
 ### Page 
 
 
@@ -1957,23 +1882,11 @@ Talk 5
 ### Page
 
 #### Track
----
+
+<a href="#TOP">Go back to top</a>
+
 ## Chapter 13 - Technology - not done yet
 
-  + [Page](#page-21)
-      - [Track](#track-18)
-    + [Page](#page-22)
-    + [Page](#page-23)
-    + [Page](#page-24)
-      - [Track](#track-19)
-    + [Page](#page-25)
-    + [Page](#page-26)
-      - [Track](#track-20)
-      - [Track](#track-21)
-      - [Track](#track-22)
-    + [Page](#page-27)
-      - [Track](#track-23)
-
 
 ### Page 
 
@@ -2069,3 +1982,5 @@ Talk 5
 ### Page
 
 #### Track
+
+<a href="#TOP">Go back to top</a>
