@@ -463,11 +463,11 @@ L’aide sociale : social security (GB) ; welfare (US)
 
 #### Track 32 - Nehla Clough
 
-*NC: We're getting really short of staff. Is there any chance we can get some new blood any time soon?  
+NC: We're getting really short of staff. Is there any chance we can get some new blood any time soon?  
 KC: We have been looking but you keep turning them down.  
 NC: If you want to sell cloud services you need to have some experience of the sector. If your past experience is selling furniture then I'm just not convinced that you'll be of any use to us.  
 KC: OK. We'll write up a more detailed ad and state that experience in the sector is obligatory. I'll tell my team to screen the resumes more carefully. How does that sound?  
-N : Fine. I just hope we can get some people in soon.*
+N : Fine. I just hope we can get some people in soon.
 
 **Vocabulary**
 
@@ -623,21 +623,21 @@ they were considering cutting back on staff : ils envisageaient de réduire les 
 
 ### Track 36 - Katia Chandler
 
-*OK. Thanks for coming everyone. I'd just like to take you through some of the projects that we're going to be running in HR this year. I'll try to keep this brief but there is quite a lot to get through so if you'll bear with me I'll give you time to ask questions at the end.*
+OK. Thanks for coming everyone. I'd just like to take you through some of the projects that we're going to be running in HR this year. I'll try to keep this brief but there is quite a lot to get through so if you'll bear with me I'll give you time to ask questions at the end.
 
-*Right. First of all we have finally fixed a limit to this year's training budget. As you know we have decided to work with just one service provider for training. So we're holding a tender to try to find the best price and conditions we can get. I think it's fair to say we've all been a little bit underwhelmed by the training services over the last few years which is why there's been so much chopping and changing, so this time we're prepared to pay a little bit more to get a more serious firm in the hope we can build a relationship over the next four to five years.*
+Right. First of all we have finally fixed a limit to this year's training budget. As you know we have decided to work with just one service provider for training. So we're holding a tender to try to find the best price and conditions we can get. I think it's fair to say we've all been a little bit underwhelmed by the training services over the last few years which is why there's been so much chopping and changing, so this time we're prepared to pay a little bit more to get a more serious firm in the hope we can build a relationship over the next four to five years.
 
-*On a similar note if we want the training to be effective we need all of our employees to be present at the training sessions. There's been far too much absenteeism in the past and some of that is due to managers not freeing up their staff for the sessions. It is a requirement of the firm for training to be held within working hours and timetables are set a long time in advance. We really need absolute last-minute emergencies for employees not to be able to attend, so I'm counting on you to cascade that information to your teams.*
+On a similar note if we want the training to be effective we need all of our employees to be present at the training sessions. There's been far too much absenteeism in the past and some of that is due to managers not freeing up their staff for the sessions. It is a requirement of the firm for training to be held within working hours and timetables are set a long time in advance. We really need absolute last-minute emergencies for employees not to be able to attend, so I'm counting on you to cascade that information to your teams.
 
-*OK. So other than training we are launching this month our LinkedIn program. I'm quite excited about this because as a firm that has invested a lot in technology I think it's vital that we acknowledge the changing nature of the world and particularly the power of social media. We're going to need photos and profiles for every member of staff which will be part of our global community. This project has already started in our offices across the pond so we need to get moving on this too in the coming weeks.*
+OK. So other than training we are launching this month our LinkedIn program. I'm quite excited about this because as a firm that has invested a lot in technology I think it's vital that we acknowledge the changing nature of the world and particularly the power of social media. We're going to need photos and profiles for every member of staff which will be part of our global community. This project has already started in our offices across the pond so we need to get moving on this too in the coming weeks.
 
-*Finally we have made the decision to really invest in green projects this year.  So we are going to become completely paper-free. That means that all printers and photocopiers will be removed except for the main copier on the thirty-thirst floor which will be accessed with a password. It is reserved for executives. Too many emails, personal documents and Powerpoint presentations are being printed when they could be just as easily viewed on screen. In today's age that is just not acceptable.*
+Finally we have made the decision to really invest in green projects this year.  So we are going to become completely paper-free. That means that all printers and photocopiers will be removed except for the main copier on the thirty-thirst floor which will be accessed with a password. It is reserved for executives. Too many emails, personal documents and Powerpoint presentations are being printed when they could be just as easily viewed on screen. In today's age that is just not acceptable.
 
-*In HR we are going to be playing our part and all pay slips, tax documents and annual leave request forms are going to be made available digitally. We have been working with IT to have this ready by the end of this quarter and each employee will have a login and password with which they'll be able to access the site and see how much leave they have taken, request extra days, see their pay slips and so on. Pay slips will also be emailed to each employee at the email address they enter in their personal profile on the site. In other words if at any time they wish to change the email address they can do this through the site but we'll be going to go through the procedures for this once we are ready to go live.*
+In HR we are going to be playing our part and all pay slips, tax documents and annual leave request forms are going to be made available digitally. We have been working with IT to have this ready by the end of this quarter and each employee will have a login and password with which they'll be able to access the site and see how much leave they have taken, request extra days, see their pay slips and so on. Pay slips will also be emailed to each employee at the email address they enter in their personal profile on the site. In other words if at any time they wish to change the email address they can do this through the site but we'll be going to go through the procedures for this once we are ready to go live.
 
-*So, that's the training, the new LinkedIn program and the green projects covered. So if you have any questions about any of that, I'll be happy to answer them now.*
+So, that's the training, the new LinkedIn program and the green projects covered. So if you have any questions about any of that, I'll be happy to answer them now.
 
-take you through : vous présenter  
+*take you through : vous présenter  
 projects that we'll run : que nous allons mener à bien  
 here is quite a lot to get through : nous avons beaucoup de points à examiner  
 if you'll bear with me : si vous voulez bien bien m'écouter jusqu'au bout  
@@ -652,7 +652,7 @@ available digitally : accessibles sous forme numérique
 IT (Information Technology Department) : le service informatique   
 through the site : par l'intermédiaire du site  
 we'll go through the procedures for this : nous reviendrons sur les procedures concernées  
-once we're ready to go live : lorsque nous serons opérationnels
+once we're ready to go live : lorsque nous serons opérationnels*
 
 ### Page 52 - Talent Conference in Lisbon
 
@@ -701,7 +701,7 @@ UI : User Interface, interface utilisateur
 
 #### Track 37
 
-*M: Have you had any luck finding a job yet?  
+M: Have you had any luck finding a job yet?  
 W: Not yet. I'm actually at the point where I would accept almost anything.  
 M: Well, I've been looking online. If you're interested in something over the summer, MV Sports are looking for sales people.  
 W: Well; I may be not that desperate just yet. I actually worked for them when I was a student and it wasn't such a great experience. Long hours, annoying customers and lousy pay.  
@@ -710,11 +710,11 @@ W: I was like that too a couple of months ago. Is there anything more serious in
 M: How about HighBe? They want a junior account manager.   
 W: I know them quite well actually. They used to be one of my clients. I'm not sure about junior account manager but it's worth a call.  
 M: I think I'm going to keep looking. None of these really fit my profile and I don't even know what a UX writer is.  
-W: That's probably a good reason not to apply then.*
+W: That's probably a good reason not to apply then.
 
-actually : en fait (pas 'actuellement')  
+*actually : en fait (pas 'actuellement')  
 lousy pay : salaire minable  
-junior account manager : chargé d'affaire (des comptes clients)
+junior account manager : chargé d'affaire (des comptes clients)*
 
 
 
@@ -783,7 +783,6 @@ F – How quickly can you deliver? because we have a big job here and we need to
 G – We got our supplies yesterday but I think there has been a mistake. We’re working on the foundations and what you’ve sent us isn’t at all the right product for that.
 
 <details><summary></summary>3 – We have three types of mortar. It is written quite clearly in our brochure. If you want to make an exchange, I can handle that for you.</details>
-
 
 #### Vocabulary
 
@@ -864,7 +863,7 @@ Present perfect : have opened (pas de date), have been involved since (depuis), 
 
 ### Page 61 - Describing a production process
 
-#### Track 41 - Ron and Jill Wardley produce olive oil.
+#### Track 41 - Ron and Jill Wardley produce olive oil
 
 RW: We started making oil about ten years ago, didn't we Jill?  
 JW: Yes. It was the year after we bought the olive grove. So we had about ten olive trees before that and that gave us another fifty or so.  
@@ -898,7 +897,7 @@ a centrifuge : une centrifugeuse
 
 #### Grammar: the passive voice
 
-1. First nets **are laid dow**n to catch the olives.
+1. First nets **are laid down** to catch the olives.
 2. An electric shaker **is used** to pick them.
 3. In the past the olives **were picked** by hand.
 4. The nets **are gathered up** and the olives **(are) emptied** into big plastic crates.
@@ -1535,7 +1534,7 @@ to cram things in : faire tenir les chose, remplir, bourrer
 it makes us stand out :  cela nous fait sortir du lot  
 outstanding: remarquable  
 to gauge: jauger, mesurer  
-to take advantage of: tirer parti de, profiter de, exploiter
+to take advantage of: tirer parti de, profiter de, exploiter*
 
 
 
