@@ -1,6 +1,5 @@
 # TOIEC Larousse
 
-[TOC]
 
 - [TOIEC Larousse](#toiec-larousse)
   * [Chapter 1 - Banking and Personal Finance](#chapter-1---banking-and-personal-finance)
@@ -16,12 +15,15 @@
   * [Chapter 11 - Leisure - not done yet](#chapter-11---leisure---not-done-yet)
   * [Chapter 12 General Business Activities - not done yet](#chapter-12-general-business-activities---not-done-yet)
   * [Chapter 13 - Technology - not done yet](#chapter-13---technology---not-done-yet)
-  
+
+[TOC]
+
 ## Chapter 1 - Banking and Personal Finance
 
-### CH01-08 Introduction
+### Page 8 - Introduction
 
-#### Picture Questions
+#### Track 1 - Picture Questions
+
 1.  The woman is writing a check
 2.  The ATM is out of order
 3.  They’re queuing outside the bank
@@ -29,6 +31,7 @@
 5.  They’re standing in line to speak to a teller
 
 #### Vocab Builder
+
 A teller: un employé de banque  
 An ATM: an Automatic Teller Machine = un distributeur  
 Out of order: hors service  
@@ -41,9 +44,9 @@ To draw conclusions : tirer des conclusions
 A drawn face: les traits tirés  
 to go overdrawn : à découvert (retiré trop d'argent)
 
-### CH01-09 Kelly Holmes
+### Page 9 - Kelly Holmes, an account adviser
 
-#### T2 Kay Singh 
+#### Track 2 - Kay Singh
 
 K: Open Bank, Kelly speaking. How may I help you?  
 C: Hello, this is Kay Singh. I’m calling because I’ve been having some problems with my bank card.  
@@ -57,7 +60,7 @@ To swipe : glisser, passer la carte
 I've been having some problems*: present perfect continuous, retour sur une activité passée  
 As soon as the card is ready : dans les subordonnées de temps on emploie le présent à la place du futur (= quand votre carte sera prête)
 
-#### T3 Cray Jones
+#### Track 3 - Cray Jones
 
 C: This is Cray Jones from C.J. Butchers. I think we are going to have difficulties meeting our loan repayments this month.    
 K: I see. Can you tell me what the problem is?  
@@ -71,7 +74,7 @@ an invoice : une facture
 to block, unblock an account : bloquer, débloquer un compte  
 A fee : des frais
 
-#### T4 Tara Epstein
+#### Track 4 - Tara Epstein
 
 K: Oh, is that Tara Epstein?  
 C: That’s right.  
@@ -87,7 +90,9 @@ a state : ici : un des 50 états des US
 ID : identification  
 your account details : votre numéro de compte
 
-### Track 5 page 11
+### Page 11 - Financial Advice
+
+#### Track 5
 
 A. We’re conscious that we need to start to think about our retirement. What would you recommend?  
 
@@ -103,9 +108,9 @@ F. I feel like my purchasing power is going down year on year. My salary has sta
 
 G. If we want to be more competitive we really need to upgrade our computer systems but we just don’t have the money right now.
 
-### CH01-11 Kristina Martins
+### Page 15 - Kristina Martins
 
-#### T5
+#### Track 6
 
 Good afternoon everyone. For those who I haven’t yet had the pleasure to meet, my name is Kristina Martin and over the last few weeks I’ve been working with the finance department to see what we can do about maximizing the money we spend and help the company move forwards. I’ve put together a little chart to show you where the money is going at the moment.
 
@@ -123,9 +128,9 @@ If we can cut five percent off our fixed costs and another seven or eight percen
 
 ## Chapter 3 - Travel
 
-### CH03-24 Introduction
+### Page 24 - Introduction
 
-#### Track 11
+#### Track 11-  Picture Questions
 
 1  
 This is a passenger announcement. For the next four weeks, the Central Line will no longer be stopping at Mile End. Please change at Bank to take the District Line eastbound, where the service is still operational. To repeat : this train will not be stopping at Mile End. To board or alight at this station please change to the district Line at Bank.  
@@ -138,7 +143,9 @@ For all passengers with tickets for flight 23 to Chicago, we regret that we are 
 5  
 This is the six o’clock service to Faversham, Margate and Dover. The train will split at Faversham and passengers going to Margate should sit in the first four carriages while passengers going in the direction of Dover should remain in the four carriages at the rear of the train. We will be departing in a few moments.
 
-### Reading advertisements - track 12
+### Page 25 - Reading advertisements
+
+#### Track 12 - Choosing a hotel
 
 1  
 M: This hotel looks really nice !  
@@ -165,11 +172,11 @@ W2: Who cares when you've got a gym, and a swimming-pool, and a sauna!
 M: Did you like the hotel I recommended ?  
 W: They were so friendly. They really bent over backwards to make our stay just perfect.
 
----
 
-### Checking out a website
 
-#### Track 13
+### Page 27 - Checking out a website
+
+#### Track 13 - Cathy Brookes
 
 C : So we're planning to drive from Atlanta to New York and we want to know how much the drop-off charge will be.  
 H : OK. I can see from your account that you're planning on renting a sedan.  
@@ -177,7 +184,7 @@ C : That's right. Does that make a difference?
 H : Well, yes it does. Our sedans typically have mileage limited to five hundred miles per week. And Atlanta to New York is nearly nine hundred miles. But if you upgrade to a saloon, there's unlimited mileage. On top of that there wouldn't be a drop off charge. So it'll cost 10$ extra a day for the car but you'll be more than getting that back with the savings.  
 C : And we get a more comfortable ride ! Sounds good to me. 
 
-#### Track 14
+#### Track 14 - Joe Forken
 
 H : How can I help you?  
 C : I ordered a roadster because I thought it would be fun to run a road trip through Arizona but the car won't start. I've turned the key a hundred times but nothing happens.  
@@ -188,7 +195,7 @@ C : Yes. Oh, it works!
 H : Excellent! My advice is, don't go too fast for the first couple of hours and stick to Drive and Park only. It's not so difficult but it can take a while to get used to  
 C : OK. We'll do. And thanks!
 
-#### Track 15
+#### Track 15 - Tara Curran
 
 H : Hi there, how was the trip?  
 C : Well, the trip went fine but we had a problem with an iron gate at the entrance to our cottage.  
@@ -201,9 +208,9 @@ C : I think we might follow your advice on that one.
 
 ---
 
-### Grammar Corner
+### Page 28 - Grammar Corner
 
-#### Track 16 page 28
+#### Track 16 - Questions words
 
 1. What time is the flight leaving? D
 2. How often do buses run at this time of day? H
@@ -216,9 +223,9 @@ C : I think we might follow your advice on that one.
 
 ---
 
-###  Combining Listening with Reading
+###  Page 29 - Combining Listening with Reading
 
-#### Track 17 page 30
+#### Track 17 - Destinations
 
 There are of course many destinations for travelers in Europe. Italy for instance is a treasure trove of beautiful cities and fabulous monuments. Further east, Budapest is a great city with a mixture of Celtic and Roman architecture. 
 
@@ -232,26 +239,11 @@ My tip however might be the Azores which is like a Hollywood movie set with its 
 
 Otherwise in terms of absolute beauty Iceland has some of the most breathtaking landscapes. You might think it would be the least summer destination but few would regret seeing the glaciers and the skylines or waterfalls on offer.
 
----
-
 ## Chapter 4 - Real Estate
 
-+ [General](#general)
-      - [Track  22 - conversation 1](#track--22---conversation-1)
-      - [Track 23 - conversation 2](#track-23---conversation-2)
-      - [Track 24 - conversation 3](#track-24---conversation-3)
-      - [Track 25 - conversation 4](#track-25---conversation-4)
-    + [T26-28 Choosing the right place](#t26-28-choosing-the-right-place)
-      - [Track 26 : Lisa](#track-26---lisa)
-      - [Track 27 : Greg](#track-27---greg)
-      - [Track 28 : Kamara](#track-28---kamara)
-    + [TOEIC LR 4-43 Question Response](#toeic-lr-4-43-question-response)
-      - [Track 29](#track-29)
-    + [T30 - Heloise Clarke, project manager](#t30---heloise-clarke--project-manager)
-  
-### General
+### Page 40 - Introduction
 
-#### Track  22 - conversation 1
+#### Track 22 - conversation 1
 
 W: I can’t believe we have so much stuff ! It’s just as well we are moving to a bigger house.  
 M: I know. But I really think we could have taken the opportunity to get rid of some of our junk.  
@@ -280,7 +272,7 @@ take a look around : faire le tour, visiter, jeter un coup d’oeil
 it fits into our budget : elle rentre dans notre budget  
 anxious : ici, pressés 
 
-#### Track 25 - conversation 4  
+#### Track 25 - conversation 4
 
 W: Is that going to be ready for the client meeting this afternoon?  
 M: It’ll be touch and go. I didn’t have time to work on it yesterday so I’ve had to rush it this morning.  
@@ -291,11 +283,11 @@ I’ve had to rush it : j'ai dû faire vite
 
 1 B - 2 A - 3 D - 4 C
 
----
 
-### T26-28 Choosing the right place
 
-#### Track 26 : Lisa
+### Page 41 - Choosing the right place
+
+#### Track 26 - Lisa
 
 I’ve been working for a few years now and I have enough money for a down payment. I’ve spoken to the bank. Apparently a five hundred thousand dollar mortgage is going to come out at more or less the same cost as the rent on my current apartment. The rates are really low so I have to get in now before they start to go up. I think I’m going to go for it.
 
@@ -303,7 +295,7 @@ I’ve been working for a few years now : ça fait maintenant quelques années q
 current : actuel (ici)  
 I'm going to go for it : je vais me lancer  
 
-#### Track 27 : Greg
+#### Track 27 - Greg
 
 Greg: I’m seriously considering getting a condo. I’m not really interested in working in the yard, spending my weekends checking the gutters or painting the walls plus it’s a good first step on the housing market. And I’ve been throwing money out of the window for the last few years on rent.
 
@@ -311,7 +303,7 @@ the yard : le jardin
 gutters : les gouttières  
 to throw, threw, thrown : lancer, jeter
 
-#### Track 28 : Kamara
+#### Track 28 - Kamara
 
 I think it’s too early for me to lay down roots. I don’t know what I’m going to be doing in two years’ time. If I buy now, I’m going to barely get my money back if I have to sell a couple of years down the road. If I can find a cheap place to rent, that gives me more possibilities if I want to move on. If I’m offered a job across the country, I can leave at the drop of a hat.
 
@@ -329,9 +321,7 @@ a detached, semi-detached, terraced house
 an owner, a tenant  
 common areas
 
----
-
-### TOEIC LR 4-43 Question Response
+### Page 43 - Buying or renting a home
 
 #### Track 29
 
@@ -357,7 +347,9 @@ G
 M: This place is big enough for the two of us.  
 W: I suppose so. But if there were three of us, we might find it a bit poky.
 
-You’re telling me : à qui le dis-tu ! / tu parles (= accord)  
+#### Vocab builder
+
+*You’re telling me : à qui le dis-tu ! / tu parles (= accord)  
 I may have to : je pourrais bien devoir...  
 a layer : une couche  
 people who have had their houses repossessed [z] : … se sont fait saisir leur maison  
@@ -365,13 +357,13 @@ to screen : filtrer
 out of my price range : pas dans mes prix  
 I thought I had fixed that : je pensais que j’avais réparé ça  
 if there were : (au lieu de was) : s’il y avait, si nous étions (supposition)  
-poky : exigu  
+poky : exigu*
 
 1E / 2B / 3A / 4E / 5C / 6F / 7D / 8G
 
----
+### Page 47 - Heloise Clarke, project manager
 
-### T30 - Heloise Clarke, project manager
+#### Track 30
 
 Good afternoon everyone. Thank you for being here. I’m going to give you an overview of the project: what types of properties we’re offering, as well as the services and amenities. After that I’ll pass you over to Alan who can take you through the finer points of the financing of the project.
 
@@ -389,30 +381,13 @@ In terms of location we are close enough to the town centre for it to be walkabl
 
 So that’s the two different types of properties, of services and amenities. I’ll pass you over now to Alan to talk to you about finance.
 
----
+
 
 ## Chapter 5 - Human Resources
 
- + [T31 Picture questions](#t31-picture-questions)
-      - [T31 page 8](#t31-page-8)
-      - [Vocab Builder page 8](#vocab-builder-page-8)
-    + [Human Resources - Vocab Builder](#human-resources---vocab-builder)
-    + [A day in the life of an HR director](#a-day-in-the-life-of-an-hr-director)
-      - [T32 - Nehla Clough](#t32---nehla-clough)
-        * [Vocabulary](#vocabulary)
-      - [T33 - Stan Pearce](#t33---stan-pearce)
-      - [Vocabulary](#vocabulary-1)
-      - [T34 - Sophie Webb](#t34---sophie-webb)
-      - [Vocabulary](#vocabulary-2)
-    + [CH05-50 T35 Question Response](#ch05-50-t35-question-response)
-    + [CH05-51 T36 Listening to a presentation - Katia Chandler](#ch05-51-t36-listening-to-a-presentation---katia-chandler)
-    + [CH05-52 Talent Conference in Lisbon](#ch05-52-talent-conference-in-lisbon)
-    + [CH05-55 T37 Identifying information - job seekers](#ch05-55-t37-identifying-information---job-seekers)
-    + [Altrium job offer](#altrium-job-offer)
-    
-### T31 Picture questions
+### Page 48 - Introduction
 
-#### T31 page 8
+#### Track 31
 
 1. The company has announced a redundancy plan
 2. He’s updating his resume
@@ -421,7 +396,7 @@ So that’s the two different types of properties, of services and amenities. I�
 5. He’s sending an unsolicited application
 6. They’re having a training session : C
 
-#### Vocab Builder page 8
+#### Vocab Builder
 
 Une entreprise : a firm  
 Une société : a company  
@@ -453,11 +428,7 @@ Une lettre de licenciement : a letter of dismissal
 Être au chômage/sans emploi  : to be unemployed/out of work/out of a job  
 L’aide sociale : social security (GB) ; welfare (US)
 
----
-
-
-
-### Human Resources - Vocab Builder
+#### More vocabulary
 
 | French                                | English                                   |
 | :------------------------------------ | :---------------------------------------- |
@@ -488,9 +459,9 @@ L’aide sociale : social security (GB) ; welfare (US)
 
 
 
-### A day in the life of an HR director
+### Page 49 - A day in the life of an HR director
 
-#### T32 - Nehla Clough
+#### Track 32 - Nehla Clough
 
 *NC: We're getting really short of staff. Is there any chance we can get some new blood any time soon?  
 KC: We have been looking but you keep turning them down.  
@@ -498,7 +469,7 @@ NC: If you want to sell cloud services you need to have some experience of the s
 KC: OK. We'll write up a more detailed ad and state that experience in the sector is obligatory. I'll tell my team to screen the resumes more carefully. How does that sound?  
 N : Fine. I just hope we can get some people in soon.*
 
-##### Vocabulary
+**Vocabulary**
 
 We're getting short of : nous commençons à être à court de...  
 a shortage : une pénurie  
@@ -525,11 +496,7 @@ to screen calls : filtre les appels
 How does that sound? : qu'est-ce que tu en dis?
 that we can get some people in : que nous pourrons attirer des candidats/recruter  
 
----
-
-
-
-#### T33 - Stan Pearce
+#### Track 33 - Stan Pearce
 
 *KC: So, What can I do for you Stan?  
 SP: I was wondering if we could dip into the training budget.  
@@ -539,7 +506,7 @@ KC: We actually have some groups lined up for the end of the month. We could jus
 SP: Perfect. So I can send them along?  
 KC: Get in touch with Kate Stewart. She's in charge of training. She'll have them in for you and you can inform your staff.*
 
-#### Vocabulary
+**Vocabulary**
 
 if we could dip into : si nous pourrions puiser dans/utiliser  
 to dip : tremper, plonger, descendre  
@@ -566,9 +533,7 @@ to send along: envoyer, expédier, soumettre
 get in touch with : contacter  
 she'll have them in for you : elle les inscrira pour toi (ici). terme vague  
 
----
-
-#### T34 - Sophie Webb
+#### Track 34 - Sophie Webb
 
 *SW: I've been looking through the applicants for the international position. We really need someone who has a good level of French and Spanish. They all say they do on the resume but can we check that out?  
 KC: I can get in touch with a language school we've used before. They can do a level assessment. If you have any particular skills you want to test, let me know and we'll have that in.  
@@ -577,7 +542,7 @@ KC: OK. You draw up a list of situations they need to be able to handle and I'll
 SW: That's great. How long do you think that will take?  
 KC: It's usually pretty quick. Once you've given them the requirements we should have the results within a day or two.*
 
-#### Vocabulary
+**Vocabulary**
 
 I've been looking through the applicants : j'ai feuilleté la liste des les candidatures  
 look through the window: regarder par la fenêtre  
@@ -603,9 +568,11 @@ anyone we think might have potential : ceux que nous pensons éventuellement con
 the requirements : exigences, conditions, critères,  
 to require : exiger, requérir, demander, avoir besoin de
 
----
 
-### CH05-50 T35 Question Response
+
+### Page 50 - Grammar Corner
+
+#### Track 35 - Question Response
 
 1E  
 M: So, are you from around here?  
@@ -650,9 +617,11 @@ I handed in my resignation : j'ai remis ma démission
 I thought I'd get in first : j'ai préféré prendre les devants  
 they were considering cutting back on staff : ils envisageaient de réduire les effectifs/de supprimer des postes
 
----
 
-### CH05-51 T36 Listening to a presentation - Katia Chandler
+
+### Page 51 - Listening to a presentation
+
+### Track 36 - Katia Chandler
 
 *OK. Thanks for coming everyone. I'd just like to take you through some of the projects that we're going to be running in HR this year. I'll try to keep this brief but there is quite a lot to get through so if you'll bear with me I'll give you time to ask questions at the end.*
 
@@ -685,9 +654,7 @@ through the site : par l'intermédiaire du site
 we'll go through the procedures for this : nous reviendrons sur les procedures concernées  
 once we're ready to go live : lorsque nous serons opérationnels
 
----
-
-### CH05-52 Talent Conference in Lisbon
+### Page 52 - Talent Conference in Lisbon
 
 to hold, held, held : tenir  
 the conference will be held : la conférence se tiendra  
@@ -720,9 +687,19 @@ at your own expenses : à vos frais
 compensation for flights : remboursement des frais de déplacement (en avion)  
 remboursement : remboursements, traites (pour un prêt)  
 
----
+### Page 54 - Altrium job offer
 
-### CH05-55 T37 Identifying information - job seekers
+UX : système d'exploitation HP Unix.
+
+BA : Bachelor of Arts (licence)
+
+HCI = technical IT term
+
+UI : User Interface, interface utilisateur
+
+### Page 55 - Job seekers
+
+#### Track 37
 
 *M: Have you had any luck finding a job yet?  
 W: Not yet. I'm actually at the point where I would accept almost anything.  
@@ -739,53 +716,24 @@ actually : en fait (pas 'actuellement')
 lousy pay : salaire minable  
 junior account manager : chargé d'affaire (des comptes clients)
 
-### Altrium job offer
-
-UX : système d'exploitation HP Unix.
-
-BA : Bachelor of Arts (licence)
-
-HCI = technical IT term
-
-UI : User Interface, interface utilisateur
-
----
-
 
 
 ## Chapter 6 - Production
 
- + [Page 56 - T38 Picture Questions](#page-56---t38-picture-questions)
-    + [Page 57 - T39 Delivery problems](#page-57---t39-delivery-problems)
-      - [Vocabulary](#vocabulary-3)
-      - [Grammar : past and present perfect](#grammar---past-and-present-perfect)
-    + [Page 59  - T40 Logistics](#page-59----t40-logistics)
-      - [Vocabulary](#vocabulary-4)
-      - [Grammar: present perfect](#grammar--present-perfect)
-    + [Page 61 - T41 Describing a production process](#page-61---t41-describing-a-production-process)
-      - [Vocabulary](#vocabulary-5)
-      - [Grammar: the passive voice](#grammar--the-passive-voice)
-    + [Pages 62-63 -  An industrial dispute](#pages-62-63----an-industrial-dispute)
-    
-### Page 56 - T38 Picture Questions
+### Page 56 - Introduction
+
+#### T38 - Picture Questions
 
 1. He’s preparing an order : D
-
 2. They are in the loading bay
-
 3. The forklift truck is lifting the load : B
-
 4. He works on an assembly line A
-
 5. She’s checking an order on her laptop
-
 6. He’s filling in some paperwork
-
 7. They work in a warehouse C
-
 8. They are doing precision work in a factory
 
-    
+#### Vocab Builder 1
 
 | Français          | English                                                  |
 | ----------------- | -------------------------------------------------------- |
@@ -808,7 +756,9 @@ UI : User Interface, interface utilisateur
 
 ---
 
-### Page 57 - T39 Delivery problems
+### Page 57 - Delivery Problems
+
+#### Track 39 - Karen Ferrera
 
 A – Your driver just arrived here and we have two broken pallets in the truck. I’m sorry but I can’t pay for that.  
 
@@ -833,7 +783,7 @@ F – How quickly can you deliver? because we have a big job here and we need to
 G – We got our supplies yesterday but I think there has been a mistake. We’re working on the foundations and what you’ve sent us isn’t at all the right product for that.
 
 <details><summary></summary>3 – We have three types of mortar. It is written quite clearly in our brochure. If you want to make an exchange, I can handle that for you.</details>
----
+
 
 #### Vocabulary
 
@@ -880,9 +830,9 @@ Même exervice pour les verbes au present perfect.
 
 ---
 
-### Page 59  - T40 Logistics
+### Page 59 - Logistics
 
-Interviewer/Johnny Harris
+####  Track 40 - Interview of Johnny Harris 
 
 IN: How do you manage a global logistics strategy?
 
@@ -912,11 +862,9 @@ components : les composants
 
 Present perfect : have opened (pas de date), have been involved since (depuis), have talked in the past, one solution we have pioneered (action accomplie, pas de date)
 
----
+### Page 61 - Describing a production process
 
-### Page 61 - T41 Describing a production process
-
-*Ron and Jill Wardley produce olive oil.*
+#### Track 41 - Ron and Jill Wardley produce olive oil.
 
 RW: We started making oil about ten years ago, didn't we Jill?  
 JW: Yes. It was the year after we bought the olive grove. So we had about ten olive trees before that and that gave us another fifty or so.  
@@ -963,7 +911,7 @@ a centrifuge : une centrifugeuse
 11. Organice extra virgin oil **is produced**.
 12. Some of the oil **is kept**, some **(is) given** to the family and some **(is) sold**.
 
----
+
 
 ### Pages 62-63 -  An industrial dispute
 
@@ -993,22 +941,11 @@ will be laid-off: seront licenciés
 we will keep going: nous continuerons  
 to keep a promise: tenir une promesse
 
----
-
-
-
 ## Chapter 7 - Health
 
-- [TOIEC LR Chapter 7 - Health](#toiec-lr-chapter-7---health)
-  * [CH07-72 T46 Picture Questions](#ch07-72-t46-picture-questions)
-  * [CH07-73 Article - Alternative Medicine](#ch07-73-article---alternative-medicine)
-  * [CH07-75 T47 Describing medical problems](#ch07-75-t47-describing-medical-problems)
-  * [CH07-78 T48 Giving advice](#ch07-78-t48-giving-advice)
-  * [CH06-79 T49-51 Grand Central Health Club](#ch06-79-t49-51-grand-central-health-club)
+### Page 72 - Introduction
 
-
-
-### CH07-72 T46 Picture Questions
+#### Track 46 - Picture Questions
 
 **Statement 1**
 
@@ -1083,7 +1020,7 @@ to keep a promise: tenir une promesse
 
 <br/>
 
-### CH07-73 Article - Alternative Medicine
+### Page 73 - Alternative Medicine
 
 a med school : une fac de médecine  
 the FDA : Food and Drug Administration (US)  
@@ -1120,9 +1057,9 @@ to take into account : prendre en compte
 to rely on : reposer sur, compter sur  
 to brush under the carpet: passer sous silence, faire l’impasse sur
 
+### Page 75 - Describing medical problems
 
-
-### CH07-75 T47 Describing medical problems
+#### Track 47 - Cecila Beucler responds to patient requests
 
 **Request A**
 
@@ -1222,7 +1159,9 @@ No response
 
 <br/><br/>
 
-### CH07-78 T48 Giving advice
+### Page 78 - The Subjonctive
+
+#### T48 - Dr Turner gives advice to Inessa
 
 D: How’s your leg feeling, Inessa?  
 I: It’s feeling a bit better but it’s still quite stiff.
@@ -1253,26 +1192,23 @@ over-the-counter products: produits sans ordonnance*
 
 
 
-### CH07-79 T49-51 Grand Central Health Club
+### Page 79 - Grand Central Health Club
 
-
-#### T49 Rebecca
+#### Track 49 - Rebecca
 
 <details>
 <summary>I’m definitely into working out. I go running three or four times a week, which is good cardio-training and I really enjoy it, especially when the weather is good. I have a gym membership too. I like the classes. It’s got a community feel to it. So although body pump is hard work, it doesn’t feel like it and we all encourage each other.</summary>
 <br/><strong>Best offer: Work Out</strong>
 </details>
 
-
-#### T50 Dan and Chloe
+#### Track 50 - Dan and Chloe
 
 <details>
 <summary>Dan : I'm at an age where I realize I'm not as fit as I used to be, especially when I'm running about after Chloe who seems to have a lot more energy than me. Im not really a big fan of going to the gym. Often you start out going three or four times a week then it's only two or three times a week and then it has been two or three weeks since you last went. But the childcare is a very good idea. and the pay as you go plan might be the best option for me.</summary>
 <br/><strong>Best offer: Check It Out and Kids Zone</strong>
 </details>
 
-
-#### T51 Diane
+#### Track 51 - Diane
 
 <details>
 <summary>I've always been in quite a good shape. When I was younger I went on a lot of long walks and I often cycled to work. Now I have more time so I go four or five times a week to the health club. I tried some of the classes but that's not really for me. One of the coaches helped me to build a personal training program so I do walking on the treadmills and I even do some of the weights. I'd say I'm in better shape now than when I was thirty.</summary>
@@ -1286,35 +1222,11 @@ over-the-counter products: produits sans ordonnance*
 	</i>
 </details>
 
----
-
 
 
 ## Chapter 8 - Business Development
 
- + [Page 80](#page-80)
-      - [Vocab builder](#vocab-builder)
-      - [Track 52](#track-52)
-    + [Page 81 - Reading a Job Ad](#page-81---reading-a-job-ad)
-      - [Vocabulary](#vocabulary-6)
-      - [Answers](#answers)
-    + [Page 82 - Present Perfect](#page-82---present-perfect)
-      - [Grammar Corner 1](#grammar-corner-1)
-      - [Find the mistake](#find-the-mistake)
-    + [Page 83 - Understanding opinions](#page-83---understanding-opinions)
-      - [Vocabulary to revise](#vocabulary-to-revise)
-      - [Track 53](#track-53)
-    + [Page 84 - Prepositions of time](#page-84---prepositions-of-time)
-      - [Filling the gaps in a text](#filling-the-gaps-in-a-text)
-    + [Page 85 Conversations](#page-85-conversations)
-      - [Track 54 : Farrah Read](#track-54---farrah-read)
-      - [Track 55: Matthiew Rice](#track-55--matthiew-rice)
-      - [Track 56: Sarah Fields](#track-56--sarah-fields)
-    + [Page 86 - Combining information](#page-86---combining-information)
-      - [Business strategy starts at home](#business-strategy-starts-at-home)
-      - [Track 57 Kate and James](#track-57-kate-and-james)
-
-### Page 80
+### Page 80 - Introduction
 
 #### Vocab builder
 
@@ -1324,7 +1236,7 @@ CTO: Chief Technical Officer, Directeur Technique
 CFO: Chief Finance Officer, Directeur financier   
 CMO:  Chief Marketing Officer, Directeur du Marketing
 
-#### Track 52
+#### Track 52 - Picture Questions
 
 Talk 1
 
@@ -1423,9 +1335,7 @@ leadership framework: cadre directeur
 3D construction de to require : we require all employees **to have**  
 4A **equal opportunities : l'égalité des chances**
 
-
-
-### Page 82 - Present Perfect
+### Page 82 - Present Perfect 2
 
 #### Grammar Corner 1
 
@@ -1465,7 +1375,7 @@ Our share price wen down three times this week. Correct en anglais américain. E
 
 
 
-### Page 83 - Understanding opinions
+### Page 83 - Company Strategy
 
 #### Vocabulary to revise
 
@@ -1482,7 +1392,7 @@ customer base: la clientèle
 a redundancy plan : un plan social (de licenciements)  
 tricky : délicat, complexe  
 
-#### Track 53
+#### Track 53 - Giving advice on company strategy
 
 A 2  
 M: I've been talking to the bank about raising money through selling bonds. That way we could really think about attacking the Asian market.  
@@ -1522,9 +1432,9 @@ W: I know. We really should put some training across the board on handling clien
 
 When Bright Sparks was founded **in** 1987 *(cas 1, months, years)*, their strategy was very simple. They wanted to become a national player **by** the end of the century *(cas 2, deadline, date limite, échéance)*. In fact, they reached that goal *(but)* **in** 1988, with over than 30% of market share in the UK. **At** that time in their development *(cas 1)* they hadn't thought further ahead *(pas poussé la réflexion)*. An executive meeting was called **in** Spetember of that year to set new goals and objectives. Those goals changed  **over** the next decade *(cas 3: extended periode of time)* as the company went from strength to strength *(strength: la force, un point fort)* to become the worldwide leader **by** the  end of the century *(cas 2: deadline)*.
 
-### Page 85 Conversations
+### Page 85 - Jacqueline Smith, a business consultant
 
-#### Track 54 : Farrah Read
+#### Track 54 - Farrah Read
 
 FR: Jacqueline, this is Farrah Read from Totally Travel. Do you have a minute?  
 JS: Of course. Did I hear you say Totally Travel? So you did agree to change the name of the company.   
@@ -1538,7 +1448,7 @@ it's growing on me : je m'habitue, je commence à apprécier
 a bullet: une balle  
 to take the bullet: perdre son poste*  
 
-#### Track 55: Matthiew Rice
+#### Track 55 - Matthiew Rice
 
 JS: Mathiew, this is Jacqueline Smith returning your call. How are things at Global Farmers?  
 MR: Oh, hi Jacqueline. Thanks for getting back to me. To be honest, the answer to your question is not great. Patents are running out. The FDA are taking for ever on clinical trials. We are looking at having to make cuts again this quarter. It'st not doing wonders for company morale.  
@@ -1558,7 +1468,7 @@ morale :le moral
 morals: la morale  
 you'll get through it: vous y arriverez*  
 
-#### Track 56: Sarah Fields
+#### Track 56 - Sarah Fields
 
 SF: Jacqueline, this is Sarah Fields from Real Properties. Did you get my email?  
 JS: I was just about to reply. I understand you're thinking about making an offer to buy York Estates.  
@@ -1581,9 +1491,7 @@ that gives you a hold : cela vous donne la maîtrise*
 
 
 
-### Page 86 - Combining information
-
-#### Business strategy starts at home
+### Page 86 - Business strategy starts at home
 
 a behemoth : un monstre, un géant  
 inwards/outwards : vers l'intérieur, vers l'extérieur  
@@ -1599,6 +1507,8 @@ tangible : tangible, visible
 daily chores : les tâches, les corvées quotidiennes  
 to go the extra mile : faire des efforts supplémentaires  
 to implement a service : mettre un service en œuvre, en place  
+
+### Page 87 - Concierge Service
 
 #### Track 57 Kate and James
 
@@ -1625,9 +1535,9 @@ to cram things in : faire tenir les chose, remplir, bourrer
 it makes us stand out :  cela nous fait sortir du lot  
 outstanding: remarquable  
 to gauge: jauger, mesurer  
-to take advantage of: tirer parti de, profiter de, exploiter*
+to take advantage of: tirer parti de, profiter de, exploiter
 
----
+
 
 ## Chapter 9 - Purchasing - not done yet
 
@@ -1645,10 +1555,11 @@ to take advantage of: tirer parti de, profiter de, exploiter*
     + [Page 86 - Combining information](#page-86---combining-information-1)
       - [Track 57](#track-57)
 
+### Page  88
 
-### Page  88 Vocab builder
+#### Vocab builder
 
-##### Track 58
+#### Track 58
 
 Talk 1
 
