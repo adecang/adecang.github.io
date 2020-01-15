@@ -19,18 +19,14 @@
   
 ## Chapter 1 - Banking and Personal Finance
 
-+ [CH01-09](#track-2-page-9)
-    + [Track 3 page 9](#track-3-page-9)
-    + [Track 4 page 9](#track-4-page-9)
-    + [Track 5 page 11](#track-5-page-11)
-    + [Track 6 page 15 - Kristina Martins](#track-6-page-15---kristina-martins)
-    
+### CH01-08 Introduction
+#### Picture Questions
 1.  The woman is writing a check
 2.  The ATM is out of order
 3.  They’re queuing outside the bank
 4.  The man is withdrawing some cash
 5.  They’re standing in line to speak to a teller
-
+#### Vocab Builder
 A teller: un employé de banque  
 An ATM: an Automatic Teller Machine = un distributeur  
 Out of order: hors service  
@@ -42,10 +38,8 @@ To draw, drew, drawn  : tirer, dessiner (de: tirer un trait)
 To draw conclusions : tirer des conclusions  
 A drawn face: les traits tirés  
 to go overdrawn : à découvert (retiré trop d'argent)
-
----
-
-### CH01-09 T2
+### CH01-09 Kelly Holmes
+#### T2-4 
 
 K: Open Bank, Kelly speaking. How may I help you?  
 C: Hello, this is Kay Singh. I’m calling because I’ve been having some problems with my bank card.  
