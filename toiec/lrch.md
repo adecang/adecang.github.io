@@ -1707,8 +1707,81 @@ a hangar: un hangar
 
 ### CH9 page 83 - Understanding opinions
 
-#### Track 53 page 83 - Abigael Kerr
+#### Track 53 page 83 - Abigael Kerr, head of procurement
 
+**Request A**
+
+<details>
+<summary>R: We are really short of pens and notepads. I asked for extra, but I have been told there are none left in supplies. Can you order some more for us?
+</summary>
+A: Every deparment got the same amount per person. How is it that sales seem to run out before anyone else?
+<i>
+	<br/>notepads : des bloc-notes
+	<br/>supplies: ici, la réserve des fournitures de bureau
+	<br/>the same amount : la même quantité
+	<br/>sales : ici, le service commercial
+</i>
+</details>
+
+<br/><br/>
+
+**Request B**
+
+<details>
+<summary>
+R: We are holding a breakfast meeting tomorrow for a big client.  What's the budget for tea, coffee and pastries?
+</summary>
+A: That's not in the budget for the moment but if you can pass it with Bill, I'll hunt out the best deal.
+<i>
+	<br/>pastries: les patisseries
+	<br/>to hunt out for: me débrouiller pour dénicher
+</i>
+</details>
+
+<br/><br/>
+
+**Request C**
+
+<details>
+<summary>
+R: I just had an Excel training and it was really genuinely awful. Do we have to stay with these jokers?
+</summary>
+A: That contract runs for another year, Im afraid. I can get on to them and see if we can imporve the service.
+<i>
+	<br/>these jokers: ces clowns, ces farceurs
+</i>
+</details>
+
+<br/><br/>
+
+**Request D**
+
+<details><summary></summary>
+<br/><strong></strong>
+<i>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+</i>
+</details>
+
+<br/><br/>
+
+**Request E**
+
+<details><summary></summary>
+<br/><strong></strong>
+<i>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+</i>
+</details>
+<br/>
 
 
 ### CH9 page 84 - Prepositions of time
