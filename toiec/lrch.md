@@ -10,7 +10,7 @@
   * [Chapter 6 - Production](#chapter-6---production)
   * [Chapter 7 - Health](#chapter-7---health)
   * [Chapter 8 - Business Development](#chapter-8---business-development)
-  * [Chapter 9 - Purchasing - not done yet](#chapter-9---purchasing)
+  * [Chapter 9 - Purchasing](#chapter-9---purchasing)
   * [Chapter 10 - Eating Out - not done yet](#chapter-10---eating-out---not-done-yet)   
   * [Chapter 11 - Leisure - not done yet](#chapter-11---leisure---not-done-yet)
   * [Chapter 12 General Business Activities - not done yet](#chapter-12-general-business-activities---not-done-yet)
@@ -1705,18 +1705,20 @@ a stake: une participation, un intérêt
 a (clothes) hanger: un cintre  
 a hangar: un hangar
 
-### CH9 page 83 - Understanding opinions
+### CH9 page 91 - Answering requests
 
 #### Track 53 page 83 - Abigael Kerr, head of procurement
 
 **Request A**
 
 <details>
-<summary>R: We are really short of pens and notepads. I asked for extra, but I have been told there are none left in supplies. Can you order some more for us?
+<summary>
+R: We are really short of pens and notepads. I asked for extra, but I have been told there are none left in supplies. Can you order some more for us?
 </summary>
-A: Every deparment got the same amount per person. How is it that sales seem to run out before anyone else?
+<br/>
+AK: Every deparment got the same amount per person. How is it that sales seem to run out before anyone else?
 <i>
-	<br/>notepads : des bloc-notes
+	<br/>notepads : des blocs-notes
 	<br/>supplies: ici, la réserve des fournitures de bureau
 	<br/>the same amount : la même quantité
 	<br/>sales : ici, le service commercial
@@ -1729,9 +1731,8 @@ A: Every deparment got the same amount per person. How is it that sales seem to 
 
 <details>
 <summary>
-R: We are holding a breakfast meeting tomorrow for a big client.  What's the budget for tea, coffee and pastries?
+We are holding a breakfast meeting tomorrow for a big client.  What's the budget for tea, coffee and pastries?
 </summary>
-A: That's not in the budget for the moment but if you can pass it with Bill, I'll hunt out the best deal.
 <i>
 	<br/>pastries: les patisseries
 	<br/>to hunt out for: me débrouiller pour dénicher
@@ -1744,9 +1745,10 @@ A: That's not in the budget for the moment but if you can pass it with Bill, I'l
 
 <details>
 <summary>
-R: I just had an Excel training and it was really genuinely awful. Do we have to stay with these jokers?
+I just had an Excel training and it was really genuinely awful. Do we have to stay with these jokers? They are totally unprofessional.
 </summary>
-A: That contract runs for another year, Im afraid. I can get on to them and see if we can imporve the service.
+<br/>
+Abigael: I've heard from HR that they would like to change. We're holding a tender to see if we can get a better provider.
 <i>
 	<br/>these jokers: ces clowns, ces farceurs
 </i>
@@ -1756,14 +1758,15 @@ A: That contract runs for another year, Im afraid. I can get on to them and see 
 
 **Request D**
 
-<details><summary></summary>
-<br/><strong></strong>
+<details>
+<summary>
+Is there any chance we can get a couple more printers in Finance? We are all hovering over the photocopier on the thirty-first floor and it is really slowing us down. 
+</summary>
+<br/>
+Abigael: I can't do anything about that. It doesn't comply with our green policy so you will just have to make do.
 <i>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+	<br/>to hover: planer, voler, rester au dessus
+	<br/>to comply with: se conformer à, respecter
 </i>
 </details>
 
@@ -1771,22 +1774,80 @@ A: That contract runs for another year, Im afraid. I can get on to them and see 
 
 **Request E**
 
-<details><summary></summary>
-<br/><strong></strong>
+<details>
+<summary>
+I think there is a problem with the invoice for the G.A. components. They have applied a shipping fee of five hundred dollars and I thought you had negociated that down to two hundred dollars
+</summary>
+</details>
+
+<br/><br/>
+
+**Request F**
+
+<details>
+<summary>
+Have you eaten in the cafeteria lately? I'm surprised that nobody has come down with food poisoning yet. when are we going to change for somebody who can provide someting edible?
+</summary>
+<br/>
+Abigael: That contract runs for another year, Im afraid. I can get on to them and see if we can improve the service.
 <i>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+	<br/>food poisoning : intoxication alimentaire
+	<br/>edible: comestible
 </i>
 </details>
+
+<br/><br/>
+
+**Request G**
+
+<details>
+<summary>
+Can we get some new tablet PCs? They are getting kind of old. It's embarrassing when you are with a client and the presentations take ten minutes to load
+</summary>
 <br/>
+Abigael: That's not in the budget for the moment but if you can pass it with Bill, I'll hunt out the best deal.
+</details>
 
+<br/><br/>
 
-### CH9 page 84 - Prepositions of time
+### CH9 page 92-93 - Online chat discussions
 
-### CH9 page 85 Conversations
+to add on : ajouter  
+to take off: enlever  
+abroad: à l'étranger  
+that might be chicken feed for them : c'est peut-être négligeable pour eux  
+otherwise: à part ça, sinon  
+a shelter: un abri  
+a flier: un prospectus, un dépliant  
+a discount voucher: un bon de réduction  
+
+**Note**
+
+S'entraîner à lire les nombres
+
+### CH9 page 94 - Grammar corner
+
+#### Asking polite questions
+
+Apprendre à utiliser au présent et au passé:
+
+* Could you **tell** me if...
+* Would you mind **telling** me if...
+* I wonder if I could...
+
+#### Reported speech (discours indirect)
+
+1
+
+<details>
+  <summary>
+    Did you see a mistake on the envelope?
+  </summary>
+  <br/>
+  Could you tell me if you saw a mistake on the envelope?
+</details>
+
+<br/><br/>
 
 #### Track 54
 
