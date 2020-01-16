@@ -10,7 +10,7 @@
   * [Chapter 6 - Production](#chapter-6---production)
   * [Chapter 7 - Health](#chapter-7---health)
   * [Chapter 8 - Business Development](#chapter-8---business-development)
-  * [Chapter 9 - Purchasing - not done yet](#chapter-9---purchasing---not-done-yet)
+  * [Chapter 9 - Purchasing - not done yet](#chapter-9---purchasing)
   * [Chapter 10 - Eating Out - not done yet](#chapter-10---eating-out---not-done-yet)   
   * [Chapter 11 - Leisure - not done yet](#chapter-11---leisure---not-done-yet)
   * [Chapter 12 General Business Activities - not done yet](#chapter-12-general-business-activities---not-done-yet)
