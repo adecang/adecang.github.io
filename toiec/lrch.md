@@ -1776,7 +1776,7 @@ Abigael: I can't do anything about that. It doesn't comply with our green policy
 
 <details>
 <summary>
-I think there is a problem with the invoice for the G.A. components. They have applied a shipping fee of five hundred dollars and I thought you had negociated that down to two hundred dollars
+I think there is a problem with the invoice for the G.A. components. They have applied a shipping fee of five hundred dollars and I thought you had negotiated that down to two hundred dollars
 </summary>
 </details>
 
@@ -1825,7 +1825,7 @@ a discount voucher: un bon de réduction
 
 S'entraîner à lire les nombres
 
-### CH9 page 94 - Grammar corner
+### CH9 page 94 - Grammar corner 2
 
 #### Asking polite questions
 
@@ -1838,7 +1838,6 @@ Apprendre à utiliser au présent et au passé:
 #### Reported speech (discours indirect)
 
 1
-
 <details>
   <summary>
     Did you see a mistake on the envelope?
@@ -1848,8 +1847,69 @@ Apprendre à utiliser au présent et au passé:
 </details>
 
 <br/><br/>
+2
+<details>
+  <summary>
+    Would you send me a copy by tomorrow morning?
+  </summary>
+  <br/>
+  I wonder if I could ask you to send me a copy by tomorrow morning?
+</details>
 
-#### Track 54
+<br/><br/>
+
+3
+<details>
+  <summary>
+    Can you waive the shipping fee?
+  </summary>
+  <br/>
+  Would you mind waiving the shipping fee?
+</details>
+
+<br/><br/>
+4
+<details>
+  <summary>
+    Did you send the invoice with the consignment?
+  </summary>
+  <br/>
+  Could you tell me if you sent the invoice with the consignment?
+</details>
+
+### CH9 page 95 - A Radio Interview
+
+#### Track62 - Martin Goldberg on the art of negotiation
+
+I: We're speaking today to Martin Goldberg, a specialist in business negotiations.
+You recently brokered a two point five billion dollar deal. Martin, we'd like to ask you about a more basic level of negotiations. Can you give our listeners some advice on how to negotiate a salary?  
+
+MG: The basic stages of negotiations are the same whether you are approaching a multi-million deal or a salary. Step one is always preparation. There is a wealth of resources available today to give you an idea of the market value of the job you are applying for  
+Here, you need to distinguish between what you need, what you want, and what you are worth. We all need money to pay our bills, our rent or our mortgage but this is not how you enter a negotiation. Aim high and try not to come down too far. If you know your value, then what you need or want don't come into it.
+
+I: That sounds so simple. How do we approach getting a company to give us that?
+
+MG: Well, first of all you never say that in the negotiations. Your employer doesn't care how much you need to pay your mortgage. This is where you have to demonstrate what you can do for the company. In the same way, we are not going to reveal how much we think we are worth. Some employers will ask for a salary history and some will ask at a preliminary stage for your salary expectations. You should try to be as non-commital as you can at this point. The more you say how much you think you deserve, the less room there is left for negotiation.
+
+I: What if the company offers a lot less than we had expected?
+
+MG/ Negotiations can take time and you have to be patient. You'd be amazed how much you can gain by not accepting or rejecting too quickly. The golden rule for salaries is not to settle just because you think the offer is reasonable. Many people feel uncomfortable negotiating and just want to get it over and done as soon as possible. Remember: This is your income for the foreseeable future. If you can get ten or fifteen percent more, think of how your standard of living would change within that time. Ultimately though, the salary offer is too low you may have to turn it down but before you do that, check out the benefits too. The whole compensation package is important. If the salary is low but they are throwing in a company car and stock options, you may want to reconsider how much you need in salary every month.  
+I: So, do your homework and work out your value, demonstrate your value in the interview and don't make too many quick decisions. Do you have any final advice?
+
+MG: Yes. Stay professional. If you are at the stage of salary negotiations it's because the company would like to offer you a job. If it doesn't turn up to pay as much as you are hoping, then don't burn any bridges. You can say thank you, but no thank you and no hard feelings. The business world can be mighty small sometimes. One other thing : make sure you get an offer in writing. This is standard business practice. If the employer has an issue with putting it in writing, you should be wary of accepting. Once you have the whole compensation package in writing, read it carefully. Consider if you're fully satisfied and then make a decision. If you follow that advice, you should be ok. 
+
+*to broker: négocier  
+a broker : un courtier  
+a wealth of resources: une foule de ressources  
+wealth: la richesse  
+to aim: viser  
+to be non-commital: rester évasif, ne pas s'engager  
+to settle: ici, trancher, décider  
+foreseeable: prévisible, proche  
+standard of living: niveau de vie  
+to throw in: jeter dans la balance  
+to turn down (an offer): refuser, rejeter  
+benefits: les avantages  
 
 #### Track 55
 
