@@ -1536,53 +1536,180 @@ to take advantage of: tirer parti de, profiter de, exploiter*
 
 
 
-## Chapter 9 - Purchasing - not done yet
+## Chapter 9 - Purchasing
 
 <a href="#TOP">Go back to top</a>
 
 ### CH9 page  88
 
-#### Vocab builder
+#### Track 58 page 88
 
-#### Track 58
+1. They're checking the order: **picture D**
+2. They're having a business lunch
+3. He's paying by credit card: **picture B**
+4. He's checking the invoice: **picture C**
+5. She's asking for directions
+6. They're agreeing a business deal: **picture A**
 
-Talk 1
+#### Vocab Builder 1 page 88
 
-<details><summary></summary>
-<br/><strong></strong>
-<i>
-  	 <br/>
-  	  <br/>
-  	  <br/>
-  	  <br/>
-  	  <br/>
-</i>
-</details>
-
-Talk 2
-
-<details><summary></summary>
-<br/><strong></strong>
-<i>
-  	 <br/>
-  	  <br/>
-  	  <br/>
-  	  <br/>
-  	  <br/>
-</i>
-</details>
-
-Talk 3
-
-
+an order : une commande  
+an invoice/a bill : une facture  
+a quote/an estimate: un devis  
+to purchase/to buy: acheter  
+a purchase: un achat  
+purchasing power: le pouvoir d'achat  
+to despatch: expédier ("dépêcher")   
+goods: des marchandises  
+a consignment: un envoi, une livraison, un lot (= les marchandises envoyées)  
+procurement: l'approvisionnement (cf: se procurer)  
+the procurement department: le service achat
 
 ### CH9 page 89 - An Open Tender
 
+#### Invitation to tender for Gateway International
+
+an invitation to tender: un appel d'offres  
+Procurement procedure : procédure d'approvisionnement  
+supply: la fourniture  
+a supplier : un fournisseur  
+supply and demand: l'offre et la demande (terme économique)  
+abovementioned : mentionné ci-dessus  
+a Tender Aknowledgment form: un accusé de réception pour l'appel d'offre (indique que l'entreprise a l'intention de faire une offre)   
+an acknowlegment receipt: un accusé de réception (d'un envoi recommandé)  
+to acknowledge: reconnaître (admettre)  
+to submit a bid: soumettre, présenter une offre  
+to bid: faire une offre, soumissionner  
+a discrepancy : une divergence, une différence (entre la version papier et la version sur clé usb)  
+to prevail: prévaloir, l'emporter, faire foi  
+registered post: lettre recommandée  
+by courier: par un service de messagerie privée (UPS, Fedex etc)  
+
+*Note : les appels d'offre permettent de mettre les fournisseurs en concurrence et d'obtenir plusieurs devis. Dans l'administration (lycée par exemple), il est obligatoire de faire un appel d'offre pour les achats au dessus de 4 000€.*
+
+#### Track 59 page 89 - Baron Miles and Sarah Harding consider bidding
+
+B: Is that the invitation to tender for Gateway?  
+S: Yes, Have you looked at it?  
+B: I glanced it over but I'm not sure we have much chance of winning. so I didn't waste too much time on it.  
+S: Look, it's a huge company and Julie wants us to bid for it. Besides, you never know!  
+B: Ok then, How many people are we talking about?  
+S: Two hundred and fifty here in London and a further fifty in Ireland and fifty more in Amsterdam.  
+B: My Dutch is a little rusty. How's yours?  
+S: Ah, ah, very funny. Listen, the London and Dublin offices we can manage. It will mean taking on a few extra staff but that's no problem. For the Netherlands, we can see if anyone is interested in a joint venture.  
+B: Actually, I might know someone. A friend of mine works for IT Hopeline. They have offices all over Europe. It's a German company and their London office is pretty small. So they might be interested in something like this.  
+S: Here you go. So the deadline is the sixth. That gives us just over two weeks. I will fill up the aknowledgment form and you get on to your mate and see what we can set up.
+
+*to glance at: jeter un coup d'oeil   
+to glance over a document : jeter un coup d'oeil rapide (over: idée de survoler)  
+to waste time : perdre du temps (pas "lose time")   
+and a further fifty in Ireland : et encore cinquante en Irlande  
+rusty: rouillé  
+a few extra staff : accord pluriel pour staff (du personnel)  
+I might: il se pourrait que je (I may : il se peut que je)  
+pretty small: plutôt petit  
+to fill up a form: renseigner (remplir) un formulaire  
+you get up to your mate: tu contactes ton copain (exactement: tu fais appel à, tu sollicites)* 
+
+**Note**
+
+German: allemand  
+Dutch: néerlandais (hollandais)  
+The Netherlands : les Pays-Bas  
+Holland : la Hollande: une province des Pays-Bas
+
+*Les Pays-Bas insistent officiellement (info janvier 2020) pour qu'on appelle leur pays par son vrai nom, pas la Hollande.*
+
+**Answers**
+
+1. What does Baron think about the invitation to tender?  
+   **He thinks they don't have much chance of winning, so this tender is not worth the trouble**.
+
+2. Why have they decided to enter a bid?  
+   **Julie wants them to bid, and they know a Dutch company which could help.**
+
+3. How many peopel do Gateway employ in Europe?  
+   **They employ 350 people (250 + 50 + 50)**
+
+4. Which countries do they have offices in?  
+   **They have offices in England and in Ireland**
+
+5. What solution do they find for each country?  
+   **They can manage England and Ireland with extra staff. They might set up a joint venture with a German company Baron knows**
+
+   
+
 ### CH9 page 90 - Homophones
+
+Il faut distinguer :
+
+1. Homonymes : deux sens pour le même mot:  
+   formerly = précédemment ou formellement  
+   stationary = papeterie ou stationnaire
+
+2. Homophones : deux mots différents qui se prononcent de la même façon:  
+   flour (la farine) et flower (la fleur)  
+   meet (rencontrer) et meat (viande)  
+   cellar (cave) et seller (vendeur)  
+   wait (attendre) et weight (le poids)  
+   son (le fils) et sun (le soleil)
+
+Pour comprendre le sens de ces mots on se sert du contexte (la phrase, le paragraphe)
+
+**Note**
+Certains mots ont la même écriture mais pas la même prononciation:  
+
+read [ri:d]: lire  
+I read [red]: l'ai lu  
+to lead [li:d]: mener, conduire  
+lead [led]: le plomb
+
+#### Track 60 page 90 - listen carefully
+
+1. How long is the presentation going to be?  
+   **A:  it's supposed to last about an hour**  
+   B: it's being given in our office.
+2. Are they going to compensate us for the delay?  
+   A: They waved to us from the ship's deck  
+   **B: they said they would waive the shipping fee**
+3. How are they going to ship the product?  
+   A: They said they didn't see them on the truck  
+   **B: They're having them sent by sea**
+4. When did they deliver the last consignment?  
+   **A: It arrived quite late last night**  
+   B: They say the CEO is officially a knight
+5. Why did you insist on a joint venture?  
+   A: I wanted to have a steak for dinner  
+   **B: I wanted to have a stake in the project**
+6. Are the goods still at the airport?  
+   **A: Yes, they're in hangar 5C**  
+   B: You need a hanger for that jacket
+
+to wave: faire signe  
+a wave: une vague  
+to waive: renoncer à, faire cadeau de  
+a waiver : un exemption, une dérogation (ex: visa waiver)  
+
+a ship: un bateau, un navire  
+a shipping company: une compagnie maritime  
+
+to ship: expédier (pas obligatoirement par mer)  
+shipment: transport, envoi, chargement  (pas obigatoirement par mer)
+
+last night: hier soir  
+a knight: un chevalier (une personne annoblie par la Reine)  
+
+a steak: un steak....  
+a stake: une participation, un intérêt
+
+a (clothes) hanger: un cintre  
+a hangar: un hangar
 
 ### CH9 page 83 - Understanding opinions
 
-#### Track 53
+#### Track 53 page 83 - Abigael Kerr
+
+
 
 ### CH9 page 84 - Prepositions of time
 
