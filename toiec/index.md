@@ -2,11 +2,11 @@
 
 ## Toiec Larousse
 
-[Chapter 1 - Banking and Personal Finance](lrch01)
+[Chapter 1 - Banking and Personal Finance](lrch_01)
 
 Chapter 2 - In the office
 
-[Chapter 3 - Travel](lrch03)
+[Chapter 3 - Travel](lrch_03)
 
 [Mini Test 1](lrmt1)
 
