@@ -1707,7 +1707,7 @@ a hangar: un hangar
 
 ### CH9 page 91 - Answering requests
 
-#### Track 53 page 83 - Abigael Kerr, head of procurement
+#### Track 53 page 91 - Abigael Kerr, head of procurement
 
 **Request A**
 
@@ -1725,7 +1725,7 @@ AK: Every deparment got the same amount per person. How is it that sales seem to
 </i>
 </details>
 
-<br/><br/>
+<br/>
 
 **Request B**
 
@@ -1739,7 +1739,7 @@ We are holding a breakfast meeting tomorrow for a big client.  What's the budget
 </i>
 </details>
 
-<br/><br/>
+<br/>
 
 **Request C**
 
@@ -1754,7 +1754,7 @@ Abigael: I've heard from HR that they would like to change. We're holding a tend
 </i>
 </details>
 
-<br/><br/>
+<br/>
 
 **Request D**
 
@@ -1770,7 +1770,7 @@ Abigael: I can't do anything about that. It doesn't comply with our green policy
 </i>
 </details>
 
-<br/><br/>
+<br/>
 
 **Request E**
 
@@ -1780,7 +1780,7 @@ I think there is a problem with the invoice for the G.A. components. They have a
 </summary>
 </details>
 
-<br/><br/>
+<br/>
 
 **Request F**
 
@@ -1796,7 +1796,7 @@ Abigael: That contract runs for another year, Im afraid. I can get on to them an
 </i>
 </details>
 
-<br/><br/>
+<br/>
 
 **Request G**
 
@@ -1808,7 +1808,7 @@ Can we get some new tablet PCs? They are getting kind of old. It's embarrassing 
 Abigael: That's not in the budget for the moment but if you can pass it with Bill, I'll hunt out the best deal.
 </details>
 
-<br/><br/>
+<br/>
 
 ### CH9 page 92-93 - Online chat discussions
 
