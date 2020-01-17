@@ -1,27 +1,27 @@
 # TOIEC LAROUSSE
 
 
-[Chapter 1 - Banking and Personal Finance](lrch_01)
+[Chapter 1 - Banking and Personal Finance](lr/lrch_01)
 
 Chapter 2 - In the office
 
-[Chapter 3 - Travel](lrch_03)
+[Chapter 3 - Travel](lr/lrch_03)
 
-[Mini Test 1](lrmt_01)
+[Mini Test 1](lr/lrmt_01)
 
-[Chapter 4 - Real Estate](lrch_04)
+[Chapter 4 - Real Estate](lr/lrch_04)
 
-[Chapter 5 - Human Resources](lrch_05)
+[Chapter 5 - Human Resources](lr/lrch_05)
 
-[Chapter 6  -Production](lrch_06)
+[Chapter 6  -Production](lr/lrch_06)
 
-[Mini Test 2](lrmt_02)
+[Mini Test 2](lr/lrmt_02)
 
-[Chapter 7 - Health](lrch_07)
+[Chapter 7 - Health](lr/lrch_07)
 
-[Chapter 8 - Business Development](lrch_08)
+[Chapter 8 - Business Development](lr/lrch_08)
 
-[Chapter 9 - Purchasing](lrch_09)
+[Chapter 9 - Purchasing](lr/lrch_09)
 
 Chapter 10 - Eating Out
 
@@ -35,4 +35,8 @@ Chapter 13 - Technology
 
 Mini Test 4
 
-[Vocab](lr/lrch_01_vocab)
+[Vocab_01](lr/lrch_01_vocab)
+
+[Answer Sheet](lr/rmt_answer_sheet)
+
+[Test Score]()

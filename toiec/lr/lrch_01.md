@@ -119,4 +119,5 @@ The first thing that surprised me when you contacted me was how little brand nam
 
 If we can cut five percent off our fixed costs and another seven or eight percent off labour costs and production my suggestion would be to give at least half of that over to marketing. You’d still be lowering expenses but with well-targeted campaigns you could make a significant difference to sales as well as profits, which is after all the bottom line.
 
-<a href="#TOP">Go back to top</a>
+<a href="#TOP">Top</a>
+
