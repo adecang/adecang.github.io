@@ -50,36 +50,35 @@ I’ve had to rush it : j'ai dû faire vite
 
 I’ve been working for a few years now and I have enough money for a down payment. I’ve spoken to the bank. Apparently a five hundred thousand dollar mortgage is going to come out at more or less the same cost as the rent on my current apartment. The rates are really low so I have to get in now before they start to go up. I think I’m going to go for it.
 
-I’ve been working for a few years now : ça fait maintenant quelques années que je travaille  
+*I’ve been working for a few years now : ça fait maintenant quelques années que je travaille  
 current : actuel (ici)  
-I'm going to go for it : je vais me lancer  
+I'm going to go for it : je vais me lancer*  
 
 ### Track 27 - Greg
 
 Greg: I’m seriously considering getting a condo. I’m not really interested in working in the yard, spending my weekends checking the gutters or painting the walls plus it’s a good first step on the housing market. And I’ve been throwing money out of the window for the last few years on rent.
 
-the yard : le jardin  
-gutters : les gouttières
-
-to throw, threw, thrown : lancer, jeter
+*the yard : le jardin  
+gutters : les gouttières  
+to throw, threw, thrown : lancer, jeter*
 
 ### Track 28 - Kamara
 
 I think it’s too early for me to lay down roots. I don’t know what I’m going to be doing in two years’ time. If I buy now, I’m going to barely get my money back if I have to sell a couple of years down the road. If I can find a cheap place to rent, that gives me more possibilities if I want to move on. If I’m offered a job across the country, I can leave at the drop of a hat.
 
-lay down roots : m'enraciner  
+*to lay down roots : m'enraciner  
 barely : à peine, tout juste  
 a couple of years down the road : d'ici quelques années  
 move on : évoluer  
 if I’m offered : si on m'offre (passif, be +Vpp)  
 across the country, : à l'autre bout du pays  
 leave, left, left : quitter, partir  
-at the drop of a hat : comme bon me semble, à tout moment
+at the drop of a hat : comme bon me semble, à tout moment*
 
-a condo (condominium ) ≠ an apartment  
+*a condo (condominium ) ≠ an apartment  
 a detached, semi-detached, terraced house  
-an owner, a tenant  
-common areas
+an owner, a tenant: un propriétaire, un locataire  
+common areas: les parties communes*
 
 ## Page 43 - Buying or renting a home
 

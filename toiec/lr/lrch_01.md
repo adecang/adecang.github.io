@@ -1,5 +1,9 @@
 # Chapter 1 - Banking and Personal Finance
 
+<a id="TOP"></a>
+
+[TOC]
+
 ## Page 8 - Introduction
 
 ### Track 1 - Picture Questions
