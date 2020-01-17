@@ -1,7 +1,7 @@
 # MINI TEST 1
 
 <a id="TOP"></a>
-[TOC]
+---
 
 ## Track 18 page 39
 
@@ -38,7 +38,6 @@ location : emplacement
 
 ****
 <div style="page-break-after: always;"></div>
-
 ## Track 20
 
 ### Questions 11 to 13
@@ -72,7 +71,6 @@ to lend, lent, lent : prêter
 
 ***
 <div style="page-break-after: always;"></div>
-
 ## Track 21
 
 ### Questions 17 through 19

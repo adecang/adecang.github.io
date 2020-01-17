@@ -1,7 +1,25 @@
 # Chapter 3 - Travel
 <a id="TOP"></a>
 
-[TOC]
+- [Chapter 3 - Travel](#chapter-3---travel)
+  * [Page 24 - Introduction](#page-24---introduction)
+    
+    + [Track 11 -  Picture Questions](#track-11----picture-questions)
+  * [Page 25 - Reading advertisements](#page-25---reading-advertisements)
+    
+    + [Track 12 - Choosing a hotel](#track-12---choosing-a-hotel)
+  * [Page 27 - Checking out a website](#page-27---checking-out-a-website)
+    + [Track 13 - Cathy Brookes](#track-13---cathy-brookes)
+    + [Track 14 - Joe Forken](#track-14---joe-forken)
+    + [Track 15 - Tara Curran](#track-15---tara-curran)
+  * [Page 28 - Grammar Corner](#page-28---grammar-corner)
+    
+    + [Track 16 - Questions words](#track-16---questions-words)
+  * [Page 29 - Combining Listening with Reading](#page-29---combining-listening-with-reading)
+    
+    + [Track 17 - Destinations](#track-17---destinations)
+    
+---
 
 ## Page 24 - Introduction
 

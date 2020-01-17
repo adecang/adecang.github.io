@@ -2,7 +2,20 @@
 
 <a id="TOP"></a>
 
-[TOC]
+- [Chapter 1 - Banking and Personal Finance](#chapter-1---banking-and-personal-finance)
+  * [Page 8 - Introduction](#page-8---introduction)
+    + [Track 1 - Picture Questions](#track-1---picture-questions)
+    + [Vocab Builder](#vocab-builder)
+  * [Page 9 - Kelly Holmes, an account adviser](#page-9---kelly-holmes--an-account-adviser)
+    + [Track 2 - Kay Singh](#track-2---kay-singh)
+    + [Track 3 - Cray Jones](#track-3---cray-jones)
+    + [Track 4 - Tara Epstein](#track-4---tara-epstein)
+  * [Page 11 - Financial Advice](#page-11---financial-advice)
+    + [Track 5](#track-5)
+  * [Page 15 - Suggesting budget changes](#page-15---suggesting-budget-changes)
+    + [Track 6 : Kristina Martins](#track-6---kristina-martins)
+
+---
 
 ## Page 8 - Introduction
 

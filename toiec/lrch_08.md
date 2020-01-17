@@ -2,7 +2,30 @@
 
 <a id="TOP"></a>
 
-[TOC]
+- [Chapter 8 - Business Development](#chapter-8---business-development)
+  * [Page 80 - Introduction](#page-80---introduction)
+    + [Vocab builder](#vocab-builder)
+    + [Track 52 - Picture Questions](#track-52---picture-questions)
+  * [Page 81 - Reading a Job Ad](#page-81---reading-a-job-ad)
+    + [Vocabulary](#vocabulary)
+    + [Answers](#answers)
+  * [Page 82 - Present Perfect 2](#page-82---present-perfect-2)
+    + [Grammar Corner 1](#grammar-corner-1)
+    + [Find the mistake](#find-the-mistake)
+    + [CH8 page 83 - Company Strategy](#ch8-page-83---company-strategy)
+    + [Vocabulary to revise](#vocabulary-to-revise)
+    + [Track 53 - Giving advice on company strategy](#track-53---giving-advice-on-company-strategy)
+  * [Page 84 - Prepositions of time](#page-84---prepositions-of-time)
+    + [Filling the gaps in a text](#filling-the-gaps-in-a-text)
+  * [Page 85 - Jacqueline Smith, a business consultant](#page-85---jacqueline-smith--a-business-consultant)
+    + [Track 54 - Farrah Read](#track-54---farrah-read)
+    + [Track 55 - Matthiew Rice](#track-55---matthiew-rice)
+    + [Track 56 - Sarah Fields](#track-56---sarah-fields)
+  * [Page 86 - Business strategy starts at home](#page-86---business-strategy-starts-at-home)
+  * [Page 87 - Concierge Service](#page-87---concierge-service)
+    + [Track 57 - Kate and James](#track-57---kate-and-james)
+
+---
 
 ## Page 80 - Introduction
 

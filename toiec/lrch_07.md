@@ -1,10 +1,24 @@
-## Chapter 7 - Health
+# Chapter 7 - Health
 
 <a id="TOP"></a>a>
 
-### Page 72 - Introduction
+- [Chapter 7 - Health](#chapter-7---health)
+  * [Page 72 - Introduction](#page-72---introduction)
+    + [Track 46 - Picture Questions](#track-46---picture-questions)
+  * [Page 73 - Alternative Medicine](#page-73---alternative-medicine)
+  * [Page 75 - Describing medical problems](#page-75---describing-medical-problems)
+    + [Track 47 - Cecila Beucler responds to patient requests](#track-47---cecila-beucler-responds-to-patient-requests)
+  * [Page 78 - The Subjonctive](#page-78---the-subjonctive)
+    + [T48 - Dr Turner gives advice to Inessa](#t48---dr-turner-gives-advice-to-inessa)
+  * [Page 79 - Grand Central Health Club](#page-79---grand-central-health-club)
+    + [Track 49 - Rebecca](#track-49---rebecca)
+    + [Track 50 - Dan and Chloe](#track-50---dan-and-chloe)
+    + [Track 51 - Diane](#track-51---diane)
 
-#### Track 46 - Picture Questions
+---
+## Page 72 - Introduction
+
+### Track 46 - Picture Questions
 
 **Statement 1**
 
@@ -79,7 +93,7 @@
 
 <br/>
 
-### CH7 page 73 - Alternative Medicine
+##  Page 73 - Alternative Medicine
 
 a med school : une fac de médecine  
 the FDA : Food and Drug Administration (US)  
@@ -116,9 +130,9 @@ to take into account : prendre en compte
 to rely on : reposer sur, compter sur  
 to brush under the carpet: passer sous silence, faire l’impasse sur
 
-### CH7 page 75 - Describing medical problems
+## Page 75 - Describing medical problems
 
-#### Track 47 - Cecila Beucler responds to patient requests
+### Track 47 - Cecila Beucler responds to patient requests
 
 **Request A**
 
@@ -218,9 +232,9 @@ No response
 
 <br/>
 
-### CH7 page 78 - The Subjonctive
+## Page 78 - The Subjonctive
 
-#### T48 - Dr Turner gives advice to Inessa
+### T48 - Dr Turner gives advice to Inessa
 
 D: How’s your leg feeling, Inessa?  
 I: It’s feeling a bit better but it’s still quite stiff.
@@ -249,23 +263,23 @@ a joint : une articulation
 the knee: le genou  
 over-the-counter products: produits sans ordonnance*
 
-### CH7 page 79 - Grand Central Health Club
+## Page 79 - Grand Central Health Club
 
-#### Track 49 - Rebecca
+### Track 49 - Rebecca
 
 <details>
 <summary>I’m definitely into working out. I go running three or four times a week, which is good cardio-training and I really enjoy it, especially when the weather is good. I have a gym membership too. I like the classes. It’s got a community feel to it. So although body pump is hard work, it doesn’t feel like it and we all encourage each other.</summary>
 <br/><strong>Best offer: Work Out</strong>
 </details>
 
-#### Track 50 - Dan and Chloe
+### Track 50 - Dan and Chloe
 
 <details>
 <summary>Dan : I'm at an age where I realize I'm not as fit as I used to be, especially when I'm running about after Chloe who seems to have a lot more energy than me. Im not really a big fan of going to the gym. Often you start out going three or four times a week then it's only two or three times a week and then it has been two or three weeks since you last went. But the childcare is a very good idea. and the pay as you go plan might be the best option for me.</summary>
 <br/><strong>Best offer: Check It Out and Kids Zone</strong>
 </details>
 
-#### Track 51 - Diane
+### Track 51 - Diane
 
 <details>
 <summary>I've always been in quite a good shape. When I was younger I went on a lot of long walks and I often cycled to work. Now I have more time so I go four or five times a week to the health club. I tried some of the classes but that's not really for me. One of the coaches helped me to build a personal training program so I do walking on the treadmills and I even do some of the weights. I'd say I'm in better shape now than when I was thirty.</summary>

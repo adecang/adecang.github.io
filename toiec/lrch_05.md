@@ -2,7 +2,24 @@
 
 <a id="TOP"></a>a>
 
-[TOC]
+- [Chapter 5 - Human Resources](#chapter-5---human-resources)
+- [Page 48 - Introduction](#page-48---introduction)
+  * [Track 31](#track-31)
+  * [Vocab Builder](#vocab-builder)
+- [Page 49 - A day in the life of an HR director](#page-49---a-day-in-the-life-of-an-hr-director)
+  * [Track 32 - Nehla Clough](#track-32---nehla-clough)
+  * [Track 33 - Stan Pearce](#track-33---stan-pearce)
+  * [Track 34 - Sophie Webb](#track-34---sophie-webb)
+- [Page 50 - Grammar Corner](#Page-50---grammar-corner)
+  * [Track 35 - Question Response](#track-35---question-response)
+- [Page 51 - Listening to a presentation](#page-51---listening-to-a-presentation)
+- [Track 36 - Katia Chandler](#track-36---katia-chandler)
+- [Page 52 - Talent Conference in Lisbon](#page-52---talent-conference-in-lisbon)
+- [Page 54 - Altrium job offer](#page-54---altrium-job-offer)
+- [Page 55 - Job seekers](#page-55---job-seekers)
+  * [Track 37](#track-37)
+
+---
 
 ## Page 48 - Introduction
 
@@ -156,7 +173,7 @@ anyone we think might have potential : ceux que nous pensons éventuellement con
 the requirements : exigences, conditions, critères,  
 to require : exiger, requérir, demander, avoir besoin de
 
-## CH5 page 50 - Grammar Corner
+## Page 50 - Grammar Corner
 
 ### Track 35 - Question Response
 

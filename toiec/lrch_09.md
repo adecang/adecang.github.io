@@ -2,7 +2,25 @@
 
 <a id="TOP"></a>
 
-[TOC]
+- [Chapter 9 - Purchasing](#chapter-9---purchasing)
+  * [Page  88](#page--88)
+    + [Track 58 page 88](#track-58-page-88)
+    + [Vocab Builder 1 page 88](#vocab-builder-1-page-88)
+  * [Page 89 - An Open Tender](#page-89---an-open-tender)
+    + [Invitation to tender for Gateway International](#invitation-to-tender-for-gateway-international)
+    + [Track 59 page 89 - Baron Miles and Sarah Harding consider bidding](#track-59-page-89---baron-miles-and-sarah-harding-consider-bidding)
+  * [Page 90 - Homophones](#page-90---homophones)
+    + [Track 60 page 90 - listen carefully](#track-60-page-90---listen-carefully)
+  * [Page 91 - Answering requests](#page-91---answering-requests)
+    + [Track 53 page 91 - Abigael Kerr, head of procurement](#track-53-page-91---abigael-kerr--head-of-procurement)
+  * [Page 92-93 - Online chat discussions](#page-92-93---online-chat-discussions)
+  * [Page 94 - Grammar corner 2](#page-94---grammar-corner-2)
+    + [Asking polite questions](#asking-polite-questions)
+    + [Reported speech (discours indirect)](#reported-speech--discours-indirect-)
+  * [Page 95 - A Radio Interview](#page-95---a-radio-interview)
+    + [Track 62 - Martin Goldberg on the art of negotiation](#track-62---martin-goldberg-on-the-art-of-negotiation)
+
+---
 
 ## Page  88
 
