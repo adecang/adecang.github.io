@@ -1,6 +1,5 @@
-# TOIEC
+# TOIEC LAROUSSE
 
-## Toiec Larousse
 
 [Chapter 1 - Banking and Personal Finance](lrch_01)
 
@@ -8,21 +7,21 @@ Chapter 2 - In the office
 
 [Chapter 3 - Travel](lrch_03)
 
-[Mini Test 1](lrmt1)
+[Mini Test 1](lrmt_01)
 
-[Chapter 4 - Real Estate](lrch04)
+[Chapter 4 - Real Estate](lrch_04)
 
-[Chapter 5 - Human Resources](lrch05)
+[Chapter 5 - Human Resources](lrch_05)
 
-[Chapter 6  -Production](lrch06)
+[Chapter 6  -Production](lrch_06)
 
-[Mini Test 2](lrmt02)
+[Mini Test 2](lrmt_02)
 
-[Chapter 7 - Health](lrmt07)
+[Chapter 7 - Health](lrmt_07)
 
-[Chapter 8 - Business Development](lrch08)
+[Chapter 8 - Business Development](lrch_08)
 
-[Chapter 9 - Purchasing](lrch09)
+[Chapter 9 - Purchasing](lrch_09)
 
 Chapter 10 - Eating Out
 
