@@ -35,3 +35,5 @@ Chapter 12 - General Business Activities
 Chapter 13 - Technology
 
 Mini Test 4
+
+[Vocab](lr/lrch_01_vocab)
