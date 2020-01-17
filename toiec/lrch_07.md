@@ -1,6 +1,6 @@
 # Chapter 7 - Health
 
-<a id="TOP"></a>a>
+<a id="TOP"></a>
 
 - [Chapter 7 - Health](#chapter-7---health)
   * [Page 72 - Introduction](#page-72---introduction)
