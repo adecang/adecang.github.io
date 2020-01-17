@@ -47,7 +47,7 @@ to go overdrawn : à découvert (retiré trop d'argent)
 
 ### Track 2 - Kay Singh
 
-[Track2](lrtk_02.mp3]
+[Track2](lrtk_02.mp3)
 
 K: Open Bank, Kelly speaking. How may I help you?  
 C: Hello, this is Kay Singh. I’m calling because I’ve been having some problems with my bank card.  
