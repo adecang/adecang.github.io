@@ -20,7 +20,7 @@
 ## Page 8 - Introduction
 
 ### Track 1 - Picture Questions
-[track1](blob/master/toiec/vocab/lrtk_01.mp3)
+[track1](/master/toiec/vocab/lrtk_01.mp3)
 1.  The woman is writing a check
 2.  The ATM is out of order
 3.  They’re queuing outside the bank
