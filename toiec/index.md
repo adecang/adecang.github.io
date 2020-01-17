@@ -17,7 +17,7 @@ Chapter 2 - In the office
 
 [Mini Test 2](lrmt_02)
 
-[Chapter 7 - Health](lrmt_07)
+[Chapter 7 - Health](lrch_07)
 
 [Chapter 8 - Business Development](lrch_08)
 
