@@ -66,10 +66,10 @@
 
 ### Conversation 1 : questions 11 to 13
 
-*M: Have you seen this email? They're launching a personal development program. It's about someting you'd like to do which can be job-related or not.  
+M: Have you seen this email? They're launching a personal development program. It's about someting you'd like to do which can be job-related or not.  
 W: So what types of things?  
 M: Well, languages for one. But it could be sports, arts or banal things like IT. It's all on the internet. You put in the same username and password as for your computer and it tells you how many hours you have. Then you scroll through the menus and you find what you want to do.  
-W: Interesting. I'll have to have a look this afternoon.*
+W: Interesting. I'll have to have a look this afternoon.
 
 11- What is the conversation mainly about? **D: a new training program**  
 12- What does the man explain about the internet? **B: It contains a list of options**  
@@ -77,11 +77,11 @@ W: Interesting. I'll have to have a look this afternoon.*
 
 ### Conversation 2: questions 14 to 16
 
-*W1: that house has been on the market for weeks. I sometimes wonder if they'll ever be able to sell it.  
+W1: that house has been on the market for weeks. I sometimes wonder if they'll ever be able to sell it.  
 M: I don't know. I think it has potential but we haven't found the right person yet.  
 W2: I know what you mean but if you want my opinion it's too much work to do for most people at the price we're selling at.  
 W1: We need to speak to the seller. Either she agrees to drop the price or she needs to think about at least redecorating.  
-M: We've been down that road before but I guess we can try again.*
+M: We've been down that road before but I guess we can try again.
 
 14- What do they say about the house? **D: It has great potential**  
 15- What do they deceide to do? **A: Speak to the seller**  
@@ -93,7 +93,7 @@ M: We've been down that road before but I guess we can try again.*
 
 ### Talk 1 : questions 17 to 19
 
-*So that brings us to the production figures for last year. As you know, we have four plants which have alla had varying success over the last twelve months. For each one you can see the quota and the actual figures. In our two oldest plants we were more or less on quota even if we fell slightly under by the end of the year. Detroit only opened in the middle of the year so despite appearing under quota, the figure on that chart shows an annual quota. So in fact we're very please with the way that it started. for our fourth plant you can really see the effect of both the breakdowns and the subsequent worker strike, which means we are a long way below  where we planned. I think it will be fair to say we are disappointed with the management of that situation.*
+So that brings us to the production figures for last year. As you know, we have four plants which have alla had varying success over the last twelve months. For each one you can see the quota and the actual figures. In our two oldest plants we were more or less on quota even if we fell slightly under by the end of the year. Detroit only opened in the middle of the year so despite appearing under quota, the figure on that chart shows an annual quota. So in fact we're very please with the way that it started. for our fourth plant you can really see the effect of both the breakdowns and the subsequent worker strike, which means we are a long way below  where we planned. I think it will be fair to say we are disappointed with the management of that situation.
 
 17- What does the man explain about their oldest plants? **A: They are satisfied with the figures**
 
@@ -102,7 +102,7 @@ M: We've been down that road before but I guess we can try again.*
 
 ### Talk 2: questions 20 to 22
 
-*OK everyone. If we're all here we should just about be ready to start. Your first speaker today is Clive Gosling. He has worked with politicians, budsiness leaders and top executives and we're very happy to have him here to give you a guide to effective presentations. You'll find a full schedule of today's speakers on the agenda I've left you at the back of the room. So take a copy and hopefully by the end of today you'll be ready to meet your objectives for this quarter and bring new clients to our portfolio. So I'll leave you now and in just a few minutes Clive Gosling and his Effective Presentations will be here.* 
+OK everyone. If we're all here we should just about be ready to start. Your first speaker today is Clive Gosling. He has worked with politicians, budsiness leaders and top executives and we're very happy to have him here to give you a guide to effective presentations. You'll find a full schedule of today's speakers on the agenda I've left you at the back of the room. So take a copy and hopefully by the end of today you'll be ready to meet your objectives for this quarter and bring new clients to our portfolio. So I'll leave you now and in just a few minutes Clive Gosling and his Effective Presentations will be here. 
 
 20- Who most likely is the woman? **A: A training manager**  
 21- What should the audience do next? **D: Take a seat**  
@@ -143,29 +143,29 @@ John and Stephen Brooke hatched (ont fait éclore = ont démarré) a **business 
 ## Part 6 page 68
 
 111 B : **We have decided**  
-Constat d'une décison prise dans le passé, avec des conséquences présentes : present perfect simple [HAVE+PP] (grammaire)
+*Constat d'une décison prise dans le passé, avec des conséquences présentes : present perfect simple [HAVE+PP] (grammaire)*
 
 112 D: **are required to**   
-Passif : on leur demande de, on exige d'eux qu'ils.. (grammaire)
+*Passif : on leur demande de, on exige d'eux qu'ils.. (grammaire)*
 
 113 A: **We cannot function efficiently when staff stockpile leave.**  
-Nous ne pouvons pas fonctionner sans réserve de personnel (compréhension)
+*Nous ne pouvons pas fonctionner sans réserve de personnel (compréhension)*
 
 114 D: They must be sent **to** HR  
-Envoyer à : idée de mouvement vers => to
+*Envoyer à : idée de mouvement vers => to*
 
 ## Part 7 pages 69-71
 
 ### Document 1 page 69
 
 115 B: **A furniture supplier**  
-Ils doivent vernir les bureaux avant de les livrer (varnish) mais le rembourrage des sièges est fait (upholstery)
+*Ils doivent vernir les bureaux avant de les livrer (varnish) mais le rembourrage des sièges est fait (upholstery)*
 
 116 C: **They are waiting for an order**  
-They don't have the right varnish and the  coasters (sous-verres)
+*They don't have the right varnish and the  coasters (sous-verres)*
 
 117 A: **butter them up** = adoucir, calmer, brosser dans le sens du poil  
-Devinable d'après le contexte
+*Devinable d'après le contexte*
 
 ### Document 2 pages 70-71
 

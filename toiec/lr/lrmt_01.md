@@ -1,12 +1,19 @@
 # MINI TEST 1
 
 <a id="TOP"></a>
----
 
 ## Track 18 page 39
 
-1. A: The woman is buying a meal. B: The man is paying for the vegetables. C: The woman is paying in cash. D: The man doesn’t have any change.
-2. A: They’re checking in for a flight. B: They have just arrived at the hotel. C: They are looking for the bell. D: The man is traveling alone.
+1  
+A: The woman is buying a meal.  
+B: The man is paying for the vegetables.  
+**C: The woman is paying in cash.**  
+D: The man doesn’t have any change.
+
+2  
+A: They’re checking in for a flight.  
+**B: They have just arrived at the hotel.**  
+C: They are looking for the bell. D: The man is traveling alone.
 
 1C / 2B
 
@@ -21,7 +28,7 @@
 9. I don’t know if I’ve received any commission for the ...  deal yet.  A: You should check your pay slip.  B: It’s a very good deal.  C: I’ve commissioned two myself.
 10. What do you think of the new office building?  A: It’s a new location.  B: They’re building it now.  C: It’s so much better than before.
 
-I’ve placed an order : j’ai passé une commande  
+*I’ve placed an order : j’ai passé une commande  
 We ought to = we should  
 cash or charge? : en espèces ou par carte?  
 fixed rate mortgage : un prêt à taux fixe  
@@ -32,7 +39,7 @@ board : réunion de direction, conseil d'administration...
 route : itinéraire  
 pay slip : feuille de paye, bulletin de salaire  
 to commission : commissioner, engager  
-location : emplacement
+location : emplacement*
 
 3C / 4A / 5C / 6C / 7B / 8B / 9A / 10C 
 
@@ -50,9 +57,9 @@ M: Gee, you’re right ! We’re downstairs on the second floor. And they’ve c
 12: Why is the man surprised to see the woman?  
 13: What will the man probably do next?
 
-training budget : budget formation  
+*training budget : budget formation  
 there must have been : il y a dû y avoir, il y a certainement eu  
-topic : sujet  
+topic : sujet*  
 
 ### Questions 14 to 16
 
@@ -65,9 +72,9 @@ M: I’m afraid I don’t. But there’s an ATM at the corner.
 15: Why does the woman say, “just my luck”?  
 16: What does the man suggest?  
 
-Just my luck! : c’est mon jour de chance! (ironique)  
+*Just my luck! : c’est mon jour de chance! (ironique)  
 I’d better : je ferais mieux de  
-to lend, lent, lent : prêter
+to lend, lent, lent : prêter*
 
 ***
 <div style="page-break-after: always;"></div>
@@ -81,8 +88,8 @@ Good afternoon ladies and gentlemen. We’re just about ready to depart. We’re
 18: What is the final destination?  
 19: What is indicated about Darby?  
 
-Signal failure  : panne de signalisation  
-side exit : la sortie latérale, sur le côté  
+*Signal failure  : panne de signalisation  
+side exit : la sortie latérale, sur le côté*  
 
 ### Questions 20 through 22
 

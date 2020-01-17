@@ -37,6 +37,6 @@ Mini Test 4
 
 [Vocab_01](lr/lrch_01_vocab)
 
-[Answer Sheet](lr/rmt_answer_sheet)
+[Answer Sheet](lr/rmt_answer_sheet.pdf)
 
-[Test Score]()
+[Test Score](lrmt_test_score.pdf)

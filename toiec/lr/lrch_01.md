@@ -41,6 +41,8 @@ To draw conclusions : tirer des conclusions
 A drawn face: les traits tirés  
 to go overdrawn : à découvert (retiré trop d'argent)
 
+<a href="#TOP">Top</a>
+
 ## Page 9 - Kelly Holmes, an account adviser
 
 ### Track 2 - Kay Singh
@@ -57,6 +59,8 @@ K: OK. Here is what I suggest. I’m going to order a new card straight away. It
 I've been having some problems: present perfect continuous, retour sur une activité passée  
 As soon as the card is ready : dans les subordonnées de temps on emploie le présent à la place du futur (= quand votre carte sera prête)*
 
+<a href="#TOP">Top</a>
+
 ### Track 3 - Cray Jones
 
 C: This is Cray Jones from C.J. Butchers. I think we are going to have difficulties meeting our loan repayments this month.    
@@ -70,6 +74,8 @@ repayments : les traites
 an invoice : une facture  
 to block, unblock an account : bloquer, débloquer un compte  
 A fee : des frais*
+
+<a href="#TOP">Top</a>
 
 ### Track 4 - Tara Epstein
 
@@ -86,6 +92,8 @@ K: OK. So first I’ll need to ask you some identification questions just to che
 a state : ici : un des 50 états des US  
 ID : identification  
 your account details : votre numéro de compte
+
+<a href="#TOP">Top</a>
 
 ## Page 11 - Financial Advice
 
@@ -104,6 +112,8 @@ E. If we want to expand internationally, we’re going to need a big capital inv
 F. I feel like my purchasing power is going down year on year. My salary has stayed the same but the prices in the supermarket have gone up by five per cent.  
 
 G. If we want to be more competitive we really need to upgrade our computer systems but we just don’t have the money right now.
+
+<a href="#TOP">Top</a>
 
 ## Page 15 - Suggesting budget changes
 
