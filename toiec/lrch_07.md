@@ -1,6 +1,6 @@
 ## Chapter 7 - Health
 
-<a id="TOP"></a>a>
+<a id="TOP"></a>
 
 ### Page 72 - Introduction
 
