@@ -46,7 +46,9 @@ to go overdrawn : à découvert (retiré trop d'argent)
 ## Page 9 - Kelly Holmes, an account adviser
 
 ### Track 2 - Kay Singh
-[Track2](lrtk_02.mp3] 
+
+[Track2](lrtk_02.mp3]
+
 K: Open Bank, Kelly speaking. How may I help you?  
 C: Hello, this is Kay Singh. I’m calling because I’ve been having some problems with my bank card.  
 K: I’m sorry to hear that. What kind of problems?  
