@@ -30,7 +30,7 @@
 
 [Audio](lrtk_43.mp3)
 
-3- I didn't see you on the training course this morning   
+3- I didn't see you at the training course this morning   
 	**A: I called in sick**  
 	B: I took the train yesterday  
 	C: It was nice to see you too   
