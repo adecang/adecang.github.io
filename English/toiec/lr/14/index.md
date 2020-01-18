@@ -9,6 +9,6 @@ Mini Test 3
 
 Mini Test 4
 
-[Answer sheet](lrmt_answer_sheet)
+[Answer sheet](lrmt_answer_sheet.pdf)
 
-[Score sheet](lrmt_test_score)
+[Score sheet](lrmt_test_score.pdf)
