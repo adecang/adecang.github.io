@@ -23,8 +23,15 @@ C: They are looking for the bell. D: The man is traveling alone.
 
 [Audio](lrtk_19.mp3)
 
-3. Is the photocopier out of order again?  A: I copied it earlier. B: I’ve placed an order. C: I’m afraid so.
-4. Did you really buy tickets for 7 o’clock Monday morning? A: We ought to make an early start. B: It’s right on time. C: We’re buying the tickets on Monday.
+3. Is the photocopier out of order again?  
+A: I copied it earlier.  
+B: I’ve placed an order.  
+C: I’m afraid so.
+
+4. Did you really buy tickets for 7 o’clock Monday morning?  
+A: We ought to make an early start.  
+B: It’s right on time.  
+C: We’re buying the tickets on Monday.
 5. Are you paying cash or charge?  A: No, thank you. B: I’ll have one of each, please. C: I’ll put it on my credit card.
 6. I can offer you 2 percent on a fixed rate mortgage. A: How much would that be if we chose variable? B: Does that take into account the exchange rate? C: Can’t you offer us three percent?
 7. I think we must talk about upgrading our software. A: I was upgraded to first class. B: Let’s put that on the agenda for the board meeting. C: That might be a software problem.
