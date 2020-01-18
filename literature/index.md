@@ -1,3 +1,0 @@
-## Literature
-
-Nothing yet

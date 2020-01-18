@@ -1,3 +1,3 @@
 *My precious E.T. site*
 
-### [TOIEC](toiec/index)
+### [TOIEC](English/toiec/index)
