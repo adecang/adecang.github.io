@@ -123,6 +123,9 @@ F. I feel like my purchasing power is going down year on year. My salary has sta
 
 G. If we want to be more competitive we really need to upgrade our computer systems but we just don’t have the money right now.
 
+*to update: mettre à jour  
+to upgrade: mettre à niveau*
+
 <a href="#TOP">Top</a>
 
 ## Page 15 - Suggesting budget changes
