@@ -154,7 +154,7 @@ sparklers: des batonnets à étincelles, des bougies magiques (pas de bonne trad
 a spark: une étincelle  
 sparkling wine: un vin pétillant, un mousseux*
 
-#### Track 68 - Patrick
+### Track 68 - Patrick
 
 [Audio](lrtk_68.mp3)
 
@@ -172,7 +172,7 @@ N: Ok, that's fine. Thank you Mr Eriksson, we'll see you on Tuesday at noon.
 *secluded: retiré, isolé, tranquille  
 a bay window: une grande baie vitrée (souvent en saillie)
 
-#### Track 69 - Bonnie
+### Track 69 - Bonnie
 
 [Audio](lrtk_69.mp3)
 
@@ -194,7 +194,7 @@ to tip: donner un pourboire*
 
 Note: aux US, les serveurs sont souvent payés uniquement au pourboire. Il faut ajouter entre 15% et 20% aux prix affichés sur les menus
 
-### Page 100 - Make or Do?
+## Page 100 - Make or Do?
 
 Make: idée de fabriquer  
 Do: plus général
@@ -202,9 +202,9 @@ Do: plus général
 A teacher **makes** an exercise (il le conçoit)  
 A student **does** an exercise
 
-### Page 101 - The Do's and Don'ts of Business Lunches
+## Page 101 - The Do's and Don'ts of Business Lunches
 
-#### Track 70 - Tania
+### Track 70 - Tania
 
 [Audio](lrtk_70.mp3)
 
