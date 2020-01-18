@@ -32,12 +32,35 @@ C: I’m afraid so.
 A: We ought to make an early start.  
 B: It’s right on time.  
 C: We’re buying the tickets on Monday.
-5. Are you paying cash or charge?  A: No, thank you. B: I’ll have one of each, please. C: I’ll put it on my credit card.
-6. I can offer you 2 percent on a fixed rate mortgage. A: How much would that be if we chose variable? B: Does that take into account the exchange rate? C: Can’t you offer us three percent?
-7. I think we must talk about upgrading our software. A: I was upgraded to first class. B: Let’s put that on the agenda for the board meeting. C: That might be a software problem.
-8. Are we going by train or plane?  A: It’s the fastest route.  B: Whatever’s cheapest.  C: I’ve been training for weeks.
-9. I don’t know if I’ve received any commission for the ...  deal yet.  A: You should check your pay slip.  B: It’s a very good deal.  C: I’ve commissioned two myself.
-10. What do you think of the new office building?  A: It’s a new location.  B: They’re building it now.  C: It’s so much better than before.
+
+5. Are you paying cash or charge?  
+A: No, thank you.  
+B: I’ll have one of each, please.  
+C: I’ll put it on my credit card.
+
+6. I can offer you 2 percent on a fixed rate mortgage.  
+A: How much would that be if we chose variable?  
+B: Does that take into account the exchange rate?  
+C: Can’t you offer us three percent?
+
+7. I think we must talk about upgrading our software.  
+A: I was upgraded to first class.  
+B: Let’s put that on the agenda for the board meeting.  
+C: That might be a software problem.
+
+8. Are we going by train or plane?  
+A: It’s the fastest route.  
+B: Whatever’s cheapest.  
+C: I’ve been training for weeks.
+
+9. I don’t know if I’ve received any commission for the ...  deal yet.  
+A: You should check your pay slip.  B: It’s a very good deal.  
+C: I’ve commissioned two myself.
+
+10. What do you think of the new office building?  
+A: It’s a new location.  
+B: They’re building it now.  
+C: It’s so much better than before.
 
 *I’ve placed an order : j’ai passé une commande  
 We ought to = we should  
