@@ -1,4 +1,5 @@
-# Mini tests
+# TOIEC Larousse
+## Mini tests
 
 [Mini test 1](lrmt_01)
 
