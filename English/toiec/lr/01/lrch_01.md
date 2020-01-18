@@ -20,20 +20,16 @@
 ## Page 8 - Introduction
 
 ### Track 1 - Picture Questions
-<<<<<<< HEAD:English/toiec/01/lrch_01.md
 
 [Audio](lrtk_01.mp3)
 
-=======
-[track1](https://adecang.github.io/toiec/vocab/lrtk_01.mp3)
->>>>>>> 3a74df677f81012f4aa0cc74c4a12c51d938b6be:toiec/lr/lrch_01.md
 1.  The woman is writing a check
 2.  The ATM is out of order
 3.  They’re queuing outside the bank
 4.  The man is withdrawing some cash
 5.  They’re standing in line to speak to a teller
 
-### Vocab Builder
+Vocab Builder
 
 A teller: un employé de banque  
 An ATM: an Automatic Teller Machine = un distributeur  
@@ -53,11 +49,7 @@ to go overdrawn : à découvert (retiré trop d'argent)
 
 ### Track 2 - Kay Singh
 
-<<<<<<< HEAD:English/toiec/01/lrch_01.md
 [Audio](lrtk_02.mp3)
-=======
-[Track2](lrtk_02.mp3)
->>>>>>> 3a74df677f81012f4aa0cc74c4a12c51d938b6be:toiec/lr/lrch_01.md
 
 K: Open Bank, Kelly speaking. How may I help you?  
 C: Hello, this is Kay Singh. I’m calling because I’ve been having some problems with my bank card.  
