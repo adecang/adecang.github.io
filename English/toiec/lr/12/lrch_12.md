@@ -14,16 +14,17 @@
 <summary>
 <strong>Talk 1</strong>
 <br/>
-I spend a lot of my time in meetings. We have weekly start meetings, decision-making meetings, brainstorming meetings and communication meetings. Sometimes it seems we spend so much time in meetings, we don't have time t owork any more.
+I spend a lot of my time in meetings. We have weekly start meetings, decision-making meetings, brainstorming meetings and communication meetings. Sometimes it seems we spend so much time in meetings, we don't have time to work any more.
 </summary>
 <br/>
 <strong>Picture A</strong>
+<br/>
 <i>
 	<br/>brainstorming: réunions de réflexion
 </i>
 </details>
 
-
+<br/>
 
 <details>
 <summary>
@@ -32,33 +33,33 @@ I spend a lot of my time in meetings. We have weekly start meetings, decision-ma
 I'm the first person people see when they come into the building. So how I welcome people gives the first impression of the company to clients. Suppliers, new members of staff. We have a lot of people coming through every day. So it can get pretty hectic.
 </summary>
 <br/>
-<strong></strong>
+<strong>No picture</strong>
+<br>
 <i>
 	<br/>We have a lot opf people coming through: nous voyons passer beaucoup de monde
 	<br/>hectic:
 </i>
 </details>
-
-Talk 3
+<br/>
 
 <details>
 <summary>
 <strong>Talk 3</strong>
+<br/>
 I spend a lot of time out of the office. Business lunches, client meetings, (...)  my suppliers. I spend about half the day in my car and the other half pressing the flesh and presenting our product range. 
 </summary>
+<br/>
 <i>
 	<br/>the flesh : la chair
 	<br/>to press the flesh
 </i>
 </details>
-
-
+<br/>
 
 <details>
 <summary>
-<br/>
 <strong>Talk 4</strong>
-
+<br/>
 </summary>
 <i>
 	<br/>
@@ -68,11 +69,16 @@ I spend a lot of time out of the office. Business lunches, client meetings, (...
 	<br/>
 </i>
 </details>
+<br/>
 
-Talk 5
-
-<details><summary></summary>
-<br/><strong></strong>
+<details>
+<summary>
+<strong>Talk 5</strong>
+<br/>
+</summary>
+<br/>
+<strong></strong>
+<br/>
 <i>
 	<br/>
 	<br/>
