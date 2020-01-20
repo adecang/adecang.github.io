@@ -1,60 +1,65 @@
-## Chapter 12 - General Business Activities
+# Chapter 12 - General Business Activities
 
 <a href="#TOP">Go back to top</a>
 
-### Page 120 - Introduction
+## Page 120 - Introduction
 
-#### Vocab Builder 1
+### Vocab Builder 1
 
-#### Track 82 - Picture Questions
+### Track 82 - Picture Questions
 
 [Audio](lrtk_82.mp3)
 
-#### Vocab Builder 1
-
-Talk 1
-
-<details><summary></summary>
-<br/><strong></strong>
+<details>
+<summary>
+<strong>Talk 1</strong>
+<br/>
+I spend a lot of my time in meetings. We have weekly start meetings, decision-making meetings, brainstorming meetings and communication meetings. Sometimes it seems we spend so much time in meetings, we don't have time t owork any more.
+</summary>
+<br/>
+<strong>Picture A</strong>
 <i>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+	<br/>brainstorming: réunions de réflexion
 </i>
 </details>
 
-Talk 2
 
-<details><summary></summary>
-<br/><strong></strong>
+
+<details>
+<summary>
+<strong>Talk 2</strong>
+<br/>
+I'm the first person people see when they come into the building. So how I welcome people gives the first impression of the company to clients. Suppliers, new members of staff. We have a lot of people coming through every day. So it can get pretty hectic.
+</summary>
+<br/>
+<strong></strong>
 <i>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+	<br/>We have a lot opf people coming through: nous voyons passer beaucoup de monde
+	<br/>hectic:
 </i>
 </details>
 
 Talk 3
 
-<details><summary></summary>
-<br/><strong></strong>
+<details>
+<summary>
+<strong>Talk 3</strong>
+I spend a lot of time out of the office. Business lunches, client meetings, (...)  my suppliers. I spend about half the day in my car and the other half pressing the flesh and presenting our product range. 
+</summary>
 <i>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+	<br/>the flesh : la chair
+	<br/>to press the flesh
 </i>
 </details>
 
-Talk 4
 
-<details><summary></summary>
-<br/><strong></strong>
+
+<details>
+<summary>
+<br/>
+<strong>Talk 4</strong>
+
+</summary>
 <i>
 	<br/>
 	<br/>

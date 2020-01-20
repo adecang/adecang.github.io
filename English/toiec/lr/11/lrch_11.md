@@ -336,7 +336,7 @@ The man thinks the football game <strong>might be</strong> on television
 
 [Audio](lrtk_79.mp3)
 
-I'm not much of a theatre goer. The last play I saw went on for about four hours and the seats weren't that comfortable either. Movies tend to be shorter than that and the Great Oak has comfortable seats. We can fall asleep if the movie's not that good. I'd have to see the trailers first. But I think *All alone* is likely to be more my type of movie. Apparently Bradley Jones has a cameo in that.
+I'm not much of a theatre goer. The last play I saw went on for about four hours and the seats weren't that comfortable either. Movies tend to be shorter than that and the Great Oak has big comfortable seats. We can fall asleep if the movie's not that good. I'd have to see the trailers first. But I think *All alone* is likely to be more my type of movie. Apparently Bradley Jones has a cameo in that.
 
 *a theatre goer: un amateur de théatre  
 the seats weren't **that** comfortable: les sièges n'étaient pas si ccomfortables que ça  
@@ -347,13 +347,60 @@ he has a cameo in that: il fait une apparition dans ce film (souvent un acteur c
 
 [Audio](lrtk_80.mp3)
 
+I would say my days of going to night clubs are behind me and I've never heard of DJ Bobo. So I doubt I'll be going to room 7609 this weekend. Macbeth at the Royal is maybe more my style. I'm assuming they're doing the two-hour shorter version rather than the director's cut if they're doing a matinee at three and again at nine. I'll have a look online and see if I can get a couple of tickets for the evening performance. Ideally we want someting not too far from the stage.
+
+*Macbeth: a play by Shakespeare.  
+the shorter version: there are short and long versions of Shakespeare's plays.  
+a matinee: représentation l'après-midi  
+a performance: une représentation*
+
 ### Track 81 - Elaine
 
 [Audio](lrtk_81.mp3)
 
-### Vocab Builder 2
+A few of my friends are trying to try to convince me to go to the 80's night on Sunday. It's true I know all of the hits and I bought most of them on vinyl when they were released. I just hope it's not too studenty. There seems to be a big 80's revival among teens at the moment which isn't really what I remember from that era but I guess if all my friends are going it's either that or stay home and watch TV.
+
+*a hit: un succès, un tube  
+studenty: ajectif formé à partir de student = atmosphère étudiante  
+to release: relâcher. Ici, sortir un film, une chanson
 
 ## Page 118-119 - The New Wave
 
-<a href="#TOP">Go back to top</a>
+### New wave may be forced to wave goodbye
+
+Jeu de mots sur wave: the New wave = la nouvelle vague, to wave goodbye = faire ses adieux
+
+La Nouvelle Vague revoie au renouveau du cinéma d'auteur dans les années soixante en France. C'est aussi le nom du cinéma qui risque de fermer à cause de la baisse de la fréquentation.
+
+*Art house Cinema: le cinéma d'art et d'essai  
+audience: le public  
+to dwindle: se réduire, diminuer fortement  
+a theatre: un théâtre ou une salle de cinéma  
+to blow, blew, blown: souffler  
+to be blown away by: être conqui par  
+to pinch: pincer  
+to feel the pinch  
+to fork out: sortir son porte-monnaie*
+
+### Paul Gambril's email to Faye Stewart
+
+Pau Gambril is young but likes the kind of films The New Wave shows. He writes to the owner to suggest advertizing on the social media to reach out to teenagers.
+
+He seems to be addressing his mail to "Ms Smith". Why?
+
+*to appeal to: attirer, plaire à  
+a vested interest: un intérêt personnel*
+
+### Save the New Wave
+
+*give a face lift: rénover  
+keep it a going concern: le maintenir en existence  
+to close: fermer  
+to close down: fermer définitivement  
+crowd funding: terme utilisé en français: monter une cagnotte en ligne pour un projet. Ici, sauver le cinéma The New Wave.  
+to raise funds: lever des fonds  
+
+
+
+Go back to top</a>
 
