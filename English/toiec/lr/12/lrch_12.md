@@ -7,7 +7,6 @@
 ### Vocab Builder 1
 
 ### Track 82 - Picture Questions
-
 [Audio](lrtk_82.mp3)
 
 <details>
@@ -21,7 +20,6 @@ I spend a lot of my time in meetings. We have weekly start meetings, decision-ma
 	<br/>brainstorming: réunions de réflexion
 </i>
 </details>
-
 <br/>
 
 <details>
@@ -36,7 +34,6 @@ I'm the first person people see when they come into the building. So how I welco
 	<br/>hectic: mouvementé, agité
 </i>
 </details>
-
 <br/>
 
 <details>
@@ -51,7 +48,6 @@ I spend a lot of time out of the office. Business lunches, client meetings, (...
 	<br/>to press the flesh: serrer des mains
 </i>
 </details>
-
 <br/>
 
 <details>
@@ -66,7 +62,6 @@ My job is to help people with any problem they have with our service. Sometimes 
 	<br/>I came up with a idea: il m'est venu une idée
 </i>
 </details>
-
 <br/>
 
 <details>
@@ -81,7 +76,6 @@ I seem to spend a lot of my time on the phone. If a customer hasn't settled an i
 	<br/>fall under my remit: relèvent de ma responsabilité
 </i>
 </details>
-
 <br/>
 
 <details>
@@ -95,7 +89,6 @@ I work in marketing and particularly product design. When we have a project that
   <br/>to sign off : to approve
   </i>
 </details>
-
 <br/>
 
 ## Page 121 - Hannah Green, sales manager
@@ -114,7 +107,7 @@ KP: Exactly. So I've set up a meeting with them for next week. I told them it wa
 HG: Absolutely no problem. Just let me know when and I'll make sure I'm free. I'll have a look at the contract and see if we can't give them an extra discount, just in case we get to negotiating prices.  
 KP: Thanks Hanna, I think that will make a big difference.
 
-*I've ***set up** a meeting: j'ai organisé une réuion  
+*I've ***set up** a meeting: j'ai organisé une réunion  
 I was hoping you might be able to **sit in**: j'espérais que peut-être tu pourrais participer*
 
 ### Track 84 - Conversation 2 (Jim Tyler)
@@ -179,7 +172,6 @@ If this client had signed the contract, I would have moved up
 </summary>
 	...if we hadn't agreed to lower the price (D).
 </details>
-
 <br/>
 
 <details>
@@ -284,10 +276,113 @@ I: Do you have one final piece of advice for **anybody or sales** people?
 
 GR: Patience is a virtue. The Saudis are happy to do business but in their own time. If **all those fail**, talk about football. They're big, big fans of English football. When you leave, shake hands and thank them and  follow this up with a email to thank them again. They expect you to do this and genuinely appreciate it. It may take time but whan they make a promise in Saudi Arabia they usually keep it. Just don't expect **all the better** to happen at the first meeting
 
-## Page 124 - Modal verbs 2
+The Middle East: le Moyen-Orient  
+Arab/arablic countries: les pays arabes  
+Arabic: l'arabe (langue)  
+a muslim: un musulman    
+Mecca: la Mecque  
+to dress for the part: endosser l'habit du rôle (au théatre)  
+a thobe: une dishdasha  
+a suit and a tie: un costume-cravate  
+greetings; les salutations  
+clockwise/anticlockwise : dans le sens/sens inverse des aiguilles d'une montre  
+bow your head: saluer de la tête  
+put on hold: mettre e npause  
+take precedence on: prévaloir sur  
+cardamon: la cardamome (une épice)  
+genuine: authentique  
+genuinely: authentiquement, réellement, vraiment  
+as a last resort: en dernier recours
+
+1C - 2A - 3C - 4A - 5B - 6C
+
+## Page 124 - Grammar Corner 2
+
+Voir le cours de grammaire général sur les verbes auxiliaires.
+
+### Modal verbs 2
+
+**Expression d'une obligation présente ou future :**
+
+* Vous devez venir (il faut que) :  
+  *you must come* (je le pense) ou *you have to come* (c'est une obligation réglementaire ou autre, en tout cas extérieure)
+
+**Absence d'obligation:**
+
+* Vous n'êtes pas dans l'obligation de;  
+  *You don't have to come*
+
+**Absence de nécessité: don't need ou needn't:**
+
+* Ce n'est pas nécessaire que vous veniez:  
+  1. *You don't need to come*: need est construit comme un verbe ordinaire
+  2. *You needn't come*: need est construit comme un auxiliaire
+
+Remarques :
+
+Préférer la première construction, plus utilisée en particulier aux États-Unis.  
+On emploie peu need à la forme affirmative.
+
+**Expression d'une obligation passée:**
+
+* On ne peut utiliser que *had to*:  
+  *I didn't attend the meeting because I had to see a client*
+
+**Expression d'un conseil, d'une obligation morale, ou ressentie:**
+
+* *Vous devriez vraiment venir: you should really come*: 
+
+**Expression d'un regret:**
+
+* vous auriez dû venir fêter le contrat avec nous: M + [HAVE + PP] 
+  *You should have come to celebrate the contract with us*
+
+### Filling a gap in a sentence
+
+1. We must sell two more if we want to meet our objective.
+2. The company should offer a discount if they want to keep a loyal client.
+3. Before I took my business trip I had to renew my passport.
+4. They must agree to a deal before we start working for them.
+5. You mustn't forget to send them the invoice.
+6. They didn't have to offer us a discount but it was good that they did.
+7. He needn't pay the invoice before the end of the month if it's due in 30 days.
+8. Sales managers agree that you needn't offer a discount to every client.
 
 ## Page 125 - Four-day week
 
-## Pages 126-127 - Vista coffee goes mobile
+### Could we be moving a four-day week?
+
+scarce: rare  
+employees have taken to... : se sont mis à…  
+overwhelmingly: en très grande majorité, massivement (adverbe)  
+ill-fitting: mal adapté  
+household chores: les tâches/corvées ménagères  
+to wear off: s'amenuiser (s'user, pour un vêtement)  
+carry on/go on working five days: continuer à travailler cinq jours
+
+**True or false**
+
+1. False: they don't all work four days, it's an experiment.
+2. True, but maybe not in the long run.
+3. True, it isn't easy for retail workers and nearly impossible for policemen or nurses.
+4. False: their sense of a better life balance (équilibre) would increase by 25%
+5. False: they wouldn't have fewer household chores, they would have more time to deal with them.
+6. True: The rise in productivity may have been cause by the novelty of the scheme only.
+
+**Choose words to fill in the gaps**
+
+1H: beneficial  
+2E: soared (est montée en flèche; a grimpé)  
+3D: deal with household chores  
+4A: novelty
+
+## Page 126 - Vista coffee goes mobile
+
+a loyalty program: un programme de fidélité  
+pick up points: récupérer, emmagasiner des points
+On second thoughts: à la réflexion, en y réfléchissant bien  
+you **did** do me a solid: *did* est utilisé pour insister: *tu m'as vraiment…*  
+a half: une moitié ; halves: les deux moitiés  
+We can go halves on the cookie: nous pouvons prendre chacun la moitié du cookie
 
 <a href="#TOP">Go back to top</a>
