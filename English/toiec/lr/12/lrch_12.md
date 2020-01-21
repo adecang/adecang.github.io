@@ -272,9 +272,9 @@ I: You talk about their traditional drink being an acquired taste.
 
 GR: Absolutely. It's called 'gahwa'. It's hot water mixed with cardamon powder and you'll be served this at business meetings. If you drink it just to be polite, be warned they will fill up your cup again. Personally, I like it but it's not to eveyone's taste. It's one of the little things you need to prepare for. That goes hand in hand with small talk. Saudis want to know you and have a close relationship with you. If you can do that, you'll be ready to close.
 
-I: Do you have one final piece of advice for **anybody or sales** people?
+I: Do you have one final piece of advice for anybody and sales people?
 
-GR: Patience is a virtue. The Saudis are happy to do business but in their own time. If **all those fail**, talk about football. They're big, big fans of English football. When you leave, shake hands and thank them and  follow this up with a email to thank them again. They expect you to do this and genuinely appreciate it. It may take time but whan they make a promise in Saudi Arabia they usually keep it. Just don't expect **all the better** to happen at the first meeting
+GR: Patience is a virtue. The Saudis are happy to do business but in their own time. If **all  fails**, talk about football. They're big, big fans of English football. When you leave, shake hands and thank them and  follow this up with a email to thank them again. They expect you to do this and genuinely appreciate it. It may take time but whan they make a promise in Saudi Arabia they usually keep it. Just don't expect **all the better** to happen at the first meeting
 
 The Middle East: le Moyen-Orient  
 Arab/arablic countries: les pays arabes  
