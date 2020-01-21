@@ -7,60 +7,59 @@
 [Audio](lrtk_18.mp3)
 
 1  
-A: The woman is buying a meal.  
-B: The man is paying for the vegetables.  
-**C: The woman is paying in cash.**  
-D: The man doesn’t have any change.
+(A) The woman is buying a meal.  
+(B) The man is paying for the vegetables.  
+**(C) The woman is paying in cash.**  
+(D) The man doesn’t have any change.
 
 2  
-A: They’re checking in for a flight.  
-**B: They have just arrived at the hotel.**  
-C: They are looking for the bell. D: The man is traveling alone.
-
-1C / 2B
+(A) They’re checking in for a flight.  
+**(B) They have just arrived at the hotel.**  
+(C) They are looking for the bell. (D) The man is traveling alone.
 
 ## Track 19 page 39
 
 [Audio](lrtk_19.mp3)
 
 3. Is the photocopier out of order again?  
-A: I copied it earlier.  
-B: I’ve placed an order.  
-C: I’m afraid so.
+(A) I copied it earlier.  
+(B) I’ve placed an order.  
+**(C) I’m afraid so**.
 
 4. Did you really buy tickets for 7 o’clock Monday morning?  
-A: We ought to make an early start.  
-B: It’s right on time.  
-C: We’re buying the tickets on Monday.
+**(A) We ought to make an early start.**  
+(B) It’s right on time.  
+(C) We’re buying the tickets on Monday.
 
 5. Are you paying cash or charge?  
-A: No, thank you.  
-B: I’ll have one of each, please.  
-C: I’ll put it on my credit card.
+(A) No, thank you.  
+(B) I’ll have one of each, please.  
+**(C) I’ll put it on my credit card.**
 
 6. I can offer you 2 percent on a fixed rate mortgage.  
-A: How much would that be if we chose variable?  
-B: Does that take into account the exchange rate?  
-C: Can’t you offer us three percent?
+**(A) How much would that be if we chose variable?**  
+(B) Does that take into account the exchange rate?  
+(C) Can’t you offer us three percent?
 
 7. I think we must talk about upgrading our software.  
-A: I was upgraded to first class.  
-B: Let’s put that on the agenda for the board meeting.  
-C: That might be a software problem.
+(A) I was upgraded to first class.  
+**(B) Let’s put that on the agenda for the board meeting.**  
+(C) That might be a software problem.
 
 8. Are we going by train or plane?  
-A: It’s the fastest route.  
-B: Whatever’s cheapest.  
-C: I’ve been training for weeks.
+(A) It’s the fastest route.  
+**(B) Whatever’s cheapest.**  
+(C) I’ve been training for weeks.
 
 9. I don’t know if I’ve received any commission for the ...  deal yet.  
-A: You should check your pay slip.  B: It’s a very good deal.  
-C: I’ve commissioned two myself.
+  **(A) You should check your pay slip.**  
+  (B) It’s a very good deal.  
+  (C) I’ve commissioned two myself.
 
 10. What do you think of the new office building?  
-A: It’s a new location.  
-B: They’re building it now.  
-C: It’s so much better than before.
+(A) It’s a new location.  
+(B) They’re building it now.  
+**(C) It’s so much better than before.**
 
 *I’ve placed an order : j’ai passé une commande  
 We ought to = we should  
@@ -75,10 +74,6 @@ pay slip : feuille de paye, bulletin de salaire
 to commission : commissioner, engager  
 location : emplacement*
 
-3C / 4A / 5C / 6C / 7B / 8B / 9A / 10C 
-
-****
-<div style="page-break-after: always;"></div>
 ## Track 20
 
 [Audio](lrtk_20.mp3)
@@ -112,8 +107,6 @@ M: I’m afraid I don’t. But there’s an ATM at the corner.
 I’d better : je ferais mieux de  
 to lend, lent, lent : prêter*
 
-***
-<div style="page-break-after: always;"></div>
 ## Track 21
 
 [Audio](lrtk_21.mp3)
