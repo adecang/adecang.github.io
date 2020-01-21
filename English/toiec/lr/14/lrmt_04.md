@@ -117,3 +117,49 @@ M: I might need to take a rain check on that. I have to prepare for my presentat
 
 [Audio](lrtk_97.mp3)
 
+#### Talk 1 - a voice message
+
+Hello Mr Freestone, this is Mary Etienne from Dotcom Repairs. We've had a look at your laptop and the problem appears to be the graphic card. We don't have any in stock that go with your model, but if you want we can order one. They normally cost around fifty dollars and as we discussed we charge fifty dollars for repairs. If you would like to go ahead with that, give us a call to let us know. It doesn't generally take more than a day to get spare parts, so if you choose that option it should be ready by the weekend.
+
+17. Who most likely is the woman?  
+    A: A hotline operator  
+    B: An IT director  
+    **C: A computer store employee**  
+    D: a laptop designer
+18. What problem does she report?  
+    **A: They don't have an item in stock**  
+    B: The computer graphics are faulty (= l'affichage)  
+    C: The cost is very high  
+    D: The screen is broken
+19. When does she think it will be ready?  
+    A: After the weekend  
+    B: On the weekend  
+    **C: Before the weekend**  
+    D: In two weeks
+
+#### Talk 2
+
+Ok everyone. I want to walk you through the procedure for the new sales software we're migrating onto for the 1st of next month. You should all have received an email with a link to our internet website. if you click on the link, it will take you to a page with the download of the new software. You'll have to activate popups on the web page and it will take about fifty minutes in total. I don't really foresee any problems as it's virtually idiot-proof, but Sonia and I in IT are on hand if needs be. Otherwise, don't forget we are not to start using this software before the beginning of next month. 
+
+20. Which department does the man probably work in?  
+    A: Sales  
+    B: Finance  
+    **C: IT**  
+    D: Purchasing
+21. When he says, 'it's virtually idiot-proof', he means:  
+    **A: It's very user-friendly**  
+    B: It was designed recently  
+    C: It is not very sophisticated  
+    D: It can cause problems
+22. When should they download the software?  
+    A: The 1st of next month  
+    B: The middle of next month  
+    **C: Before the end of the month  **
+    D: When they receive the email
+
+## Part 5 page 139
+
+## Part 6 page 140
+
+## Part 7 pages 141-143
+
