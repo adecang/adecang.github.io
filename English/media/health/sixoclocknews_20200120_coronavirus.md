@@ -5,7 +5,7 @@ You're listening to the Six o'clock News podcast from BBC Radio Four.
 
 [Audio](sixoclocknews_20200120_coronavirus.mp3)
 
-Chinese autorities have confirmed that a new virus spreading across the country can be passed from person to person. The disease has infected more than two hundred people and three have died since it was discovered in the central city of Wu Han last month. Cases have now been reported in Bei Jing and several other major coastal cities and provinces. Our medical correspondent Fergus Walsh reports.
+Chinese autorities have confirmed that a new virus spreading across the country can be passed from person to person. The disease has infected more than two hundred people and three have died since it was discovered in the central city of Wuhan last month. Cases have now been reported in Bei Jing and several other major coastal cities and provinces. Our medical correspondent Fergus Walsh reports.
 
 *Fergus Walsh:*  
 It's official. Chinese mysterious virus can pass from person to person. Almost all of the cases so far have been the result of close contact with animals. The source is thought to be a seafood market in the city of Wu Han where the outbreak is centered. But Chinese National Health Commission has confirmed there has been a small number of cases of human to human transmission, some medical staff are said to have been infected. Heatlth authorities in China are urging the public not to panic as hundreds of millions prepare to travel to celebrate the lunar new year. It's inevitable that this will lead to a further upsurge in cases.
