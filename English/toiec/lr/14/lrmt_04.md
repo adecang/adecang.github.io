@@ -105,7 +105,7 @@ M: I might need to take a rain check on that. I have to prepare for my presentat
     (B) By bus  
     **(C) By foot**  
     (D) By tram
-16. Why doesn't the man want to go? 
+16. Why doesn't the man want to go?  
     (A) It is raining  
     (B) He won't have time for lunch  
     **(C) He has to prepare for a meeting **  
@@ -154,7 +154,7 @@ Ok everyone. I want to walk you through the procedure for the new sales software
 22. When should they download the software?  
     (A) The 1st of next month  
     (B) The middle of next month  
-    **(C) Before the end of the month  **
+    **(C) Before the end of the month  **  
     (D) When they receive the email
 
 ## Part 5 page 139
