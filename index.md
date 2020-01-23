@@ -1,7 +1,4 @@
 *My precious E.T. site*
 
-### [Toiec](English/toiec/index)
+### [TOIEC](toiec/index)
 
-### [Media](English/media)
-
-### [Grammar](English/grammar)
