@@ -5,6 +5,8 @@ You're listening to the Six o'clock News podcast from BBC Radio Four.
 
 [Audio](sixoclocknews_20200120_coronavirus.mp3)
 
+[PDF](sixoclocknews_20200120_coronavirus.pdf)
+
 Chinese authorities have confirmed that a new virus spreading across the country can be passed from person to person. The disease has infected more than two hundred people and three have died since it was first discovered in the central city of Wuhan last month. Cases have now been reported in Bei Jing and several other major coastal cities and provinces. Our medical correspondent Fergus Walsh reports.
 
 *Fergus Walsh:*  
