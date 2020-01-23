@@ -154,7 +154,7 @@ Ok everyone. I want to walk you through the procedure for the new sales software
 22. When should they download the software?  
     (A) The 1st of next month  
     (B) The middle of next month  
-    **(C) Before the end of the month  **  
+    **(C) Before the end of the month**  
     (D) When they receive the email
 
 ## Part 5 page 139
