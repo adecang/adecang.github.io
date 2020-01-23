@@ -17,24 +17,33 @@ The infection is caused by a coronavirus and causes respiratory problems, fever 
 This will revive painful memories of SARS also caused by a coronavirus which killed nearly eight hundred people worldwide almost two decades ago. That outbreak, initially covered up by China, was eventually brought under control by isolating patients and through international cooperation. Global health officials say China has learnt from past mistakes but it may be weeks or months yet before we know how big a threat this new virus poses.
 
 <div style="page-break-after: always;"></div>
-
 ### Vocab
 
+a virus  
+a coronavirus  
 a disease  
 to infect  
 to contract  
 a case  
+
 the flu  
-respiratory problems 
-cough, to cough  
-fever
+respiratory problems  
+cough  
+to cough  
+fever  
+feverish  
+to have fever  
+to have a temperature  
+
 to spread, spread, spread  
 a surge  
 an upsurge  
+
 hygiene  
 tropical medecine  
 to screen  
 SARS  
+
 to cover up  
 to bring under control  
 to isolate  
@@ -44,7 +53,6 @@ to threaten
 to pose a threat
 
 <div style="page-break-after: always;"></div>
-
 ### Grammar
 
 Perfect, passive, will, can, may, need
