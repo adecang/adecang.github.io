@@ -1,10 +1,10 @@
-# Health
+# Travel
 
 ## TOIEC
 
-* [LR chap 7](lrch_07)
+* [LR chap 3](lrch_03)
 
-## Articles
+## Media
 
-* [Coronavirus](sixoclocknews_20200120_coronavirus)
+* Ryanair Baggage Policy ruled as excessive in Spain [click here](ryanair_baggage_policy)
 

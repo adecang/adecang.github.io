@@ -4,7 +4,7 @@
 
 * [LR chap 7](lrch_07)
 
-## Articles
+## Media
 
-* [Coronavirus](sixoclocknews_20200120_coronavirus)
+* BBC Radio News 20/01/2020 - Coronavirus [click here](sixoclocknews_20200120_coronavirus)
 

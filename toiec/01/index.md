@@ -6,5 +6,3 @@
 
 ## Articles
 
-* [Coronavirus](sixoclocknews_20200120_coronavirus)
-
