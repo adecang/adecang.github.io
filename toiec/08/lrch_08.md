@@ -32,7 +32,7 @@
 ### Vocab builder
 
 CEO: Chief Executive Officer, (Président) Directeur Général  
-COO: Chief Operating Officer, Directeur général (délégué, de l'exploitation)  
+COO: Chief Operating Officer, Directeur général (directeur délégué, de l'exploitation)  
 CTO: Chief Technical Officer, Directeur Technique   
 CFO: Chief Finance Officer, Directeur financier   
 CMO:  Chief Marketing Officer, Directeur du Marketing

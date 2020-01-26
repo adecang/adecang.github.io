@@ -149,7 +149,7 @@ she'll have them in for you : elle les inscrira pour toi (ici). terme vague
 [Audio](lrtk_34.mp3)
 
 SW: I've been looking through the applicants for the international position. We really need someone who has a good level of French and Spanish. They all say they do on the resume but can we check that out?  
-KC: I can get in touch with a language school we've used before. They can do a level assessment. If you have any particular skills you want to test, let me know and we'll have that in.  
+KC: I can get in touch with a language school we've used before. They can do a level assessment. If you have any particular skills you want to tesooked through the applicants?t, let me know and we'll have that in.  
 SW: Well, they have to be able to talk figures obviously,  and discuss P&Ls and balance sheets. Ordering in a restaurant and making small talk are not the priorities here.  
 KC: OK. You draw up a list of situations they need to be able to handle and I'll pass that on to the school. and they can test anyone we think might have potential.  
 SW: That's great. How long do you think that will take?  

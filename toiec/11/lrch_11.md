@@ -97,7 +97,7 @@ those who can tear themselves away from a screen: ceux qui parviennent à s'arra
 5. If it happens again, **we will have to buy a new greenhouse**.  
   *nous devrons acheter/il faudra que nous achetions une nouvelle serre*  
   *have to* remplace *must* après *will* (on ne peut pas mettre deux modaux à la suite)
-6. If we are out of the town dfor the weekend **our neighbor will feed the cat.**  
+6. If we are out of the town for the weekend **our neighbor will feed the cat.**  
   *notre voisin nourrira le chat*  
   US: neighbor, GB: neighbour
 
@@ -147,7 +147,7 @@ Well, the I-95 was ram-packed. There must have been a pile up I think because it
 
 <details>
 <summary>
-I hear a kingo for Joyce. What's your handicap these days?
+I hear you’re a king of golf for Joyce. What's your handicap these days?
 </summary>
 <i>
 	<br/>your handicap: niveau au golf
@@ -217,22 +217,23 @@ Really? Well, thank you very much. I did um and ah a bit in the shop before I bo
 
 ## Page 116 - Modal Verbs
 
-Éventualité (probabilité faible)
+**Éventualité (probabilité faible)**
 
 * it may: il se peut (éventualité)   
 * It might: il se pourrait (éventualité)  
 
-Possibilité pratique
+**Possibilité pratique**
 
 * it can: ça arrive quand les conditions sont remplies
 * it could: ça pourrait arriver si une condition était remplie
 
-Probabilité forte
+**Probabilité forte**
 
-* - Someone's at the door  
-- oh, it must be Peter (he always comes at that time) : ça ne peut être que
-* - Someone's at the door  
-oh, it should be Peter (he said he would come) : ça devrait être
+Someone's at the door  
+Oh, it must be Peter (he always comes at that time) : ça ne peut être que
+
+Someone's at the door  
+Oh, it should be Peter (he said he would come) : ça devrait être
 
 Note: les exemples du manuel pour "high probability" sont mal choisis, il s'agit plutôt d'obligations.
 
