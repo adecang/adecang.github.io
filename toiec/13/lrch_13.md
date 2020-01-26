@@ -124,7 +124,7 @@ Despite his **being** new in the company, Pete has managed to move up rapidly : 
 3. We all need training on the new software, **despite** it supposedly **being** user friendly and intuitive.
 4. **Although** we appreciate the firm giving us smartphones, we are now effectively at work 24/7.
 
-## Page 131 - Cutting Edge Technolodgy
+## Page 131 - Cutting Edge Technology
 
 ### Track 92 - Carlos's talk
 
