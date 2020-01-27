@@ -4,7 +4,7 @@
 
 [In the office](02/lrch_02)
 
-[Travel](03/lrch_03)
+[Travel](03/index)
 
 [Real Estate](04/lrch_04)
 
