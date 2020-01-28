@@ -1,6 +1,6 @@
 *My precious E.T. site*
 
-### [TOIEC](toiec/index)
-
-[Grammar](grammar)
+# English
+## [TOIEC](toiec/index)
+## [Grammar](grammar)
 
