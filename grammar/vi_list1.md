@@ -12,48 +12,45 @@
 	<br/>
 	<br/>
 </details>
-
 <br/>
 
-<det)ails>
-<summary><strong>BEGIN <i>(commencer, débuter</i></strong></summary>
+<details>
+<summary><strong>BEGIN <i>(commencer, débuter)</i></strong></summary>
 <br/><strong>BEGAN, BEGUN</strong><br/>
 	<br/>
 	<br/>
 	<br/>
 	<br/>
 </details>
-
 <br/>
 
 <details>
-<summary><strong>COME</strong> <i></i></summary>
+<summary><strong>COME <i>venir</i></strong></summary>
 <br/><strong>CAME, COME</strong><br/>
 	<br/>
 	<br/>
 	<br/>
 	<br/>
 </details>
-
 <br/>
 
 <details>
-<summary><strong>FEEL</strong> <i></i></summary>
-<br/><strong></strong><br/>
+<summary><strong>FEEL <i>(se sentir, sentir, ressentir)</i></strong></summary>
+<br/><strong>FELT, FELT</strong><br/>
 	<br/>
 	<br/>
 	<br/>
-	<br/>
+	<br/>FELT (n): le feutre
 </details>
 <br/>
 
 <details>
-<summary><strong>FIND</strong> <i></i></summary>
-<br/><strong></strong><br/>
+<summary><strong>FIND</strong> <i>(trouver)</i></summary>
+<br/><strong>FOUND, FOUND</strong><br/>
 	<br/>
 	<br/>
-	<br/>
-	<br/>
+	<br/>a find : une trouvaille
+	<br/>TO FOUND, FOUNDED, FOUNDED : fonder
 </details>
 <br/>
 
@@ -68,12 +65,12 @@
 <br/>
 
 <details>
-<summary><strong>GIVE</strong> <i></i></summary>
-<br/><strong></strong><br/>
+<summary><strong>GIVE</strong> <i>donner, céder</i></summary>
+<br/><strong>GAVE, GIVEN</strong><br/>
 	<br/>
 	<br/>
 	<br/>
-	<br/>
+	<br/>Give way : céder (la priorité)
 </details>
 <br/>
 
@@ -84,16 +81,17 @@
 	<br/>Can I have a go at it/give it a go? : je peux essayer?
 	<br/>The car was going at full speed : la voiture roulait à pleine vitesse.
 	<br/>The meeting went well : la réunion s'est bien passé.
+	<br/>a meet :
 </details>
 <br/>
 
 <details>
-<summary><strong>KEEP</strong> <i></i></summary>
-<br/><strong></strong><br/>
+<summary><strong>KEEP</strong> <i>(garder, conserver)</i></summary>
+<br/><strong>KEPT, KEPT</strong><br/>
 	<br/>
 	<br/>
 	<br/>
-	<br/>
+	<br/>a keep : un donjon
 </details>
 <br/>
 
@@ -103,8 +101,10 @@
 	<br/>as far as I know, for all I know : pour autant que je sache
 	<br/>as you know : comme tu le sais
 	<br/>let me know: tiens-moi au courant
-	<br/>he know his stuff : il s'y connait
+	<br/>he knows his stuff : il s'y connait
+	<br/>knowledge : la connaissance
 </details>
+
 <br/>
 
 <details>
