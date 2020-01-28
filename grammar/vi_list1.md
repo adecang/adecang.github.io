@@ -128,13 +128,14 @@
 <br/>
 
 <details>
-  <summary><strong>MAKE /ˈmeɪk/ <i>(faire, fabriquer, confectionner)</i></strong</strong></strong></summary>
+  <summary><strong>MAKE /ˈmeɪk/ <i>(faire, fabriquer, confectionner)</i></strong></summary>
 <br/><strong>MADE, MADE /ˈmeɪd/</strong><br/>
 	<br/>Make a decision : prendre une décision
 	<br/>Don't make a fuss : ne fais pas tant d'histoires
 	<br/>He makes $50.000 a year : il gagne...
 	<br/>You won't make me eat that: hors de question que tu me fasses manger ça.
 </details>
+
 <br/>
 
 <details>
