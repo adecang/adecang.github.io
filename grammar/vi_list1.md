@@ -3,98 +3,117 @@
 ## Liste 1
 <details>
 <summary>
-<strong>BE <i>(être et auxiliaire)</i></strong></summary>
+<strong>BE /biː/ <i>(être et auxiliaire)</i></strong></summary>
 <br/>
   <strong>WAS/WERE, BEEN</strong>
-  <br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<br/>
+	<br/>There is too much salt: il y a trop de sel
+	<br/>Steve is 17: Steve a 17 ans 
+	<br/>It is 10$: Ça fait 10 dollars
+	<br/>It is cold: il fait froid: it is cold
 </details>
+
 <br/>
 
 <details>
-<summary><strong>HAVE <i>(avoir + auxiliaire)</i></strong></summary>
+<summary><strong>HAVE /hæv/ <i>(avoir + auxiliaire)</i></strong></summary>
 <br/>
   <strong>HAD, HAD</strong>
-  <br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<br/>
+	<br/>I had a biscuit: j'ai pris un biscuit
+	<br/>I won't have this: je ne tolèrerai pas cela.
+	<br/>I have to finish my homework: il faut que...
+	<br/>I had my car repaired: j'ai fait réparer ma voiture
 </details>
 <br/>
 
 <details>
 <summary>
-<strong>DO <i>(faire + auxiliaire)</i></strong>
+<strong>DO /duː/ /dəʊ/ <i>(faire + auxiliaire)</i></strong>
 </summary>
 <br/>
   <strong>DID, DONE</strong>
-  <br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<br/>
+	<br/>Do come in!: mais rentrez donc !
+	<br/>Do the washing up, the cooking etc
+	<br/>What do you do: que faîtes-vous? (dans la vie)
+	<br/>How are the children doing at school?: comment les enfant se débrouillent-ils à l'école?
 </details>
 <br/>
 
 <details>
-<summary><strong>BECOME <i>(devenir)</i></strong></summary>
+<summary>
+<strong>BECOME /bɪˈkʌm/ <i>(devenir, se transformer en)</i></strong></summary>
 <br/>
   <strong>BECAME, BECOME</strong>
-  <br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<br/>
+	<br/>After a while we became good friends : nous sommes devenus bons amis
+	<br/>After the meal she became ill: elle s'est senti mal
+	<br/>Your dress becomes you very well: ta robe te va très bien
+	<be/>becoming: seyant, approprié
 </details>
 <br/>
 
 <details>
-<summary><strong>BEGIN <i>(commencer, débuter)</i></strong></summary>
-<br/><strong>BEGAN, BEGUN</strong><br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<summary>
+<strong>BEGIN /bɪˈgɪn/ <i>(commencer, débuter)</i></strong></summary>
+<br/>
+<strong>BEGAN /bɪˈgæn/, BEGUN /bɪˈgʌn/</strong>
+<br/>
+	<br/>Then it began to rain: alors il a commencé à pleuvoir.
+	<br/>You should begin by reading the instructions: tu devrais commencer par...
+	<br/>to begin with, I hate soccer : à la base, je déteste le foot.
+	<br/>a beginner : un débutant.
 </details>
 <br/>
 
 <details>
-<summary><strong>COME <i>venir</i></strong></summary>
-<br/><strong>CAME, COME</strong><br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<summary>
+<strong>COME /kʌm/ <i>venir, arriver</i></strong>
+</summary>
+<br/>
+<strong>CAME, COME</strong>
+<br/>
+	<br/>Come here, will you?: viens ici (ce n'est pas uen question).
+	<br/>I come from New York : je viens de New York (c'est là que j'habite)
+	<br/>How come you're so late?: comment ça se fait que tu es si en retard?
+	<br/>This shirts comes in different colours: cette cemise se fait en différentes couleurs.
 </details>
 <br/>
 
 <details>
-<summary><strong>FEEL <i>(se sentir, sentir, ressentir)</i></strong></summary>
-<br/><strong>FELT, FELT</strong><br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>FELT (n): le feutre
+<summary>
+<strong>FEEL /fiːl/ <i>(se sentir, sentir, ressentir)</i></strong></summary>
+<br/>
+<strong>FELT, FELT</strong>
+<br/>
+	<br/>I could feel her presence: je sentais sa présence
+	<br/>I still feel weak : je me sens encore faible
+	<br/>The tile floor feels cold : le carrelage donne une impression de froid
+	<br/>≠ FELT (n): le feutre
 </details>
 <br/>
 
 <details>
-<summary><strong>FIND</strong> <i>(trouver)</i></summary>
-<br/><strong>FOUND, FOUND</strong><br/>
-	<br/>
-	<br/>
+<summary>
+<strong>FIND /faɪnd/</strong> <i>(trouver)</i>
+</summary>
+<br/>
+<strong>FOUND, FOUND /faʊnd/</strong>
+<br/>
+	<br/>I found my wallet in the bathroom
+	<br/>I find this painting interesting
 	<br/>a find : une trouvaille
-	<br/>TO FOUND, FOUNDED, FOUNDED : fonder
+	<br/>≠ TO FOUND, FOUNDED, FOUNDED : fonder
 </details>
 <br/>
 
 <details>
-<summary><strong>GET /ˈgɛt/ <i>(obtenir, avoir, trouver...)</i></strong></summary>
-<br/><strong>GOT, GOT, GOT or gotten (US only)</strong><br/>
+<summary>
+<strong>GET /gɛt/ <i>(obtenir, avoir, trouver...)</i></strong></summary>
+<br/>
+<strong>GOT, GOT, GOT or gotten (US only)</strong>
+<br/>
 	<br/>I got a message: j'ai reçu un message
 	<br/>I got a ticket: je me suis pris une contravention
 	<br/>I'll get another cup: je vais chercher une autre tasse
@@ -103,39 +122,50 @@
 <br/>
 
 <details>
-<summary><strong>GIVE</strong> <i>donner, céder</i></summary>
-<br/><strong>GAVE, GIVEN</strong><br/>
-	<br/>
-	<br/>
-	<br/>
+<summary>
+<strong>GIVE /gɪv/</strong> <i>donner, céder</i>
+</summary>
+<br/>
+<strong>GAVE, GIVEN</strong>
+<br/>
+	<br/>I was given a book for my birthday: on m'a donné un livre..
+	<br/>I don't give a fig (fam): je m'en fiche
+	<br/>Give a call: passer un coup de téléphone
 	<br/>Give way : céder (la priorité)
 </details>
 <br/>
 
 <details>
-<summary><strong>GO /ˈgəʊ/ <i>(aller, partir, se déplacer)</i></strong></summary>
-	<br/><strong>GO, WENT, GONE</strong><br/>
+<summary>
+<strong>GO /gəʊ/ <i>(aller, partir, se déplacer)</i></strong></summary>
+<br/>
+<strong>GO, WENT, GONE</strong>
+<br/>
 	<br/>I have to go : il faut que j'y aille.
 	<br/>Can I have a go at it/give it a go? : je peux essayer?
 	<br/>The car was going at full speed : la voiture roulait à pleine vitesse.
 	<br/>The meeting went well : la réunion s'est bien passé.
-	<br/>a meet :
+	<br/>Gone with the Wind: Autant en emporte le vent (titre)
 </details>
 <br/>
 
 <details>
-<summary><strong>KEEP</strong> <i>(garder, conserver)</i></summary>
+<summary><strong>KEEP /kiːp/ </strong> <i>(garder, conserver)</i></summary>
 <br/><strong>KEPT, KEPT</strong><br/>
-	<br/>
-	<br/>
-	<br/>
+	<br/>She keeps bees: elle élève des abeilles
+	<br/>Where do you keep the chocolate?: Où conserves-tu le chocolat?
+	<br/>Keep trying: ne lache rien
 	<br/>a keep : un donjon
 </details>
 <br/>
 
 <details>
-<summary><strong>KNOW /ˈnəʊ/ <i>(connaître, savoir)</i></strong></summary>
-<br/><strong>KNEW, KNOWN</strong><br/>
+<summary>
+<strong>KNOW /nəʊ/ <i>(connaître, savoir)</i></strong>
+</summary>
+<br/>
+<strong>KNEW, KNOWN</strong>
+<br/>
 	<br/>as far as I know, for all I know : pour autant que je sache
 	<br/>as you know : comme tu le sais
 	<br/>let me know: tiens-moi au courant
@@ -146,39 +176,49 @@
 <br/>
 
 <details>
-<summary><strong>LEAVE</strong> <i></i></summary>
-<br/><strong></strong><br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<summary>
+<strong>LEAVE /liːv/ </strong> <i>(quitter, partir)</i>
+</summary>
+<br/>
+<strong>LEFT, LEFT</strong>
+<br/>
+	<br/>He has already left: il est déjà parti.
+	<br/>There's no bread left: il ne reste plus de pain.
+	<br/>a sick leave : un congé de maladie
 </details>
 <br/>
 
 <details>
-<summary><strong>LET</strong> <i></i></summary>
-<br/><strong></strong><br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<summary>
+<strong>LET /lɛt/ </strong> <i>(laisser, louer)</i>
+</summary>
+<br/>
+<strong>LET, LET</strong>
+<br/>
+	<br/>Let him go: laissez-le partir
+	<br/>I'm going to let my flat: je vais louer mon appartement (donner en location)
+	<br/>Let it be clear that...: Que ce soit clair que...
+	<br/>Don't let me down: ne me laisse pas tomber
 </details>
 <br/>
 
 <details>
-  <summary><strong>MAKE /ˈmeɪk/ <i>(faire, fabriquer, confectionner)</i></strong></summary>
-<br/><strong>MADE, MADE /ˈmeɪd/</strong><br/>
+<summary>
+<strong>MAKE /meɪk/ <i>(faire, fabriquer, confectionner)</i></strong>
+</summary>
+<br/>
+<strong>MADE, MADE /meɪd/</strong>
+<br/>
 	<br/>Make a decision : prendre une décision
 	<br/>Don't make a fuss : ne fais pas tant d'histoires
 	<br/>He makes $50.000 a year : il gagne...
 	<br/>You won't make me eat that: hors de question que tu me fasses manger ça.
 </details>
-
 <br/>
 
 <details>
 <summary><strong>MEAN</strong> <i></i></summary>
-<br/><strong></strong><br/>
+<br/><strong>MEANT, MEANT</strong><br/>
 	<br/>
 	<br/>
 	<br/>
@@ -197,17 +237,26 @@
 <br/>
 
 <details>
-<summary><strong>SAY /ˈseɪ/ <i>(dire, déclarer)</i></strong></summary>
-<br/><strong>SAY, SAID, SAID /ˈsɛd/</strong><br/>
+<summary>
+<strong>SAY /seɪ/ <i>dire, déclarer</i></strong>
+</summary>
+<br/>
+<strong>SAY, SAID, SAID /sɛd/</strong>
+<br/>
 	<br/>Take any number, say, eight : prenons n'importe quel nombre au hasard, par exemple huit.
 	<br/>There were, say, fifteen people present : il y avait à peu près quinze personnes.
 	<br/>Have no say in: ne pas avoir son mot à dire. 
 </details>
+
 <br/>
 
 <details>
-<summary><strong>SEE</strong> <i></i></summary>
-<br/><strong></strong><br/>
+<summary>
+<strong>SEE</strong> <i></i>
+</summary>
+<br/>
+<strong></strong>
+<br/>
 	<br/>
 	<br/>
 	<br/>
@@ -216,40 +265,56 @@
 <br/>
 
 <details>
-<summary><strong>SHOW</strong> <i></i></summary>
-<br/><strong></strong><br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<summary>
+<strong>SHOW /ʃəʊ/ <i>(montrer, exposer)</i></strong>
+</summary>
+<br/>
+<strong>SHOWED, SHOWN</strong>
+<br/>
+	<br/>I'll show you the way: je vais te montrer le chemin
+	<br/>he was angry and that showed: il était en colère et cela se voyait.
+	<br/>a TV show: une émission télévisée
+	<br/>He didn't show (up) 
+</details>
+
+<br/>
+
+<details>
+<summary>
+<strong>TAKE /teɪk/ <i>(prendre, emmener)</i></strong> 
+</summary>
+<br/>
+<strong>TOOK, TAKEN</strong>
+<br/>
+	<br/>Could you take me to the station?: pourriez-vous m'emmener à la gare?
+	<br/>The population took to the street: la population est descendue dans la rue (pour manifester)
+	<br/>My sister took my phone from me: ma soeur l'a pris mon téléphone.
+	<br/>a take (cinema) : une prise de vue.
 </details>
 <br/>
 
 <details>
-<summary><strong>TAKE</strong> <i></i></summary>
-<br/><strong></strong><br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+<summary>
+<strong>TELL /tɛl/ <i>(dire, raconter)</i></strong> 
+</summary>
+<br/>
+<strong></strong>
+<br/>
+	<br/>Do as you're told: faites ce qu'on vous dit.
+	<br/>I can't tell the difference: je ne vois pas la différence
+	<br/>Time will tell: l'avenir le dira
+	<br/>Age is beginning to tell : l'âge commence à se faire sentir.
 </details>
 <br/>
 
 <details>
-<summary><strong>TELL</strong> <i></i></summary>
-<br/><strong></strong><br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
-</details>
+<summary>
+<strong>THINK /θɪŋk/ <i>(penser, croire)</i></strong>
+</summary>
 <br/>
-
-<details>
-<summary><strong>THINK /ˈθɪŋk/ <i>(penser, croire)</i></strong></summary>
-<br/><strong>THOUGHT, THOUGHT</strong>
-	<br/>
+<strong>THOUGHT, THOUGHT /θɔːt/</strong>
+<br/>
 	<br/>I'm thinking of going: je pense aller
 	<br/>Don't even think about it : n'y pense même pas !
-  <br/>
+	<br/>What do you think will happen?: D'après toi, que va-t-il se passer?
 </details>
