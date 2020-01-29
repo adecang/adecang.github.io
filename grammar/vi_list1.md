@@ -1,6 +1,44 @@
 # Verbes irréguliers
 
 ## Liste 1
+<details>
+<summary>
+<strong>BE <i>(être et auxiliaire)</i></strong></summary>
+<br/>
+  <strong>WAS/WERE, BEEN</strong>
+  <br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+</details>
+<br/>
+
+<details>
+<summary><strong>HAVE <i>(avoir + auxiliaire)</i></strong></summary>
+<br/>
+  <strong>HAD, HAD</strong>
+  <br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+</details>
+<br/>
+
+<details>
+<summary>
+<strong>DO <i>(faire + auxiliaire)</i></strong>
+</summary>
+<br/>
+  <strong>DID, DONE</strong>
+  <br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+</details>
+<br/>
 
 <details>
 <summary><strong>BECOME <i>(devenir)</i></strong></summary>
