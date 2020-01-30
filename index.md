@@ -1,4 +1,4 @@
-*My precious E.T. site*
+*My E.T. site*
 
 ### [General](general/index)
 
