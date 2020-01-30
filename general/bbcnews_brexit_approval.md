@@ -58,7 +58,7 @@ President Sassoli told CNN on Tuesday that the timetable for a deal was tight[^1
 [^11]: a scarf, scarves : une écharpe
 [^12]: to seek, sought, sought : chercher, rechercher.
 [^13]: trade talks : négociations commerciales
-[^14]: are expected to egin in earnest : on s'attend à ce que [les négociations] commencent sérieusement
+[^14]: are expected to begin in earnest : on s'attend à ce que [les négociations] commencent sérieusement
 [^15]: get a say, have a say : avoir son mot à dire
 [^16]: a trade deal: un accord commercial
 [^17]: beyond: au delà
