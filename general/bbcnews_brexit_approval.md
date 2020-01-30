@@ -31,15 +31,15 @@ Members of the European Parliament have overwhelmingly backed[^3] the terms of t
 
 The UK is due to leave the bloc[^7] at 23:00 GMT on Friday. Ratification of the withdrawal agreement, agreed by the UK and EU in October, was not in doubt after it easily cleared its committee stage last week. 
 
-Signing the letter confirming the EU's consent, the Parliament's president,  David Sassoli, said the two sides must heed[^8] the words of the late Labour MP Jo Cox[^9] when approaching their future relationship and recognise  "there is more that unites us than divides us. You are leaving  the EU but you will always be part of Europe… It is very hard to say  goodbye. That is why, like my colleagues, I will say arrivederci." 
+Signing the letter confirming the EU's consent, the Parliament's president,  David Sassoli, said the two sides must heed[^8] the words of the late Labour MP Jo Cox[^9] when approaching their future relationship and recognise  "there is more that unites us than divides us. You are leaving  the EU but you will always be part of Europe. It is very hard to say  goodbye. That is why, like my colleagues, I will say arrivederci." 
 
 Wednesday's session saw those on either side[^10] of the Brexit debate, including the UK's 73 MEPs, celebrate or lament the end of  British EU membership. Some MEPs marked the occasion with songs - others wore "always united" scarves[^11].
 
-President of the European Commission Ursula von der Leyen said ratification of the withdrawal deal was "only a first step" towards a new partnership between the EU and the UK. The two should "join forces" in areas such as climate change, she said, and seek a close partnership following the UK's exit on Friday. "We will always love you and we will not be far," she told the UK in closing. The two should "join forces" in areas such as climate change, she said, and seek a close partnership following the UK's exit on Friday.
+President of the European Commission Ursula von der Leyen said ratification of the withdrawal deal was "only a first step" towards a new partnership between the EU and the UK. The two should "join forces" in areas such as climate change, she said, and seek[^12] a close partnership following the UK's exit on Friday. "We will always love you and we will not be far," she told the UK in closing. The two should "join forces" in areas such as climate change, she said, and seek a close partnership following the UK's exit on Friday.
 
 […]
 
-After the UK leaves,[^12] there will be an 11-month transition period in which the two sides hope to negotiate their future  economic relationship. Trade talks[^13] are expected to begin in earnest [^14] in early March. The European Parliament will also get a say[^15] in ratifying any future trade deal[^16]. 
+After the UK leaves, there will be an 11-month transition period in which the two sides hope to negotiate their future  economic relationship. Trade talks[^13] are expected to begin in earnest [^14] in early March. The European Parliament will also get a say[^15] in ratifying any future trade deal[^16]. 
 
 The UK has insisted talks should not extend beyond[^17] 31 December 2020 when a transition period - which will see the UK follow EU rules - comes to an end.
 
@@ -56,9 +56,9 @@ President Sassoli told CNN on Tuesday that the timetable for a deal was tight[^1
 [^9]: Jo Cox was assassinated on June 16 2016 by a far-right activist
 [^10]: on either side: de chaque côté
 [^11]: a scarf, scarves : une écharpe
-[^12]: After the UK leaves: lorsque le R.U. aura quitté (présent au lieu du futur)
+[^12]: to seek, sought, sought : chercher, rechercher.
 [^13]: trade talks : négociations commerciales
-[^14]: begin in earnest : commence concrètement, être entamé sérieusement
+[^14]: are expected to egin in earnest : on s'attend à ce que [les négociations] commencent sérieusement
 [^15]: get a say, have a say : avoir son mot à dire
 [^16]: a trade deal: un accord commercial
 [^17]: beyond: au delà
