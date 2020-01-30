@@ -24,3 +24,8 @@ kindness= amitié, gentillesse
 a cup o'kindness = a cup of kindness*
 
 The phrase *In the days of old lang syne* was a traditional beginning for fairy tales in Scotland (once upon a time, il était une fois)
+
+Back to BBC [article](bbcnews_brexit_approval)
+
+Back to [Brexit](brexit)
+

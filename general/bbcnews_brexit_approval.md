@@ -18,7 +18,8 @@ https://www.bbc.com/news
 
 The video on YouTube: [click here](https://www.youtube.com/watch?v=nRE44uSaZmc)  
 The original BBC article and video: [click here](https://www.bbc.com/news/uk-politics-51287430)   
-More about Auld Lang Syne: [click here](auld_lang_syne)
+More about Auld Lang Syne: [click here](auld_lang_syne)  
+Back to [Brexit](brexit)
 
 **Note about the BBC video**
 
@@ -63,8 +64,6 @@ President Sassoli told CNN on Tuesday that the timetable for a deal was tight[^1
 [^17]: beyond: au delà
 
 [^18]:  a tight timetable: un calendrier serré
-
-
 
 
 
