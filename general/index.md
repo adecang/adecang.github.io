@@ -1,4 +1,0 @@
-# General themes
-
-### [Brexit](brexit)
-

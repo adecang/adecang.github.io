@@ -1,8 +1,10 @@
 *My E.T. site*
 
-### [General](general/index)
+# English
 
-### [Grammar](grammar)
+### [General](English/general)
 
-### [Toiec](toiec/index)
+### [Grammar](English/grammar)
+
+### [Toiec](English/toiec)
 
