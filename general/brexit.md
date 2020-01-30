@@ -9,3 +9,8 @@
 5. What determiners are missing in the title? Find other similar titles about Brexit in the Press
 6. Follow-up : Murphy Essential Grammar in use Units 71-7-73, particularly 73 (place names)
 
+### Vocab
+
+to belong to (appartenir à) ; to leave (quitter), to remain (demeurer, rester)  
+a citizen (citoyen), a national (un ressortissant), to visit, to settle, a visa, a visa waiver (exemption de visa)  
+to produce, to import, to export ; European regulations ; taxes (impôts) ; tariffs (droits de douane). 
