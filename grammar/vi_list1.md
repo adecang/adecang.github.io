@@ -36,9 +36,10 @@
 <br/>
 	<br/>Do come in!: mais rentrez donc !
 	<br/>Do the washing up, the cooking etc
-	<br/>What do you do: que faîtes-vous? (dans la vie)
+	<br/>What do you do: que faites-vous? (dans la vie)
 	<br/>How are the children doing at school?: comment les enfant se débrouillent-ils à l'école?
 </details>
+
 <br/>
 
 <details>
