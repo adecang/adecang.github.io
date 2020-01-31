@@ -1,37 +1,38 @@
-# Brexit
+# Brexit approval Worksheet
 
 [Printable version](brexit.pdf)
 
-### Jan 29 2020 : European Parliament approves Brexit Agreement
+## 1. Article
 
-1. Read the BBC News [abridged article](bbcnews_brexit_approval)    
-   * Explain why the European Parliament had to vote today.
-   * Is this the end of negotiations between the UK and the EU?
-2. Grammar  
-   * write down the title and the sentence with the same meaning in the first paragraph of the article.
-   * What determiners (articles) are missing in the title?
-3. Watch the first video embedded *(intégrée)* in the BBC original [article](https://www.bbc.com/news/uk-politics-51287430). Then listen to it again reading the [script](bbcnews_brexit_approval_script) at the same time.
-   * MEPs represent different countries. Tell about their various reactions to the UK's departure. Who regrets Britain's departure and who rejoices?
-     * Ursula Von Leyne
-     * Guy Verhofstadt
-     * Nigel Farage
-     * Molly Scott Cato
-     * Laura Huhtassaari
-     * Aileen McLeod
-   
-   * Do the English always "keep a stiff upper lip" (hide their feelings)?
+Read the BBC News [abridged article](bbcnews_brexit_approval)    
+1. Write down the title of the article. Find a sentence with the same meaning in the first paragraph and write it down too. What determiners (articles) are missing in the title?
+2. Explain why the European Parliament had to vote today.
+3. Is this the end of negotiations between the UK and the EU?
 
-### Vocab
+## 2. Video
 
-an event (un événement) to take place (avoir lieu) ; to attend (assister à, participer) ; to take part in  
-to belong to (appartenir à) ; to leave (quitter), to remain (demeurer, rester)  
-a citizen (citoyen), a national (un ressortissant), to visit, to settle, a visa  
-to produce, to import, to export ; taxes (impôts) ; tariffs (droits de douane).   
-European quality, health and social regulations ; to allow (permettre) ; to ban (interdire) ; a ban  
-a partner: un partenaire.  
-to regret + Noun/Ving : *they regret leaving the EU*  ; to rejoice at
+Watch the first subtitled video embedded *(intégrée)* in the BBC original [article](https://www.bbc.com/news/uk-politics-51287430)
 
-### Grammar
+1. Identify the different speakers and tell about their various reactions. Who regrets Brexit and who rejoices?
+2. Do the English always "keep a stiff upper lip" (hide their feelings)?
 
-*When the UK **leaves** the EU next Friday…,* : lorsque le Royaume Uni quittera… 
-Après when dans les propositions circonstantielles de temps, on trouve le présent là où on attend le futur (when intoduit une condition et fonctionne comme IF). Trouver deux exemples dans l'article et un dans la vidéo.
+## 3. Video + script
+
+Play the [video](https://www.bbc.com/news/uk-politics-51287430) again. Listen to the speakers again. You can also use the [script](bbcnews_brexit_approval_script).
+
+1. The speakers represent different countries and parties. Write down who is who. Can you explain some of the opinions they express on Brexit?
+   * Ursula Von Leyne
+   * Guy Verhofstadt
+   * Nigel Farage
+   * Molly Scott Cato
+   * Laura Huhtassaari
+   * Aileen McLeod
+
+2. Why does the chairperson cut off Nigel Farage's microphone?
+
+## 4. Auld Lang Syne
+
+Go to the document about Auld Lang Syne [here](auld_lang_syne) and read it.
+
+Have you ever heard or sung this song? On what occasion?
+
