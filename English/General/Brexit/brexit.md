@@ -19,7 +19,7 @@
      * Laura Huhtassaari
      * Aileen McLeod
    
-   * Do the English always "keep the upper lip stiff" (hide their feelings)?
+   * Do the English always "keep a stiff upper lip" (hide their feelings)?
 
 ### Vocab
 
