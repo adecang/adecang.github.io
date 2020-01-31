@@ -39,7 +39,7 @@ CMO:  Chief Marketing Officer, Directeur du Marketing
 
 ### Track 52 - Picture Questions
 
-[Audio](lrtk_52.mp3)
+[Audio](Audio/lrtk_52.mp3)
 
 Talk 1
 
@@ -192,7 +192,7 @@ tricky : délicat, complexe
 
 ### Track 53 - Giving advice on company strategy
 
-[Audio](lrtk_53.mp3)
+[Audio](Audio/lrtk_53.mp3)
 
 A 2  
 M: I've been talking to the bank about raising money through selling bonds. That way we could really think about attacking the Asian market.  
@@ -236,7 +236,7 @@ When Bright Sparks was founded **in** 1987 *(cas 1, months, years)*, their strat
 
 ### Track 54 - Farrah Read
 
-[Audio](lrtk_54.mp3)
+[Audio](Audio/lrtk_54.mp3)
 
 FR: Jacqueline, this is Farrah Read from Totally Travel. Do you have a minute?  
 JS: Of course. Did I hear you say Totally Travel? So you did agree to change the name of the company.   
@@ -252,7 +252,7 @@ to take the bullet: perdre son poste*
 
 ### Track 55 - Matthiew Rice
 
-[Audio](lrtk_55.mp3)
+[Audio](Audio/lrtk_55.mp3)
 
 JS: Mathiew, this is Jacqueline Smith returning your call. How are things at Global Farmers?  
 MR: Oh, hi Jacqueline. Thanks for getting back to me. To be honest, the answer to your question is not great. Patents are running out. The FDA are taking for ever on clinical trials. We are looking at having to make cuts again this quarter. It'st not doing wonders for company morale.  
@@ -274,7 +274,7 @@ you'll get through it: vous y arriverez*
 
 ### Track 56 - Sarah Fields
 
-[Audio](lrtk_56.mp3)
+[Audio](Audio/lrtk_56.mp3)
 
 SF: Jacqueline, this is Sarah Fields from Real Properties. Did you get my email?  
 JS: I was just about to reply. I understand you're thinking about making an offer to buy York Estates.  
@@ -316,7 +316,7 @@ to implement a service : mettre un service en œuvre, en place
 
 ### Track 57 - Kate and James
 
-[Audio](lrtk_57.mp3)
+[Audio](Audio/lrtk_57.mp3)
 
 J: Hi Kate! Is it true that you're the one who thought up the new concierge service?  
 K: Oh, Hi James! Yes, it's an idea I got from a company I used to work for.  
