@@ -5,7 +5,7 @@
 ### Jan 29 2020 : European Parliament approves Brexit Agreement
 
 1. Read the BBC News [abridged article](bbcnews_brexit_approval)    
-   * What exactly did the European Parliament vote on?
+   * Explain why the European Parliament had to vote today.
    * Is this the end of negotiations between the UK and the EU?
 2. Grammar  
    * write down the title and the sentence with the same meaning in the first paragraph of the article.
