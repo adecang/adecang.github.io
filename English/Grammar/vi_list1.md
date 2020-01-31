@@ -292,7 +292,7 @@
 <strong>SAW, SEEN</strong>
 <br/>
 	<br/>I'll see to it: j'y veillerai
-	<br/>The doctor wil lsee you now : va vous recevoir.
+	<br/>The doctor will see you now : le docteur va vous recevoir maintenant.
 	<br/>They've seen better days: ils ont connu des jours meilleurs.
 	<br/>They have been seeing each other for two weeks: ils sortent ensemble depuis deux semaines.
 </details>
