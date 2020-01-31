@@ -17,12 +17,9 @@ https://www.bbc.com/news
 **Links**
 
 The original BBC article and video: [click here](https://www.bbc.com/news/uk-politics-51287430)   
+The video script: [click here](bbcnews_brexit_approval_script)  
 More about Auld Lang Syne: [click here](auld_lang_syne)  
 Back to [Brexit](brexit)
-
-**Note about the BBC video**
-
-President of the European Commission Ursula von der Leyen quotes Gorge Eliot: *Only in the agony of parting do we look into the depths of love*. George Eliot (Mary Ann Evans) is a XIXth century poet and novelist.
 
 **BBC abridged article and vocab notes**
 
@@ -30,7 +27,7 @@ Members of the European Parliament have overwhelmingly backed[^3] the terms of t
 
 The UK is due to leave the bloc[^7] at 23:00 GMT on Friday. Ratification of the withdrawal agreement, agreed by the UK and EU in October, was not in doubt after it easily cleared its committee stage last week. 
 
-Signing the letter confirming the EU's consent, the Parliament's president,  David Sassoli, said the two sides must heed[^8] the words of the late Labour MP Jo Cox[^9] when approaching their future relationship and recognise  "there is more that unites us than divides us. You are leaving  the EU but you will always be part of Europe. It is very hard to say  goodbye. That is why, like my colleagues, I will say arrivederci." 
+Signing the letter confirming the EU's consent, the Parliament's president,  David Sassoli, said the two sides must heed[^8] the words of the late Labour MP Jo Cox[^9] when approaching their future relationship and recognise  *"there is more that unites us than divides us. You are leaving  the EU but you will always be part of Europe. It is very hard to say  goodbye. That is why, like my colleagues, I will say arrivederci."*
 
 Wednesday's session saw those on either side[^10] of the Brexit debate, including the UK's 73 MEPs, celebrate or lament the end of  British EU membership. Some MEPs marked the occasion with songs - others wore "always united" scarves[^11].
 
