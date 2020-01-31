@@ -1,12 +1,10 @@
-
-
-
-
 https://www.bbc.com/news
 
 # European Parliament approves Brexit agreement
 
 *abridged*
+
+[Printable version](bbcnews_brexit_approval.pdf)
 
 ------
 
@@ -19,7 +17,9 @@ https://www.bbc.com/news
 The original BBC article and video: [click here](https://www.bbc.com/news/uk-politics-51287430)   
 The video script: [click here](bbcnews_brexit_approval_script)  
 More about Auld Lang Syne: [click here](auld_lang_syne)  
-Back to [Brexit](brexit)
+Back to [worksheet](brexit)
+
+
 
 **BBC abridged article and vocab notes**
 
@@ -40,6 +40,8 @@ After the UK leaves, there will be an 11-month transition period in which the tw
 The UK has insisted talks should not extend beyond[^17] 31 December 2020 when a transition period - which will see the UK follow EU rules - comes to an end.
 
 President Sassoli told CNN on Tuesday that the timetable for a deal was tight[^18]. He said the UK's exit would be "painful" for the bloc but building a new  partnership based upon friendly co-operation and mutual interests was now essential. 
+
+<div style="page-break-after: always;"></div>
 
 [^1]: hugs: des embrassades
 [^2]: Auld Lang Syne: a traditional farewell song. See separate document
