@@ -2,8 +2,6 @@
 
 ### Jan 29 2020 : European Parliament approves Brexit Agreement
 
-1. Watch the [Video](https://www.youtube.com/watch?v=nRE44uSaZmc) on YouTube (sur le vote lui-même)
-
 2. Read the BBC News [abridged article](bbcnews_brexit_approval) 
 
 3. Watch the BBC News original [video](https://www.bbc.com/news/uk-politics-51287430) embedded in the article (reactions)
@@ -15,7 +13,7 @@
    * Is this the end of negotiations between the UK and the EU?
    
 5. Grammar/Press
-   
+  
    * What determiners are missing in the title?  
    
    * Find other similar titles in the press about Brexit 

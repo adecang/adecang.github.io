@@ -16,7 +16,6 @@ https://www.bbc.com/news
 
 **Links**
 
-The video on YouTube: [click here](https://www.youtube.com/watch?v=nRE44uSaZmc)  
 The original BBC article and video: [click here](https://www.bbc.com/news/uk-politics-51287430)   
 More about Auld Lang Syne: [click here](auld_lang_syne)  
 Back to [Brexit](brexit)
