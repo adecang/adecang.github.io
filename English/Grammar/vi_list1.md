@@ -6,7 +6,8 @@
 
 <details>
 <summary>
-<strong>BE /biː/ <i>être et auxiliaire</i></strong></summary>
+<strong>BE /biː/ <i>être et auxiliaire</i></strong>
+</summary>
 <br/>
   <strong>WAS/WERE, BEEN</strong>
 <br/>
@@ -19,7 +20,8 @@
 <br/>
 
 <details>
-<summary><strong>HAVE /hæv/ <i>avoir + auxiliaire</i></strong></summary>
+<summary><strong>HAVE /hæv/ <i>avoir + auxiliaire</i></strong>
+</summary>
 <br/>
   <strong>HAD, HAD</strong>
 <br/>
@@ -48,7 +50,8 @@
 
 <details>
 <summary>
-<strong>BECOME /bɪˈkʌm/ <i>devenir, se transformer en</i></strong></summary>
+<strong>BECOME /bɪˈkʌm/ <i>devenir, se transformer en</i></strong>
+</summary>
 <br/>
   <strong>BECAME, BECOME</strong>
 <br/>
@@ -62,7 +65,8 @@
 
 <details>
 <summary>
-<strong>BEGIN /bɪˈgɪn/ <i>commencer, débuter</i></strong></summary>
+<strong>BEGIN /bɪˈgɪn/ <i>commencer, débuter</i></strong>
+</summary>
 <br/>
 <strong>BEGAN /bɪˈgæn/, BEGUN /bɪˈgʌn/</strong>
 <br/>
@@ -90,7 +94,8 @@
 
 <details>
 <summary>
-<strong>FEEL /fiːl/ <i>se sentir, sentir, ressentir</i></strong></summary>
+<strong>FEEL /fiːl/ <i>se sentir, sentir, ressentir</i></strong>
+</summary>
 <br/>
 <strong>FELT, FELT</strong>
 <br/>
@@ -119,7 +124,8 @@
 
 <details>
 <summary>
-<strong>GET /gɛt/ <i>obtenir, avoir, trouver...</i></strong></summary>
+<strong>GET /gɛt/ <i>obtenir, avoir, trouver...</i></strong>
+</summary>
 <br/>
 <strong>GOT, GOT, GOT or gotten (US only)</strong>
 <br/>
@@ -148,7 +154,8 @@
 
 <details>
 <summary>
-<strong>GO /gəʊ/ <i>aller, partir, se déplacer</i></strong></summary>
+<strong>GO /gəʊ/ <i>aller, partir, se déplacer</i></strong>
+</summary>
 <br/>
 <strong>GO, WENT, GONE</strong>
 <br/>
@@ -162,8 +169,11 @@
 <br/>
 
 <details>
-<summary><strong>KEEP /kiːp/ <i>garder, conserver</i></summary></strong>
-<br/><strong>KEPT, KEPT</strong><br/>
+<summary><strong>KEEP /kiːp/ <i>garder, conserver</i></strong>
+</summary>
+<br/>
+<strong>KEPT, KEPT</strong>
+<br/>
 	<br/>She keeps bees: elle élève des abeilles
 	<br/>Where do you keep the chocolate?: Où conserves-tu le chocolat?
 	<br/>Keep trying: ne lache rien
@@ -249,7 +259,8 @@
 
 <details>
 <summary>
-<strong>PUT /pʊt/ <i>mettre, poser, placer...</i></strong> </summary>
+<strong>PUT /pʊt/ <i>mettre, poser, placer...</i></strong> 
+</summary>
 <br/>
 <strong>PUT, PUT</strong><br/>
 <br/>Très nombreux sens et composés...
@@ -285,6 +296,7 @@
 	<br/>They've seen better days: ils ont connu des jours meilleurs.
 	<br/>They have been seeing each other for two weeks: ils sortent ensemble depuis deux semaines.
 </details>
+
 <br/>
 
 <details>
