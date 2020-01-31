@@ -286,7 +286,8 @@
 
 <details>
 <summary>
-<strong>SEE /siː/ <i>voir</i><strong>
+  <strong>SEE /siː/ <i>voir</i></strong>
+</summary>
 <br/>
 <strong>SAW, SEEN</strong>
 <br/>
