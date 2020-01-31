@@ -10,7 +10,7 @@
 2. Grammar  
    * write down the title and the sentence with the same meaning in the first paragraph of the article. What determiners are missing in the title?
    * Do Unit 74 in Murphy Essential Grammar in Use
-3. Watch the BBC News original [video](https://www.bbc.com/news/uk-politics-51287430) embedded in the article. Then listen to it again reading the script at the same time.
+3. Watch the BBC News original [video](https://www.bbc.com/news/uk-politics-51287430) embedded in the article. Then listen to it again reading the [script](bbcnews_brexit_approval_script) at the same time.
    * MEPs represent different countries. Tell about their various reactions to the UK's departure. Who regrets Britain's departure and who rejoices?
      * Ursula Von Leyne
      * Guy Verhofstadt
