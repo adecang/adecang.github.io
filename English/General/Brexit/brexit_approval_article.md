@@ -4,7 +4,7 @@ https://www.bbc.com/news
 
 *abridged*
 
-[Printable version](bbcnews_brexit_approval.pdf)
+[Printable version](brexit_approval_article.pdf)
 
 ------
 
@@ -14,10 +14,10 @@ https://www.bbc.com/news
 
 ### Links
 
-The original BBC article and video: [click here](https://www.bbc.com/news/uk-politics-51287430)   
-The video script: [click here](bbcnews_brexit_approval_script)  
+Original BBC article and video: [click here](https://www.bbc.com/news/uk-politics-51287430)   
+Script of the video: [click here](brexit_approval_script)  
 More about Auld Lang Syne: [click here](auld_lang_syne)  
-Back to [worksheet](brexit)
+Back to [worksheet](brexit_approval_worksheet)
 
 ### BBC abridged article and vocab notes
 

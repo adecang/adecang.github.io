@@ -1,6 +1,6 @@
-## European Parliament approves Brexit agreement - video
+## European Parliament approves Brexit agreement - video script
 
-[Printable version](bbcnews_brexit_approval_script.pdf)
+[Printable version](brexit_approval_script.pdf)
 
 [click here](https://www.bbc.com/news/uk-politics-51287430) to watch the embedded video
 
@@ -29,7 +29,9 @@ For auld lang syne
 We'll take a cup of kindness yet,  
 For auld lang syne.
 
-[Auld Lang Syne](auld_lang_syne)
+[Auld Lang Syne](auld_lang_syne)  
+[Article](brexit_approval_article)  
+[Worksheet](brexit_approval_worksheet)
 
 [^1]: chaired: présidé
 [^2]: agony of parting: la souffrance de la séparation
