@@ -79,9 +79,6 @@
 <br/>
 
 <details>
-<summary><
-
-<details>
 <summary><strong>LEAD <i>(mener, conduire)</i></strong></summary>
 <br/><strong>LED, LED</strong><br/>
 	<br/>
@@ -248,3 +245,4 @@
 	<br/>
 	<br/>
 	<br/>
+
