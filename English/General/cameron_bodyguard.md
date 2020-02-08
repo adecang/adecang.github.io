@@ -19,7 +19,7 @@ Le titre informe sur une action en cours  et résume la cause de l'enquête (un 
 * *to investigate* =  enquêter sur, verbe régulier au participe passé
 * *be(ing) investigated* =  voix passive (be + pp) sans complément d'agent 
 * *is being* : present continuous (be + ing). activité en cours (l'enquête de police a lieu en ce moment)
-* (be + ing) (be+pp) BV : voir Murphy EGU Unit 43
+* (be + ing) (be + pp) BV : voir Murphy EGU Unit 43
 * Traduction : un garde du corps de David Cameron fait actuellement l'objet d'une enquête
 
 **after he reportedly left his gun in a toilet on a transatlantic jet.**
@@ -30,46 +30,35 @@ Le titre informe sur une action en cours  et résume la cause de l'enquête (un 
 
 **A "terrified passenger" found the gun and gave it to staff on a British Airways flight from New York to London on Monday, according to the Daily Mail**.
 
-* ***found, gave***  : past simple, récit plus détaillé.
+* *found, gave*  : past simple, récit plus détaillé.
 * Récit daté par *on Monday*, mais *on a British Airway flight* suffirait à justifier le prétérit.
 
-**The gun, believed to be a 9mm Glock 17 pistol, is said to have been left by a close-protection officer from the Met's Specialist Protection unit,**
+**The gun, believed to be a 9mm Glock 17 pistol,**
 
-* *The gun, believed to be* = *which is believed to be*
-* 
+* *The gun, believed to be* = *which is believed to be* : Passif (BE + PP)
+* Le revolver, qu'on pense être… : "on" est souvent traduit par la voix passive.
+
+**is said to have been left by a close-protection officer from the Met's Specialist Protection unit,**
+
+* La construction avec *is said to* ou *is believed to* (say ou believe à la voix passive + TO) est couramment utilisée pour prendre ses distances vis-à-vis d'une source d'information ou signaler qu'elle est de seconde main ou non garantie.
+* Le journaliste n'a pas eu accès directement aux souces officielles d'information, il reprend les informations données par deux autres journaux : The Daily Mail et The Sun, qui n'ont pas la réputation d'être particulièrement fiables.  Dans l'article, *believed to be*  (= which is believed to be), *reportedly* et *according to the Daily Mail* jouent le même rôle. 
+* On peut employer cette construction pour un événement ou un état présent ou passé :  
+  *He is said to be very rich* = on dit qu'il est très riche ; il serait très riche  
+  *He is said to have been very rich* = on dit qu'il a été très riche (on implique qu'il ne l'est plus)  
+* *(The gun) is said to have been left*
+  * *say* et *leave* sont tous les deux au passif.
+  * Le seul moyen possible pour renvoyer la supposition vers le passé est (have +pp).
+  * Traduction : on dit que l'arme a été laissé (oubliée), l'arme aurait été laissée
+  * Voir EGU Unit 45 (it is said that)
 
 **who took off his holster while in the toilet.**
 
 * *took off* : past simple, daté par *"while in the toilet"*
 
-#### Mr Cameron's passport - and that of the officer's - **were found** with the weapon, according to the Sun.*
+**Mr Cameron's passport - and that of the officer's - were found with the weapon, according to the Sun.**
 
-***were found***   
-past + passif = ont été trouvés, peu importe par qui (le passager qui a trouvé l'arme ou un membre de l'équipage ensuite)
-
-
-
-***The gun is said to have been left (…) by...***  
-
-La construction avec *is said to* ou *is believed to* (say ou believe à la voix passive + TO) est couramment utilisée pour prendre ses distances vis-à-vis d'une source d'information ou signaler qu'elle est de seconde main ou non garantie. Le journaliste n'a pas eu accès directement aux souces officielles d'information, il reprend les informations données par deux autres journaux : The Daily Mail et The Sun, qui n'ont pas la réputation d'être particulièrement fiables.  
-Dans l'article, *believed to be*  (= which is believed to be), *reportedly* et *according to the Daily Mail* jouent le même rôle. 
-
-On peut employer cette construction pour un événement ou un état présent ou passé :
-
-*He is said to be very rich* = on dit qu'il est très riche ; il serait très riche  
-*He is said to have been very rich* = on dit qu'il a été très riche (on implique qu'il ne l'est plus)  
-
-*He is said to have been killed* = on dit qu'il a été tué, il aurait été tué, c'est la construction de l'article :   
-(be + pp)V to (have + PP)V  
-
-SAY est construit à la voix passive. Après to, le seul moyen possible pour renvoyer la supposition vers le passé est (have +pp).
-
-Traductions possibles :   
-
-on dit que l'arme a été laissée  
-l'arme aurait été laissée  
-
-Voir EGU Unit 45 (it is said that)
+* *were found* : past + passif
+* ont été trouvés, peu importe par qui (le passager qui a trouvé l'arme ou un membre de l'équipage ensuite)
 
 *Mr Cameron **was** the UK prime minister **for six years** until July 2016, **when he stepped down** following the result of the EU referendum.*
 
