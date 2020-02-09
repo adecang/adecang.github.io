@@ -57,19 +57,18 @@ Le titre informe sur une action en cours  et résume la cause de l'enquête (un 
 
 **Mr Cameron's passport - and that of the officer's - were found with the weapon, according to the Sun.**
 
-* *were found* : past + passif
+* *were found* : past + passif. Suite du récit, au passé.
 * ont été trouvés, peu importe par qui (le passager qui a trouvé l'arme ou un membre de l'équipage ensuite)
 
-*Mr Cameron **was** the UK prime minister **for six years** until July 2016, **when he stepped down** following the result of the EU referendum.*
+**Mr Cameron was the UK prime minister for six years until July 2016, when he stepped down following the result of the EU referendum**
 
-### Paragraph 2
-
-***was… for six years***
+*Mr Johnson was the UK prime minister for six years*
 
 PAST + FOR + DURÉE => FOR = PENDANT  
-Mr Cameron a été premier ministre du Royaune Uni pendant six ans.
+= Mr Cameron a été premier ministre du Royaune Uni **pendant** six ans.
 
-Comparer à :  
+Comparer à :
+
 *Mr Johnson **has been** the UK prime minister **for six months**.*  
 M. Johnson est premier ministre depuis six mois  
 PRESENT PERFECT + FOR + DURÉE => FOR = DEPUIS

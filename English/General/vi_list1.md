@@ -6,7 +6,7 @@
 
 <details>
 <summary>
-<strong>BE /biː/ <i>être et auxiliaire</i></strong>
+<strong>1. BE /biː/ <i>être et auxiliaire</i></strong>
 </summary>
 <br/>
   <strong>WAS/WERE, BEEN</strong>
@@ -14,13 +14,12 @@
 	<br/>There is too much salt: il y a trop de sel
 	<br/>Steve is 17: Steve a 17 ans 
 	<br/>It is 10$: Ça fait 10 dollars
-	<br/>It is cold: il fait froid: it is cold
+	<br/>It is cold: il fait froid
 </details>
-
 <br/>
 
 <details>
-<summary><strong>HAVE /hæv/ <i>avoir + auxiliaire</i></strong>
+<summary><strong>2. HAVE /hæv/ <i>avoir + auxiliaire</i></strong>
 </summary>
 <br/>
   <strong>HAD, HAD</strong>
@@ -35,7 +34,7 @@
 
 <details>
 <summary>
-<strong>DO /duː/ /dəʊ/ <i>faire + auxiliaire</i></strong>
+<strong>3. DO /duː/ /dəʊ/ <i>faire + auxiliaire</i></strong>
 </summary>
 <br/>
   <strong>DID, DONE</strong>
@@ -50,13 +49,13 @@
 
 <details>
 <summary>
-<strong>BECOME /bɪˈkʌm/ <i>devenir, se transformer en</i></strong>
+<strong>4. BECOME /bɪˈkʌm/ <i>devenir, se transformer en</i></strong>
 </summary>
 <br/>
   <strong>BECAME, BECOME</strong>
 <br/>
 	<br/>After a while we became good friends : nous sommes devenus bons amis
-	<br/>After the meal she became ill: elle s'est senti mal
+	<br/>After the meal she became ill: elle s'est sentie mal
 	<br/>Your dress becomes you very well: ta robe te va très bien
 	<be/>becoming: seyant, approprié
 </details>
@@ -65,7 +64,7 @@
 
 <details>
 <summary>
-<strong>BEGIN /bɪˈgɪn/ <i>commencer, débuter</i></strong>
+<strong>5. BEGIN /bɪˈgɪn/ <i>commencer, débuter</i></strong>
 </summary>
 <br/>
 <strong>BEGAN /bɪˈgæn/, BEGUN /bɪˈgʌn/</strong>
@@ -80,21 +79,21 @@
 
 <details>
 <summary>
-<strong>COME /kʌm/ <i>venir, arriver</i></strong>
+<strong>6. COME /kʌm/ <i>venir, arriver</i></strong>
 </summary>
 <br/>
 <strong>CAME, COME</strong>
 <br/>
-	<br/>Come here, will you?: viens ici (ce n'est pas uen question).
-	<br/>I come from New York : je viens de New York (c'est là que j'habite)
+	<br/>Come here, will you? : viens ici.
+	<br/>I come from New York : je viens de New York (c'est là que j'habite).
 	<br/>How come you're so late?: comment ça se fait que tu es si en retard?
-	<br/>This shirts comes in different colours: cette cemise se fait en différentes couleurs.
+	<br/>These shirts come in different colours: ces chemise se font en différentes couleurs.
 </details>
 <br/>
 
 <details>
 <summary>
-<strong>FEEL /fiːl/ <i>se sentir, sentir, ressentir</i></strong>
+<strong>7. FEEL /fiːl/ <i>se sentir, sentir, ressentir</i></strong>
 </summary>
 <br/>
 <strong>FELT, FELT</strong>
@@ -109,7 +108,7 @@
 
 <details>
 <summary>
-<strong>FIND /faɪnd/ <i>trouver</i></strong> 
+<strong>8. FIND /faɪnd/ <i>trouver, penser</i></strong> 
 </summary>
 <br/>
 <strong>FOUND, FOUND /faʊnd/</strong>
@@ -124,7 +123,7 @@
 
 <details>
 <summary>
-<strong>GET /gɛt/ <i>obtenir, avoir, trouver...</i></strong>
+<strong>9. GET /gɛt/ <i>obtenir, avoir, trouver...</i></strong>
 </summary>
 <br/>
 <strong>GOT, GOT, GOT or gotten (US only)</strong>
@@ -139,7 +138,7 @@
 
 <details>
 <summary>
-<strong>GIVE /gɪv/ <i>donner, céder</i></strong>
+<strong>10. GIVE /gɪv/ <i>donner, céder</i></strong>
 </summary>
 <br/>
 <strong>GAVE, GIVEN</strong>
@@ -154,7 +153,7 @@
 
 <details>
 <summary>
-<strong>GO /gəʊ/ <i>aller, partir, se déplacer</i></strong>
+<strong>11. GO /gəʊ/ <i>aller, partir, se déplacer</i></strong>
 </summary>
 <br/>
 <strong>GO, WENT, GONE</strong>
@@ -163,20 +162,19 @@
 	<br/>Can I have a go at it/give it a go? : je peux essayer?
 	<br/>The car was going at full speed : la voiture roulait à pleine vitesse.
 	<br/>The meeting went well : la réunion s'est bien passé.
-	<br/>Gone with the Wind: Autant en emporte le vent (titre)
 </details>
 
 <br/>
 
 <details>
-<summary><strong>KEEP /kiːp/ <i>garder, conserver</i></strong>
+<summary><strong>12. KEEP /kiːp/ <i>garder, conserver</i></strong>
 </summary>
 <br/>
 <strong>KEPT, KEPT</strong>
 <br/>
 	<br/>She keeps bees: elle élève des abeilles
 	<br/>Where do you keep the chocolate?: Où conserves-tu le chocolat?
-	<br/>Keep trying: ne lache rien
+	<br/>Keep trying: ne lâche rien
 	<br/>a keep : un donjon
 </details>
 
@@ -184,7 +182,7 @@
 
 <details>
 <summary>
-<strong>KNOW /nəʊ/ <i>connaître, savoir</i></strong>
+<strong>13. KNOW /nəʊ/ <i>connaître, savoir</i></strong>
 </summary>
 <br/>
 <strong>KNEW, KNOWN</strong>
@@ -200,13 +198,14 @@
 
 <details>
 <summary>
-<strong>LEAVE /liːv/ <i>quitter, partir</i></strong>
+<strong>14. LEAVE /liːv/ <i>quitter, partir</i></strong>
 </summary>
 <br/>
 <strong>LEFT, LEFT</strong>
 <br/>
 	<br/>He has already left: il est déjà parti.
 	<br/>There's no bread left: il ne reste plus de pain.
+	<br/>a leave: une permission, un congé
 	<br/>a sick leave : un congé de maladie
 </details>
 
@@ -214,7 +213,7 @@
 
 <details>
 <summary>
-<strong>LET /lɛt/ <i>laisser, louer</i></strong>
+<strong>15. LET /lɛt/ <i>laisser, louer</i></strong>
 </summary>
 <br/>
 <strong>LET, LET</strong>
@@ -229,14 +228,14 @@
 
 <details>
 <summary>
-<strong>MAKE /meɪk/ <i>faire, fabriquer, confectionner</i></strong>
+<strong>16. MAKE /meɪk/ <i>faire, fabriquer, confectionner</i></strong>
 </summary>
 <br/>
 <strong>MADE, MADE /meɪd/</strong>
 <br/>
-	<br/>Make a decision : prendre une décision
-	<br/>Don't make a fuss : ne fais pas tant d'histoires
-	<br/>He makes $50.000 a year : il gagne...
+	<br/>Make a decision : prendre une décision.
+	<br/>Don't make a fuss : ne fais pas tant d'histoires.
+	<br/>He makes $50.000 a year : il gagne 50 000$ par an.
 	<br/>You won't make me eat that: hors de question que tu me fasses manger ça.
 </details>
 
@@ -244,7 +243,7 @@
 
 <details>
 <summary>
-  <strong>MEAN /miːn/ <i>signifier, vouloir dire/faire</i></strong>
+  <strong>17. MEAN /miːn/ <i>signifier, vouloir dire/faire</i></strong>
 </summary>
 <br/>
 <strong>MEANT, MEANT</strong>
@@ -259,7 +258,7 @@
 
 <details>
 <summary>
-<strong>PUT /pʊt/ <i>mettre, poser, placer...</i></strong> 
+<strong>18. PUT /pʊt/ <i>mettre, poser, placer...</i></strong> 
 </summary>
 <br/>
 <strong>PUT, PUT</strong><br/>
