@@ -2,8 +2,8 @@
 
 ### [Brexit](General/brexit_approval_worksheet)
 
-### [Cameron's bodyguard](general/cameron_bodyguard)
+### [Cameron's bodyguard](General/cameron_bodyguard)
 
 ### [Coronavirus](Toiec/Media/sixoclocknews_20200120_coronavirus)
 
-### [Goldilocks](general/goldilocks_worksheet)
+### [Goldilocks](General/goldilocks_worksheet)
