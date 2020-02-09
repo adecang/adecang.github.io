@@ -6,4 +6,4 @@
 
 ### [Coronavirus](Toiec/Media/sixoclocknews_20200120_coronavirus)
 
-### [Goldilocks](goldilocks_worksheet)
+### [Goldilocks](general/goldilocks_worksheet)
