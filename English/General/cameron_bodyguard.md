@@ -18,16 +18,16 @@ British Airways said it had adhered to Civil Aviation Authority rules allowing U
 
 **Mr Cameron was the UK prime minister for six years until July 2016, when he stepped down following the result of the EU referendum.**
 
-## Analyse de certains groupes du verbe
-
-Le titre informe sur une action en cours  et résume la cause de l'enquête (un garde du corps aurait oublié son arme dans les toilettes d'un avion pendant un vol transatlantique).
+## Analyse des temps
 
 **(Title) A bodyguard for David Cameron is being investigated**
 
+Le sous-titre de l'article informe sur une action en cours  et résume la cause de l'enquête (un garde du corps aurait oublié son arme dans les toilettes d'un avion pendant un vol transatlantique).
+
 * *to investigate* =  enquêter sur, verbe régulier au participe passé
-* (présent)(BE + ING)(BE + PP) BV
-  * is **be**ing investigat**ed** :  voix passive (BE + PP) sans complément d'agent 
-  * **is** be**ing** investigated : present continuous (be + ing). activité en cours (l'enquête de police a lieu en ce moment).
+* *is being investigated* : (présent)(BE + ING)(BE + PP) BV
+  * is **be**ing investigat**ed** :  voix passive (BE + PP) sans complément d'agent.
+  * **is** be**ing** investigated : activité actuellement en cours (l'enquête de police a lieu en ce moment) => present continuous (be + ing). 
 * Passif : voir Murphy EGU Unit 43.
 * Traduction : un garde du corps de David Cameron fait actuellement l'objet d'une enquête.
 
@@ -39,7 +39,7 @@ Le titre informe sur une action en cours  et résume la cause de l'enquête (un 
 
 **A "terrified passenger" found the gun and gave it to staff on a British Airways flight from New York to London on Monday, according to the Daily Mail**.
 
-* *found, gave*  : détails du récit past simple obligatoire.
+* *found, gave*  : détails du récit, past simple obligatoire.
 * Récit daté par *on Monday*, mais *on a British Airway flight* suffirait à justifier le prétérit comme dans la phrase précédente.
 
 **The Met said the officer involved has been removed from operational duties.**
@@ -82,17 +82,18 @@ Le titre informe sur une action en cours  et résume la cause de l'enquête (un 
 
   * Au past perfect (ED)(HAVE + PP)  :  
 
-    *the police said the bodyguard **had lost** his gun during the flight* (voix active)
+    *the police said the bodyguard **had lost** his gun during the flight* (voix active)  
     *the journalist said British Airways **had been created** in 1973* (voix passive)
 
 **who took off his holster while in the toilet.**
 
-* *took off* : retour au récit des événements, past simple daté par *"while in the toilet"*
+* *took off* : retour au récit des événements, prétérit daté par *"while in the toilet"*
 
 **Mr Cameron's passport - and that of the officer's - were found with the weapon, according to the Sun.**
 
-* *were found* : suite du récit des événements passés, prétérit  à la voix passive.
-* = ont été trouvés, par une personne inconnue (le passager qui a trouvé l'arme ou un membre de l'équipage ensuite)
+* *were found* : suite du récit des événements passés, prétérit
+* Voix passive parce qu'on s'intéresse plus aux objets oubliés qu'à la personne qui les a trouvés.
+* Traduction : ont été trouvés, ou : on a également retrouvé..
 
 **Mr Cameron was the UK prime minister for six years**,
 
@@ -108,4 +109,4 @@ Le titre informe sur une action en cours  et résume la cause de l'enquête (un 
 ***when he stepped down***   
 
 * = date à laquelle il a démissionné (juin 2019) => prétérit
-* Voir EGU units 9, 10 et 12
+* FOR, SINCE, AGO : voir EGU units 9, 10 et 12
