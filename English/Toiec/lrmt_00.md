@@ -4,7 +4,7 @@
 
 [Mini Test 2](lrmt_02)
 
-[Mini Test 3](lmrt_03)
+[Mini Test 3](lrmt_03)
 
 [Mini Test 4](lrmt_04)
 
