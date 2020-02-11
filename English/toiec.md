@@ -26,7 +26,7 @@
 
 [Technology](Toiec/lrch_13)
 
-[Tests](Toiec/Tests/lrmt_00)
+[Tests](Toiec/lrmt_00)
 
 
 
