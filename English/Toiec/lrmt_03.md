@@ -165,8 +165,7 @@ go to air, be aire(D) être diffusé*
 112. (A) add 25% to an **invoice**  
      *an + voyelle de toute façon…*
 113. (C) **I would advise the former option**
-114. (C
-115. ) Before we ***make*** my position permanent
+114. (C) Before we ***make*** my position permanent
 
 *Il s'agit d'un mail interne. Frank Jensen vient de découvrir que son prédécesseur détournait des fonds de l'entreprise: il s'entendait avec des fournisseurs pour qu'ils surfacturent leurs services et fassent des travaux chez lui. Frank Jensen souhaite changer de fournisseur et veut être certain que personne n'était au cournat de ces irrégularités avant d'accepter définitivement son poste de directeur des achats.*
 
@@ -176,7 +175,7 @@ go to air, be aire(D) être diffusé*
 
 115. Who would be interested in this information?  
      (C) **Travelers**
-116. B **[2]**  
+116. (B) **[2]**  
      *Le site donne d'abord une liste des vaccins obligatoires puis un vaccin non obligatoire mais recommandé*
 117. What is indicated about the website?  
      (C) **It has information about medicines**
@@ -198,13 +197,13 @@ Note: selon les pays, certains médicaments peuvent être autorisés, interdits,
      *clair d'après le premier document, confirmé dans le mail*
 120. What is the purpose of the e-mail?  
      (A) **To inform a manager of a problem**  
-     *Howard Delaney est le directeur du restaurant. Cathy Price a une responsabilité au sein de la chaîne qui possède le restaurant. Howart informe Cathy de la mauvaise revue écrite par George costas, se justifie en expliquant que so nchef est parti sans prévenir et qu'ils ont laissé le restaurant ouvert quand même. Il n'offre pas sa démission mais déclare qu'il acceptera les décisions de la chaîne.*
+     *Howard Delaney est le directeur du restaurant. Cathy Price a une responsabilité au sein de la chaîne qui possède le restaurant. Howart informe Cathy de la mauvaise revue écrite par George Costas, se justifie en expliquant que son chef est parti sans prévenir et qu'ils ont laissé le restaurant ouvert quand même. Il n'offre pas sa démission mais déclare qu'il acceptera les décisions de la chaîne.*
 121. The word 'balk' in paragraph 2, line 1 of the article is closest in meaning to:  
      (B) **recoil**  
      *rechigner à, se rebiffer, se montrer critique…*
 122. What decision did Cathy Price most likely make?  
      (A) **To dismiss George Delaney**  
-     *L'offre d'emploi concerne un chef ET un directeur de retaurant capable de résoudre les problèmes 'on the fly' (au fur et à mesure, lorsqu'ils se présentent, à la volée), ce que howard Delaney n'a pas su faire.*
+     *L'offre d'emploi concerne un chef ET un directeur de restaurant capable de résoudre les problèmes 'on the fly' (au fur et à mesure, lorsqu'ils se présentent, à la volée), ce que Howard Delaney n'a pas su faire.*
 
 *wholeheartedly: sans réserve, pleinement, chandement  
 indie (independent) restaurants: restaurants d'avant-garde  
