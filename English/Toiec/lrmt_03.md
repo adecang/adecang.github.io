@@ -35,11 +35,11 @@
    (C) **Can you give us another couple of minutes?**
 6. They're talking of buying a comany in New York State  
    (A) **I just hope they do Due Diligence first**  
-   (B) I prefer tiol live in the center of town  
+   (B) I prefer to live in the center of town  
    (C) My command offices are in New York
-7. Have you have lunch yet Mike?  
+7. Have you had lunch yet Mike?  
    (A) I'd like a salad, please  
-   (B) Actuallly I had it yesterday  
+   (B) Actually I had it yesterday  
    (C) **I was planning to skip lunch today**
 8. Is Shia again leaving early today?  
    (A) **Yes, she's got a doctor appointment**  
@@ -78,7 +78,7 @@ W: There is a menu for two at forty dollars which would be twenty dollars each a
 
 W1: There's been a lot of absenteeism this week. It's really slowing production down.  
 M: There has ben a bout of flu going around. I guess that has something to do with it.  
-W1: It's true. It was reported on the news this morning. Enven the people who took the flu vaccine are being affected.  
+W1: It's true. It was reported on the news this morning. Even the people who took the flu vaccine are being affected.  
 W2: Well, we're going to have to find some solution. Otherwise we're never going to reach this quarter's quota.  
 M: Well, we can't change the quota. I'll see if I can draft in a few extra people from the Red Car plant. I read they've already reached theirs.  
 
@@ -120,7 +120,7 @@ a press release: un communiquer de presse*
 
 **Talk 2: an announcement**
 
-In a few minutes we'll be speaking to celebrity chef Pierre Leblanc. We'll be asking about his nex TV show *Get, Set, Cook* that starts next Monday at eight o'clock. We'll ask what it's like doing his first live show and how he fits that in with his new downtown restaurant *chez Pierre*. So tune in after the news to hear about Pierre Leblanc's new TV show that goes to air next week on Monday.
+In a few minutes we'll be speaking to celebrity chef Pierre Leblanc. We'll be asking about his new TV show *Get, Set, Cook* that starts next Monday at eight o'clock. We'll ask what it's like doing his first live show and how he fits that in with his new downtown restaurant *chez Pierre*. So tune in after the news to hear about Pierre Leblanc's new TV show that goes to air next week on Monday.
 
 20. Who most likely is the speaker?  
     (B) **A radio host** 
@@ -136,36 +136,37 @@ go to air, be aire(D) être diffusé*
 
 ### Part 5 page 107
 
-101. Doctors **recommend that travel agents inform** travelers of the vaccination requirements ahead of any foreign trip.  
+101. B: Doctors **recommend that travel agents inform** travelers of the vaccination requirements ahead of any foreign trip.  
      *GR: recommend that + base verbale (subjonctif)*
-102. Top business consultants offer companies access to their **knowhow** as well as their experience.  
+102. A: Top business consultants offer companies access to their **knowhow** as well as their experience.  
      *VO(C) knowhow: savoir-faire*
-103. Pharmacies **have sold** more flu vaccines this year than aspirin or sleeping pills.  
+103. C: Pharmacies **have sold** more flu vaccines this year than aspirin or sleeping pills.  
      *GR: This year: bilan de cette année => action liée au présent => Presnet Perfect*
-104. Sales managers are confident that they have enough **in the pipeline** to survive through the slowdown.  
-     *VO(C) assez de commandese nréserve, ou en cours pour tenir le temps du ralentissement de l'économie*
-105. The CEO has **formerly** been a member of the board at one of their competitors giving him useful inside information.  
-     *GR/VO(C) formerly = dans le passé, précédemment.  
+104. D: Sales managers are confident that they have enough **in the pipeline** to survive through the slowdown.  
+     *VO(C) assez de commandes en réserve, ou en cours pour tenir le temps du ralentissement de l'économie*
+105. A: The CEO has **formerly** been a member of the board at one of their competitors giving him useful inside information.  
+     *GR/VO(C) formerly = dans le passé, précédemment ≠ formally.  
      inside information: informations internes/confidentielles*
-106. This is to remind all employees **responsible for filing** year end reports that the deadline is Monday December 27th.  
+106. B: This is to remind all employees **responsible for filing** year end reports that the deadline is Monday December 27th.  
      *VO(C) responsible for +Ving  
      to file: classer, archiver*
-107. When a company **calls a tender**, only bids sent before the deadline are accepted.  
+107. B: When a company **calls a tender**, only bids sent before the deadline are accepted.  
      *VO(C) call a tender = faire un appel d'offre*
-108. All the restaurant's pastries **are made by** our famous chef Simon Roughly.  
+108. D: All the restaurant's pastries **are made by** our famous chef Simon Roughly.  
      *VO(C) Make ≠ Do*
-109. Our **side orders** include fries, garlic potatoes, green saland and ratatouille.  
+109. A: Our **side orders** include fries, garlic potatoes, green salad and ratatouille.  
      *VO(C) side orders = garniture, accompagnement de légumes*
-110. The two companies **agreed to merge** after three weeks of intense negotiations.  
+110. C: The two companies **agreed to merge** after three weeks of intense negotiations.  
      *GR: construction de agree*
 
 ## Part 6 page 108
 
 111. (C) some of the prices we have been paying **over** the last two or three years
-112. add 25% to an **invoice**  
+112. (A) add 25% to an **invoice**  
      *an + voyelle de toute façon…*
 113. (C) **I would advise the former option**
-114. (A) Before we **make*** my position permanent
+114. (C
+115. ) Before we ***make*** my position permanent
 
 *Il s'agit d'un mail interne. Frank Jensen vient de découvrir que son prédécesseur détournait des fonds de l'entreprise: il s'entendait avec des fournisseurs pour qu'ils surfacturent leurs services et fassent des travaux chez lui. Frank Jensen souhaite changer de fournisseur et veut être certain que personne n'était au cournat de ces irrégularités avant d'accepter définitivement son poste de directeur des achats.*
 
