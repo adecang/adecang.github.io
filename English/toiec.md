@@ -26,5 +26,11 @@
 
 [Technology](Toiec/lrch_13)
 
-[Tests](Toiec/lrmt_00)
+[Mini-test 1](Toiec/lrmt_01)
+
+[Mini-test 2](Toiec/lrmt_02)
+
+[Mini-test 3](Toiec/lrmt_03)
+
+[Mini-test 4](Toiec/lrmt_04)
 
