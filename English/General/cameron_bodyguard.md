@@ -58,7 +58,7 @@ Le sous-titre de l'article informe sur une action en cours  et résume la cause 
 
 * La construction avec *is said to* ou *is believed to* (say ou believe à la voix passive + TO) est couramment utilisée pour prendre ses distances vis-à-vis d'une source d'information ou signaler qu'elle est de seconde main ou non garantie.
 
-* Le journaliste n'a pas eu accès directement aux sources officielles d'information, il reprend les informations données par deux autres journaux : The Daily Mail et The Sun, qui n'ont pas la réputation d'être particulièrement fiables.  Dans l'article, *believed to be*  (= which is believed to be), *reportedly* et *according to the Daily Mail* jouent le même rôle de mise à distance. 
+* Le journaliste n'a pas eu accès directement aux sources officielles d'information, il reprend les informations données par deux autres journaux : The Daily Mail et The Sun. Dans l'article, *believed to be*  (= which is believed to be), *reportedly* et *according to the Daily Mail* jouent le même rôle de mise à distance. 
 
 * On peut employer cette construction pour un événement ou un état présent ou passé. 
   * *He is said to be very rich*  
@@ -67,7 +67,7 @@ Le sous-titre de l'article informe sur une action en cours  et résume la cause 
   
   * *He is said to have killed his brother*  
     *to have killed :*  événement passé, perfect infinitive (to + have + PP).  
-    = On dit qu'il a été très riche (on implique qu'il ne l'est plus).
+    = On dit qu'il a tué son frère.
   
 * La supposition après *is said to* peut être exprimée à la voix passive :  *(The gun) is said to have been left*  
 
