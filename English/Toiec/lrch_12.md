@@ -21,7 +21,6 @@ I spend a lot of my time in meetings. We have weekly start meetings, decision-ma
 	<br/>brainstorming: réunions de réflexion
 </i>
 </details>
-
 <br/>
 
 <details>

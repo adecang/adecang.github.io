@@ -2,7 +2,7 @@
 
 ## 1. Combien de temps y-a-t-il en anglais?
 
-Les manuels de grammaire décrivent seize temps grammaticaux. Tableau ci-dessous :
+### Les manuels de grammaire décrivent seize temps grammaticaux :
 
 | Tense label                        | Example                     | Components                           |
 | ---------------------------------- | --------------------------- | ------------------------------------ |
@@ -23,7 +23,31 @@ Les manuels de grammaire décrivent seize temps grammaticaux. Tableau ci-dessous
 | Past/Conditional Future Perfect S. | I would have played         | (ED) (M) (HAVE + EN) BV              |
 | Past/Conditional Future Perfect C. | I would have been playing   | (ED) (M) (HAVE + EN) (BE + ING) BV   |
 
-Remarques :
+### Les noms des temps
+
+Les appellations rappellent certains des usages des temps et en laissent d'autres de côté :  les deux présents (simple et continuous) peuvent être utilisés pour un événement futur, ou permanent, pas obligatoirement présent. Le "past" a d'autres usages que l'expression du passé : I had better, If I were you...
+1. Parmi les modaux seul *will* est retenu, ce qui est dommage pour la compréhension de l'enWould est utilisé à la fois pour le conditionnel et pour le futur dans le passé, d'où une indécision sur l"étiquette qui est fondée sur la valeur du temps et non sur sa forme : 
+   * *He said he would come on Sunday* : il a dit qu'il viendrait dimanche.
+   * *If I called him he would certainly come* : si je l'appelais, il viendrais certainement.
+2. 
+
+* 
+
+3. 
+
+En conclusion, il est raisonnable de considérer que les appellations traditionnelles des temps grammaticaux sont des étiquettes souvent trompeuses mais commodes. L'essentiel est d'identifier les composants réels de ces temps (en petit nombre) et de partir à la recherche du sens que chacun apporte. Voici 
+
+* (ED) : marqueur du prétérit, ou plus exactement du non-présent/non futur, c'est le seul vrai marqueur de temps.
+* (BE + ING) : marqueur de l'aspect "imperfectif" (en cours, non achevé, autres valeurs dérivées)
+* (HAVE + PP) : marqueur de l'aspect "perfectif"
+* (M) : tous les auxiliaires modaux, pas seulement WILL
+* 
+
+
+
+1. Il est plus utile de se poserPourquoi utilise-t-on le passé pour parler de l"iréel et will de la volonté? Pourquoi ne peut-on pas utiliser le present perfect pour un événement passé et daté?
+
+1. 
 
 1. Le parcours du tableau montre que ces seize temps sont des combinaisons d'un petit nombre de composants ajoutés à la base verbale notée BV.
 
