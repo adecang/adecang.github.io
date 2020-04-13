@@ -1,8 +1,6 @@
 *My E.T. site*
 
-# English
 
-### [General](English/general)
+### [General English](English/general)
 
 ### [Toiec](English/toiec)
-
