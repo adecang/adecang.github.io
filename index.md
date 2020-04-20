@@ -18,5 +18,3 @@
 * [Cambridge Dictionary](https://dictionary.cambridge.org/fr/)
 * [Word Reference](https://www.wordreference.com/fr/)
 
-[Clémence](English/Clemence)
-
