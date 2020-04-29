@@ -1,6 +1,6 @@
 # Actes par lieu
 
-[Bignan (Finistère)](Bignan/bignan)
+[Bignan (Finistère)](bignan/bignan)
 
 
 
