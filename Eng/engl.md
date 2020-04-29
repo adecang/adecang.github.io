@@ -1,5 +1,3 @@
-## [General](gen)
-
 ## [Toiec](toiec)
 
 ____

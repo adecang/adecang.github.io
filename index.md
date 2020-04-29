@@ -2,7 +2,7 @@
 
 
 
-## [English](Engl/engl)
+## [English](engl/engl)
 
-## [Genealogy](Genea/genea)
+## [Genealogy](genea/genea)
 
