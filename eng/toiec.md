@@ -1,36 +1,36 @@
 # TOIEC
 
-[Banking and Personal Finance](Toiec/lrch_01)  
+[Banking and Personal Finance](toiec/lrch_01)  
 
-[In the office](Toiec/lrch_02)
+[In the office](toiec/lrch_02)
 
-[Travel](Toiec/index)
+[Travel](toiec/index)
 
-[Real Estate](Toiec/lrch_04)
+[Real Estate](toiec/lrch_04)
 
-[Human Resources](Toiec/lrch_05)
+[Human Resources](toiec/lrch_05)
 
-[Production](Toiec/lrch_06)
+[Production](toiec/lrch_06)
 
-[Health](Toiec/lrch_07)
+[Health](toiec/lrch_07)
 
-[Business Development](Toiec/lrch_08)
+[Business Development](toiec/lrch_08)
 
-[Purchasing](Toiec/lrch_09)
+[Purchasing](toiec/lrch_09)
 
-[Eating Out](Toiec/lrch_10)
+[Eating Out](toiec/lrch_10)
 
-[Leisure](Toiec/lrch_11)
+[Leisure](toiec/lrch_11)
 
-[General Business Activities](Toiec/lrch_12)
+[General Business Activities](toiec/lrch_12)
 
-[Technology](Toiec/lrch_13)
+[Technology](toiec/lrch_13)
 
-[Mini-test 1](Toiec/lrmt_01)
+[Mini-test 1](toiec/lrmt_01)
 
-[Mini-test 2](Toiec/lrmt_02)
+[Mini-test 2](toiec/lrmt_02)
 
-[Mini-test 3](Toiec/lrmt_03)
+[Mini-test 3](toiec/lrmt_03)
 
-[Mini-test 4](Toiec/lrmt_04)
+[Mini-test 4](toiec/lrmt_04)
 
