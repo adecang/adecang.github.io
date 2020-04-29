@@ -4,5 +4,4 @@
 
 ## [English](eng/eng)
 
-## [Genealogy](gen/_gen)
-
+## [Généalogie](gen/gen)
