@@ -15,7 +15,7 @@
 4. What subject is she talking about ?
 5. What does she explain about the rules (les règles) in the country where she is living now?
 6. What does she do?
-7. What does she find most difficul in her daily life? Why?
+7. What does she find most difficult in her daily life? Why?
 8. But why does she say her situation is not so bad?
 9. What difference does she see between France and England?
 10. How does she know?
