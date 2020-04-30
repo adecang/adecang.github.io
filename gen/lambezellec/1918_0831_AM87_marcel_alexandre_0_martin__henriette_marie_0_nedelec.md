@@ -24,3 +24,4 @@ Dont acte en présence de :
 * Marie Balé, célibataire, directrice d’école, quarante neuf ans, domiciliée à Landerneau, tante de la comparante.
 
 Lecture faite, les comparants et témoins ont signé avec Nous.
+
