@@ -9,7 +9,8 @@
         src="https://adecang.github.io/eng/audio-lingua/katie.mp3">
             Your browser does not support the
             <code>audio</code> element.
-    </audio></figure>
+    </audio>
+
 1. Where is Katie from?
 2. Where does she live ?
 3. How long has she been living here?
