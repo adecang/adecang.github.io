@@ -1,6 +1,6 @@
 TITLE=MA Sébastien Martin & Marie Le Roch
 
-<img src="https://adecang.github.io/gen/bignan/media/1753_0223_MA_sebastien_martin__marie_le_roch.jpg">Acte</img>
+<img src="https://adecang.github.io/gen/bignan/media/1753_0223_MA_sebastien_martin__marie_le_roch.jpg"></img>
 
 
 
