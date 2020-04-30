@@ -7,4 +7,7 @@ L’an de grâce mil sept cent cinquante trois le vingt trois février après le
 je, soussigné après avoir interrogé les deux parties et pris leur mutuel consentement les ay solennellement  conjointes en mariage en présence de Joseph Le Roh père de la mariée, Julienne Rio mère et tutrice du dit Martin, Mathurin Robino et Colomban Le Priol et ay ensuite célébré la ste messe dans laquelle je leur ay donné la bénédiction nuptiale selon le rite de la ste église et ont les 2 parties et témoins déclaré ne scavoir signer à la réserve du dit Le Roh.
 
 
+-------
+
+
 <img src="https://adecang.github.io/gen/bignan/media/1753_0223_MA_sebastien_martin__marie_le_roch.jpg"></img>
