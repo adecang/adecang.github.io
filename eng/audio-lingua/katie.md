@@ -11,64 +11,20 @@
             <code>audio</code> element.
     </audio></figure>
 1. Where is Katie from?
-
-   
-
 2. Where does she live ?
-
-   
-
 3. How long has she been living here?
-
-   
-
 4. What subject is she talking about ?
-
-   
-
 5. What does she explain about the rules (les règles) in the country where she is living now?
-
-   
-
 6. What does she do?
-
-   
-
 7. What does she find most difficul in her daily life? Why?
-
-   
-
 8. But why does she say her situation is not so bad?
-
-   
-
 9. What difference does she see between France and England?
-
-   
-
 10. How does she know?
-
-    
-
 11. What personal activity does she mention?
-
-    
-
 12. Why is it important to her?
-
-    
-
 13. Regarding (= concernant) this physical activity, what difference is there between normal times and now?
-
-    
-
 14. How does she sum up (= résumer) her situation?
-
-    
-
 15. Could her opinion change?
-
-    
 
 ## Vocab
 
@@ -78,7 +34,7 @@ to make sure : s'assurer que
 to be able to : pouvoir (être capable de)  
 to guess : deviner  
 space : l'espace  
-a ruel : une règle  
+a rule : une règle  
 the news : les nouvelles, les informations  
 whereas : alors que  
 the lockdown : the confinement  
@@ -89,8 +45,6 @@ to have to : devoir (être dans l'obligation de)
 the radius : le rayon (d'un cercle)  
 further : plus loin  
 get through : faire face à 
-
-
 
 ## Script
 
