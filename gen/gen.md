@@ -2,9 +2,9 @@
 
 ## France
 
-[Bignan (Finistère)](bignan/bignan)
+[Bignan (Finistère)](Bignan/bignan)
 
-[Brest](brest)
+[Brest](brest/brest)
 
 [Buxeuil](buxeuil)
 
