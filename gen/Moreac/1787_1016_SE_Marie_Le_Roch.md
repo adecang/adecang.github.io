@@ -6,3 +6,4 @@ L'an de grâce mil sept cent quatre-vingt sept le seizième jour d'octobre a ét
 Témoins du décès et présents à l’enterrement (1787, Moréac) : Sébastien MARTIN (époux) et Mathurin MARTIN (fils)
 
 <a href=https://adecang.github.io/gen/moreac/media/1787_1016_SE_marie_le_roch.jpg>Acte</a>
+

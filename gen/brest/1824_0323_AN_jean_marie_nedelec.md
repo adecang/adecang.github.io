@@ -12,5 +12,5 @@ Sur la réquisition à nous faite par le père de l’enfant présent qui signe,
 
 Constaté, suivant la loi, par moi Jean Clérec, adjoint délégué faisant fonction d’Officier Public de l’État-Civil, soussigné, après lecture donnée.
 
-<a href="https://adecang.github.io/gen/brest/media/1824_0323_AN25_jean_marie_nedelec.jpg">Acte</a>
+[Acte](media/1824_0323_AN_jean_marie_nedelec.jpg)
 

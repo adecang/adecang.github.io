@@ -27,7 +27,7 @@
   - [[Le Champ Clos\] - Béganne, 56011, Morbihan, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1702&s=#mod)
   - [[Ville-aux-jeunes\] - Béganne, 56011, Morbihan, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1693&s=#mod)
 - [Bérelles, 59066, Nord, Hauts-de-France, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1536&s=#mod)
-- [Bignan, 56017, Morbihan, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1537&s=#mod)
+- [Bignan, 56017, Morbihan, Bretagne, France](Bignan/bignan)
 - [Boulleret, 18032, Cher, Centre-Val de Loire, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1550&s=#mod)
 - [Brest, 29019, Finistère, Bretagne, France](Brest/brest)
 - [Brugge, 8000, Oost-Vlaanderen, Vlaanderen, Belgie](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1539&s=#mod)
@@ -37,14 +37,14 @@
 ## C
 
 - [Caden, 56028, Morbihan, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1525&s=#mod)
-- [Camaret-sur-mer, 29022, Finistère, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1542&s=#mod)
+- [Camaret-sur-mer, 29022, Finistère, Bretagne, France](Camaret/camaret)
 - [Cambrai, 59122, Nord, Hauts-de-France, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1543&s=#mod)
 - [Carentoir, 56033, Morbihan, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1549&s=#mod)
 - [Casablanca,,,,Maroc](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1553&s=#mod)
 - [Champigny-sur-Marne, 94017, Val-de-Marne, Île-de-France, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1544&s=#mod)
 - [Charleroi, 52000, Hainaut, Wallonie, Belgique](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1554&s=#mod)
 - [Concarneau, 29039, Finistère, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1545&s=#mod)
-- [Conflans-Sainte-Honorine, 78172, Yvelines, Île-de-France, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1546&s=#mod)
+- [Conflans-Sainte-Honorine, 78172, Yvelines, Île-de-France, France](Conflans_Sainte_Honorine/conflans_sainte_honorine)
 - [Corbeil-Essonnes, 91174, Essonne, Île-de-France, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1547&s=#mod)
 - [Cornuda, 026023, Veneto, Italia](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1555&s=#mod)
 - [Coulouvray-BoisBenâtre, 50144, Manche, Normandie, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1556&s=#mod)
@@ -96,10 +96,10 @@
 **L**
 
 - [La Gacilly, 56061, Morbihan, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1589&s=#mod)
-- [La Martyre, 29144, Finistère, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1505&s=#mod)
-- [La Roche-Maurice, 29237, Finistère, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1591&s=#mod)
+- [La Martyre, 29144, Finistère, Bretagne, France](La_Martyre/la_martyre)
+- [La Roche-Maurice, 29237, Finistère, Bretagne, France](LA_Roche_Maurice/la_roche_maurice)
 - [[Vorst\] - Laakdal, 13053, Antwerpen, Vlaanderen, Belgie](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1698&s=#mod)
-- [Lambezellec, 29096, Finistère, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1499&s=#mod)
+- [Lambezellec, 29096, Finistère, Bretagne, France](Lambezellec/lambezellec
 - [Landerneau, 29103, Finistère, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=2059&s=#mod)
 - [Langonnet, 56100, Morbihan, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1594&s=#mod)
 - [Lanvénégen, 56105, Morbihan, Bretagne, France](http://localhost:2317/Familles-Decang-Sevestre?lang=fr&m=MOD_DATA&data=place&key=1595&s=#mod)
