@@ -14,6 +14,7 @@ Here's the full transcript of Trump's comments:
 
 **Vocabulary**
 
+a disinfectant : un désinfectant (ici, un détergent pour les surfaces, du type eau de javel)  
 pretty : joli. Ici c'est un adverbe = plutôt, drôlement (familier )   
 you're gonna : you are going to (très familier)  
 the skin : la peau   

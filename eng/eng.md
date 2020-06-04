@@ -2,7 +2,9 @@
 
 ____
 
+## Learning materials
 
+* [Trump on disinfectant against coronavirus](trump_on_disinfectant/worksheet)
 
 ### Useful links
 
@@ -33,5 +35,5 @@ ____
 * Essential English Grammar (Murphy, Cambridge University Press) - Elementary
 * English Grammar in Use (Murphy, Cambridge University Press) - Intermediate
 
-[Clorox against coronavirus](trump_on_disinfectant/worksheet)
+
 
