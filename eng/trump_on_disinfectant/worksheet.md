@@ -38,7 +38,7 @@ To chew : mâcher (cf. chewing-gum)
 
 *Clorox is a very common brand of disinfectant.  A brand : une marque*
 
-**Open the following link :  www.clorox.com  (clic droit, "ouvrir lien").  This is Clorox's home page. You should see the following message :**
+**[Open Clorox homepage](http://www.clorox.com).  You should see the following message :**
 
 .
 
