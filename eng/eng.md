@@ -32,3 +32,6 @@ ____
 
 * Essential English Grammar (Murphy, Cambridge University Press) - Elementary
 * English Grammar in Use (Murphy, Cambridge University Press) - Intermediate
+
+[Clorox against the coronavirus](Trump_on_disinfectant)
+
