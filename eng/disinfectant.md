@@ -1,3 +1,3 @@
-Due to recent speculation and social media activity, RB has been asked whether internal administration of disinfectants may be appropriate for investigation or use as a treatment for coronavirus.
+Due to recent speculation and social media activity, RB (the makers of Lysol and Dettol) has been asked whether internal administration of disinfectants may be appropriate for investigation or use as a treatment for coronavirus.
 
 As a global leader in health and hygiene products, we must be clear that under no circumstance should our disinfectant products be administered into the human body (through injection, ingestion or any other route).
