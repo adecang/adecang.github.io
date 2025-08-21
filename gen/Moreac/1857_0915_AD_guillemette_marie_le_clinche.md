@@ -1,1 +1,0 @@
-TITLE=18570915_AD_guillemette_marie_0_le_clinche
